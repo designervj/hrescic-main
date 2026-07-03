@@ -1,97 +1,251 @@
 {
-  "metaTitle": { "en": "Tourism & Travel | Hrescic", "hr": "Turizam i Putovanja | Hrescic" },
-  "metaDescription": { "en": "Tourism & travel brands need more than campaigns. They need clarity that converts.", "hr": "Turistički brendovi trebaju više od kampanja. Trebaju jasnoću koja pretvara." },
-  "theme": {
-    "bgColor": "#00353A",
-    "accentColor": "#05C4D9",
-    "buttonColor": "#3EDA00",
-    "buttonTextColor": "#003C42",
-    "textColor": "#00353A",
-    "sectionBg": "#F8F8F8",
-    "growthBg": "#00646E",
-    "growthPanelBg": "#F5F1EF",
-    "structureCardBg": "#F5F1EF"
+  "title": {
+    "en": "Tourism & Travel | Hrescic",
+    "hr": "Turizam i Putovanja | Hrescic"
   },
-  "hero": {
-    "breadcrumb": { "en": "Who We Create For", "hr": "Za Koga Stvaramo" },
-    "breadcrumbLabel": { "en": "Tourism & Travel", "hr": "Turizam i Putovanja" },
-    "heading": { "en": "Tourism & Travel brands need more than campaigns. They need clarity that converts. Directly.", "hr": "Turistički brendovi trebaju više od kampanja. Trebaju jasnoću koja pretvara. Izravno." },
-    "subtext": { "en": "We help tourism and travel businesses stay visible, trusted and chosen, even in crowded, OTA-dominated markets. Not by adding noise, but by making the value obvious at the moment of decision.", "hr": "Pomažemo turističkim tvrtkama da ostanu vidljive, pouzdane i odabrane, čak i na prenapučenim tržištima. Ne dodavanjem buke, već čineći vrijednost očitom u trenutku odluke." },
-    "button1Text": { "en": "Book a tourism strategy call", "hr": "Rezervirajte poziv za turističku strategiju" },
-    "button1Href": "/lets-talk#demo",
-    "button2Text": { "en": "Ask about direct booking growth", "hr": "Pitajte o rastu izravnih rezervacija" },
-    "button2Href": "/lets-talk#ask",
-    "image": "/assets/Image/tourism-hero.png"
+  "slug": "who-we-create-for/tourism-travel",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Tourism & Travel | Hrescic",
+    "hr": "Turizam i Putovanja | Hrescic"
   },
-  "reality": {
-    "heading": { "en": "The reality of tourism & travel today", "hr": "Stvarnost turizma danas" },
-    "subtext": { "en": "People browse, compare your offer with dozens of similar listings, and leave without booking.", "hr": "Ljudi pregledavaju, uspoređuju vašu ponudu s desecima sličnih i odlaze bez rezervacije." },
-    "whyHeading": { "en": "Why it happens?", "hr": "Zašto se događa?" },
-    "whyText": { "en": "Your brand and digital presence may look 'nice', but it doesn't clearly communicate why you're the better choice, fast enough.", "hr": "Vaš brend i digitalna prisutnost možda izgledaju 'lijepo', ali ne komuniciraju jasno zašto ste bolji izbor, dovoljno brzo." },
-    "whatHeading": { "en": "What this creates?", "hr": "Što ovo stvara?" },
-    "issues": [
-      { "en": "Heavy OTA dependency", "hr": "Velika ovisnost o OTA" },
-      { "en": "Price-based competition", "hr": "Natjecanje temeljeno na cijeni" },
-      { "en": "Low brand recall", "hr": "Niska prepoznatljivost brenda" },
-      { "en": "Missed direct revenue opportunities", "hr": "Propuštene prilike za izravni prihod" }
-    ]
+  "metaDescription": {
+    "en": "Tourism & travel brands need more than campaigns. They need clarity that converts.",
+    "hr": "Turistički brendovi trebaju više od kampanja. Trebaju jasnoću koja pretvara."
   },
-  "growth": {
-    "heading": { "en": "What actually drives growth in tourism", "hr": "Što zapravo pokreće rast u turizmu" },
-    "text": { "en": "Tourism growth doesn't come from more content or louder campaigns. It comes from clarity at the moment of decision, when guests are comparing, hesitating and choosing.", "hr": "Rast u turizmu ne dolazi od više sadržaja ili glasnijih kampanja. Dolazi od jasnoće u trenutku odluke, kada gosti uspoređuju, oklijevaju i biraju." },
-    "image": "/assets/Image/tourism-growth.png",
-    "scaleHeading": { "en": "Tourism brands grow when they have:", "hr": "Turistički brendovi rastu kada imaju:" },
-    "scaleItems": [
-      { "en": "A clear position guests instantly understand", "hr": "Jasan položaj koji gosti odmah razumiju" },
-      { "en": "A website that sells value, not just availability", "hr": "Web stranicu koja prodaje vrijednost, ne samo dostupnost" },
-      { "en": "Messaging that reduces hesitation and comparison", "hr": "Poruke koje smanjuju oklijevanje i uspoređivanje" },
-      { "en": "A system that supports direct bookings over time", "hr": "Sustav koji podržava izravne rezervacije tijekom vremena" }
-    ],
-    "quote": { "en": "That's what we build, by aligning brand, digital and content into one coherent tourism system.", "hr": "To je ono što gradimo, usklađivanjem brenda, digitala i sadržaja u jedan koherentni turistički sustav." }
-  },
-  "cases": {
-    "heading": { "en": "How this works in real tourism businesses", "hr": "Kako ovo funkcionira u stvarnim turističkim tvrtkama" },
-    "subheading": { "en": "(My Rent - Case Study):", "hr": "(My Rent - Studija slučaja):" },
-    "cards": [
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Intro", "hr": "Uvod" },
-        "text": { "en": "Example of how clarity transforms growth in a complex tourism ecosystem.", "hr": "Primjer kako jasnoća transformira rast u složenom turističkom ekosustavu." },
-        "image": "/assets/Image/tourism-case-study.png",
-        "bg": "bg-[#003C42]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Headline", "hr": "Naslov" },
-        "text": { "en": "Building clarity at scale: How MyRent turned complexity into a growth system", "hr": "Izgradnja jasnoće u velikom mjerilu: Kako je MyRent pretvorio složenost u sustav rasta" },
-        "image": "/assets/Image/tourism-brand-img1.png",
-        "bg": "bg-[#003C42]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Summary", "hr": "Sažetak" },
-        "text": { "en": "MyRent operates within a highly complex tourism ecosystem with multiple user types and services. The challenge wasn't building more, it was creating clarity within complexity.", "hr": "MyRent djeluje unutar vrlo složenog turističkog ekosustava s više vrsta korisnika i usluga. Izazov nije bio graditi više, već stvoriti jasnoću unutar složenosti." },
-        "image": "/assets/Image/tourism-brand-img2.png",
-        "bg": "bg-[#003C42]"
+  "content": [
+    {
+      "id": "tourism-travel-page",
+      "type": "industry-page",
+      "layout": "default",
+      "adminTitle": "Industry Page - Tourism Travel",
+      "props": {
+        "theme": {
+          "bgColor": "#00353A",
+          "accentColor": "#05C4D9",
+          "buttonColor": "#3EDA00",
+          "buttonTextColor": "#003C42",
+          "textColor": "#00353A",
+          "sectionBg": "#F8F8F8",
+          "growthBg": "#00646E",
+          "growthPanelBg": "#F5F1EF",
+          "structureCardBg": "#F5F1EF"
+        },
+        "hero": {
+          "breadcrumb": {
+            "en": "Who We Create For",
+            "hr": "Za Koga Stvaramo"
+          },
+          "breadcrumbLabel": {
+            "en": "Tourism & Travel",
+            "hr": "Turizam i Putovanja"
+          },
+          "heading": {
+            "en": "Tourism & Travel brands need more than campaigns. They need clarity that converts. Directly.",
+            "hr": "Turistički brendovi trebaju više od kampanja. Trebaju jasnoću koja pretvara. Izravno."
+          },
+          "subtext": {
+            "en": "We help tourism and travel businesses stay visible, trusted and chosen, even in crowded, OTA-dominated markets. Not by adding noise, but by making the value obvious at the moment of decision.",
+            "hr": "Pomažemo turističkim tvrtkama da ostanu vidljive, pouzdane i odabrane, čak i na prenapučenim tržištima. Ne dodavanjem buke, već čineći vrijednost očitom u trenutku odluke."
+          },
+          "button1Text": {
+            "en": "Book a tourism strategy call",
+            "hr": "Rezervirajte poziv za turističku strategiju"
+          },
+          "button1Href": "/lets-talk#demo",
+          "button2Text": {
+            "en": "Ask about direct booking growth",
+            "hr": "Pitajte o rastu izravnih rezervacija"
+          },
+          "button2Href": "/lets-talk#ask",
+          "image": "/assets/Image/tourism-hero.png"
+        },
+        "reality": {
+          "heading": {
+            "en": "The reality of tourism & travel today",
+            "hr": "Stvarnost turizma danas"
+          },
+          "subtext": {
+            "en": "People browse, compare your offer with dozens of similar listings, and leave without booking.",
+            "hr": "Ljudi pregledavaju, uspoređuju vašu ponudu s desecima sličnih i odlaze bez rezervacije."
+          },
+          "whyHeading": {
+            "en": "Why it happens?",
+            "hr": "Zašto se događa?"
+          },
+          "whyText": {
+            "en": "Your brand and digital presence may look 'nice', but it doesn't clearly communicate why you're the better choice, fast enough.",
+            "hr": "Vaš brend i digitalna prisutnost možda izgledaju 'lijepo', ali ne komuniciraju jasno zašto ste bolji izbor, dovoljno brzo."
+          },
+          "whatHeading": {
+            "en": "What this creates?",
+            "hr": "Što ovo stvara?"
+          },
+          "issues": [
+            {
+              "en": "Heavy OTA dependency",
+              "hr": "Velika ovisnost o OTA"
+            },
+            {
+              "en": "Price-based competition",
+              "hr": "Natjecanje temeljeno na cijeni"
+            },
+            {
+              "en": "Low brand recall",
+              "hr": "Niska prepoznatljivost brenda"
+            },
+            {
+              "en": "Missed direct revenue opportunities",
+              "hr": "Propuštene prilike za izravni prihod"
+            }
+          ]
+        },
+        "growth": {
+          "heading": {
+            "en": "What actually drives growth in tourism",
+            "hr": "Što zapravo pokreće rast u turizmu"
+          },
+          "text": {
+            "en": "Tourism growth doesn't come from more content or louder campaigns. It comes from clarity at the moment of decision, when guests are comparing, hesitating and choosing.",
+            "hr": "Rast u turizmu ne dolazi od više sadržaja ili glasnijih kampanja. Dolazi od jasnoće u trenutku odluke, kada gosti uspoređuju, oklijevaju i biraju."
+          },
+          "image": "/assets/Image/tourism-growth.png",
+          "scaleHeading": {
+            "en": "Tourism brands grow when they have:",
+            "hr": "Turistički brendovi rastu kada imaju:"
+          },
+          "scaleItems": [
+            {
+              "en": "A clear position guests instantly understand",
+              "hr": "Jasan položaj koji gosti odmah razumiju"
+            },
+            {
+              "en": "A website that sells value, not just availability",
+              "hr": "Web stranicu koja prodaje vrijednost, ne samo dostupnost"
+            },
+            {
+              "en": "Messaging that reduces hesitation and comparison",
+              "hr": "Poruke koje smanjuju oklijevanje i uspoređivanje"
+            },
+            {
+              "en": "A system that supports direct bookings over time",
+              "hr": "Sustav koji podržava izravne rezervacije tijekom vremena"
+            }
+          ],
+          "quote": {
+            "en": "That's what we build, by aligning brand, digital and content into one coherent tourism system.",
+            "hr": "To je ono što gradimo, usklađivanjem brenda, digitala i sadržaja u jedan koherentni turistički sustav."
+          }
+        },
+        "cases": {
+          "heading": {
+            "en": "How this works in real tourism businesses",
+            "hr": "Kako ovo funkcionira u stvarnim turističkim tvrtkama"
+          },
+          "subheading": {
+            "en": "(My Rent - Case Study):",
+            "hr": "(My Rent - Studija slučaja):"
+          },
+          "cards": [
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Intro",
+                "hr": "Uvod"
+              },
+              "text": {
+                "en": "Example of how clarity transforms growth in a complex tourism ecosystem.",
+                "hr": "Primjer kako jasnoća transformira rast u složenom turističkom ekosustavu."
+              },
+              "image": "/assets/Image/tourism-case-study.png",
+              "bg": "bg-[#003C42]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Headline",
+                "hr": "Naslov"
+              },
+              "text": {
+                "en": "Building clarity at scale: How MyRent turned complexity into a growth system",
+                "hr": "Izgradnja jasnoće u velikom mjerilu: Kako je MyRent pretvorio složenost u sustav rasta"
+              },
+              "image": "/assets/Image/tourism-brand-img1.png",
+              "bg": "bg-[#003C42]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Summary",
+                "hr": "Sažetak"
+              },
+              "text": {
+                "en": "MyRent operates within a highly complex tourism ecosystem with multiple user types and services. The challenge wasn't building more, it was creating clarity within complexity.",
+                "hr": "MyRent djeluje unutar vrlo složenog turističkog ekosustava s više vrsta korisnika i usluga. Izazov nije bio graditi više, već stvoriti jasnoću unutar složenosti."
+              },
+              "image": "/assets/Image/tourism-brand-img2.png",
+              "bg": "bg-[#003C42]"
+            }
+          ],
+          "ctaText": {
+            "en": "See how clarity drives growth in tourism",
+            "hr": "Pogledajte kako jasnoća pokreće rast u turizmu"
+          },
+          "ctaHref": "/who-we-create-for/myrent"
+        },
+        "structure": {
+          "heading": {
+            "en": "Why clarity beats campaigns in tourism?",
+            "hr": "Zašto jasnoća pobjeđuje kampanje u turizmu?"
+          },
+          "text": {
+            "en": "Tourism brands don't lose because they lack effort. They lose because complexity hides their value.",
+            "hr": "Turistički brendovi ne gube jer im nedostaje truda. Gube jer složenost skriva njihovu vrijednost."
+          },
+          "accentText": {
+            "en": "we design one clear system where brand, website and messaging work together,",
+            "hr": "dizajniramo jedan jasan sustav gdje brend, web stranica i poruke rade zajedno,"
+          },
+          "fullText": {
+            "en": "Instead of optimizing isolated elements, we design one clear system where brand, website and messaging work together, across seasons, markets and growth phases.",
+            "hr": "Umjesto optimiziranja izoliranih elemenata, dizajniramo jedan jasan sustav gdje brend, web stranica i poruke rade zajedno, kroz sezone, tržišta i faze rasta."
+          },
+          "bottomText": {
+            "en": "That's how attention turns into trust, and trust into direct bookings.",
+            "hr": "Tako se pažnja pretvara u povjerenje, a povjerenje u izravne rezervacije."
+          },
+          "image": "/assets/Image/tourism-brand-img.png"
+        },
+        "cta": {
+          "heading": {
+            "en": "Ready to build a tourism system that turns attention into bookings?",
+            "hr": "Spremni izgraditi turistički sustav koji pretvara pažnju u rezervacije?"
+          },
+          "subtext": {
+            "en": "Ready to build a tourism system that turns attention into bookings?",
+            "hr": "Spremni izgraditi turistički sustav koji pretvara pažnju u rezervacije?"
+          },
+          "button1Text": {
+            "en": "Book a tourism strategy call",
+            "hr": "Rezervirajte poziv za turističku strategiju"
+          },
+          "button1Href": "/lets-talk#demo",
+          "button2Text": {
+            "en": "Ask about direct booking growth",
+            "hr": "Pitajte o rastu izravnih rezervacija"
+          },
+          "button2Href": "/lets-talk#ask"
+        }
       }
-    ],
-    "ctaText": { "en": "See how clarity drives growth in tourism", "hr": "Pogledajte kako jasnoća pokreće rast u turizmu" },
-    "ctaHref": "/who-we-create-for/myrent"
-  },
-  "structure": {
-    "heading": { "en": "Why clarity beats campaigns in tourism?", "hr": "Zašto jasnoća pobjeđuje kampanje u turizmu?" },
-    "text": { "en": "Tourism brands don't lose because they lack effort. They lose because complexity hides their value.", "hr": "Turistički brendovi ne gube jer im nedostaje truda. Gube jer složenost skriva njihovu vrijednost." },
-    "accentText": { "en": "we design one clear system where brand, website and messaging work together,", "hr": "dizajniramo jedan jasan sustav gdje brend, web stranica i poruke rade zajedno," },
-    "fullText": { "en": "Instead of optimizing isolated elements, we design one clear system where brand, website and messaging work together, across seasons, markets and growth phases.", "hr": "Umjesto optimiziranja izoliranih elemenata, dizajniramo jedan jasan sustav gdje brend, web stranica i poruke rade zajedno, kroz sezone, tržišta i faze rasta." },
-    "bottomText": { "en": "That's how attention turns into trust, and trust into direct bookings.", "hr": "Tako se pažnja pretvara u povjerenje, a povjerenje u izravne rezervacije." },
-    "image": "/assets/Image/tourism-brand-img.png"
-  },
-  "cta": {
-    "heading": { "en": "Ready to build a tourism system that turns attention into bookings?", "hr": "Spremni izgraditi turistički sustav koji pretvara pažnju u rezervacije?" },
-    "subtext": { "en": "Ready to build a tourism system that turns attention into bookings?", "hr": "Spremni izgraditi turistički sustav koji pretvara pažnju u rezervacije?" },
-    "button1Text": { "en": "Book a tourism strategy call", "hr": "Rezervirajte poziv za turističku strategiju" },
-    "button1Href": "/lets-talk#demo",
-    "button2Text": { "en": "Ask about direct booking growth", "hr": "Pitajte o rastu izravnih rezervacija" },
-    "button2Href": "/lets-talk#ask"
-  }
+    }
+  ]
 }

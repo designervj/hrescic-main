@@ -1,40 +1,86 @@
 {
-  "metaTitle": { "en": "Navada Case Study | Hrescic", "hr": "Navada Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "A brand woven with tradition and heritage. Shaping the name and visual soul of the coffee brand.", "hr": "Brend protkan tradicijom i baštinom. Oblikovanje imena i vizualne duše brenda kave." },
-  "type": "navada",
-  "hero": {
-    "breadcrumbLabel": { "en": "Work", "hr": "Rad" },
-    "breadcrumbSub": { "en": "Copyright, Branding, & Package Design", "hr": "Autorska prava, Brendiranje i Dizajn pakiranja" },
-    "logo": "/assets/Image/navada-custom-image.svg",
-    "heading": { "en": "A brand woven with tradition and heritage.", "hr": "Brend protkan tradicijom i baštinom." },
-    "subtext": { "en": "A quiet gratitude for being there at the beginning, shaping both the name and the visual soul of the coffee brand.", "hr": "Tiha zahvalnost što smo bili tamo na početku, oblikujući i ime i vizualnu dušu brenda kave." },
-    "image": "/assets/Image/navada-hero.png"
+  "title": {
+    "en": "Navada Case Study | Hrescic",
+    "hr": "Navada Studija Slučaja | Hrescic"
   },
-  "dictionary": {
-    "text": {
-      "en": "'NAVADA' - meaning: noun, feminine (Gen. sg. navade; pl. Nom. navade, Gen. navada) archaic: a custom; a way of life, work, or behavior that has become established within a human community and is transmitted from generation to generation. The term was accepted by the client as a brand name.",
-      "hr": "'NAVADA' - značenje: imenica, ženski rod (Gen. jd. navade; mn. Nom. navade, Gen. navada) arhaično: običaj; način života, rada ili ponašanja koji se ustalio u ljudskoj zajednici i prenosi se s koljena na koljeno. Izraz je klijent prihvatio kao naziv brenda."
-    },
-    "image": "/assets/Image/navada.svg"
+  "slug": "who-we-create-for/navada",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Navada Case Study | Hrescic",
+    "hr": "Navada Studija Slučaja | Hrescic"
   },
-  "gate": {
-    "image1": "/assets/Image/navada-img.png",
-    "text": {
-      "en": "The custom illustration 'Vrata Samobora' (The Gate of Samobor) by NAVADA brings together recognizable motifs of Samobor in a single composition. An arched gateway opens onto views of the Secession-style concrete bridge over the Gradna creek, the Church of St. Anastasia, and the fountain from King Tomislav Square, forming a visual narrative that connects tradition with the town's architectural symbols.",
-      "hr": "Prilagođena ilustracija 'Vrata Samobora' tvrtke NAVADA objedinjuje prepoznatljive motive Samobora u jedinstvenu kompoziciju. Lučni prolaz otvara se prema pogledu na secesijski betonski most preko potoka Gradne, crkvu sv. Anastazije i fontanu s Trga kralja Tomislava, tvoreći vizualni narativ koji povezuje tradiciju s arhitektonskim simbolima grada."
-    },
-    "image2": "/assets/Image/samobar-logo.svg"
+  "metaDescription": {
+    "en": "A brand woven with tradition and heritage. Shaping the name and visual soul of the coffee brand.",
+    "hr": "Brend protkan tradicijom i baštinom. Oblikovanje imena i vizualne duše brenda kave."
   },
-  "fonts": {
-    "heading": { "en": "Fonts:", "hr": "Fontovi:" },
-    "primary": { "en": "Primary Typography: Bangla MN - Regular - Font", "hr": "Primarna tipografija: Bangla MN - Regular - Font" },
-    "secondary": { "en": "Secondary Typography: Noto Serif - Regular - Font", "hr": "Sekundarna tipografija: Noto Serif - Regular - Font" }
-  },
-  "gallery": {
-    "subtext": { "en": "Julie Huebn: 'Samobor after a Photograph', lithograph, 1860 (from the I. Sudnik collection)", "hr": "Julie Huebn: 'Samobor prema fotografiji', litografija, 1860. (iz zbirke I. Sudnika)" },
-    "image1": "/assets/Image/navada-gallery-img.png",
-    "image2": "/assets/Image/navada-gallery-img1.png",
-    "image3": "/assets/Image/navada-gallery-img3.png",
-    "image4": "/assets/Image/navada-gallery-img4.png"
-  }
+  "content": [
+    {
+      "id": "navada-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Navada",
+      "props": {
+        "type": "navada",
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Work",
+            "hr": "Rad"
+          },
+          "breadcrumbSub": {
+            "en": "Copyright, Branding, & Package Design",
+            "hr": "Autorska prava, Brendiranje i Dizajn pakiranja"
+          },
+          "logo": "/assets/Image/navada-custom-image.svg",
+          "heading": {
+            "en": "A brand woven with tradition and heritage.",
+            "hr": "Brend protkan tradicijom i baštinom."
+          },
+          "subtext": {
+            "en": "A quiet gratitude for being there at the beginning, shaping both the name and the visual soul of the coffee brand.",
+            "hr": "Tiha zahvalnost što smo bili tamo na početku, oblikujući i ime i vizualnu dušu brenda kave."
+          },
+          "image": "/assets/Image/navada-hero.png"
+        },
+        "dictionary": {
+          "text": {
+            "en": "'NAVADA' - meaning: noun, feminine (Gen. sg. navade; pl. Nom. navade, Gen. navada) archaic: a custom; a way of life, work, or behavior that has become established within a human community and is transmitted from generation to generation. The term was accepted by the client as a brand name.",
+            "hr": "'NAVADA' - značenje: imenica, ženski rod (Gen. jd. navade; mn. Nom. navade, Gen. navada) arhaično: običaj; način života, rada ili ponašanja koji se ustalio u ljudskoj zajednici i prenosi se s koljena na koljeno. Izraz je klijent prihvatio kao naziv brenda."
+          },
+          "image": "/assets/Image/navada.svg"
+        },
+        "gate": {
+          "image1": "/assets/Image/navada-img.png",
+          "text": {
+            "en": "The custom illustration 'Vrata Samobora' (The Gate of Samobor) by NAVADA brings together recognizable motifs of Samobor in a single composition. An arched gateway opens onto views of the Secession-style concrete bridge over the Gradna creek, the Church of St. Anastasia, and the fountain from King Tomislav Square, forming a visual narrative that connects tradition with the town's architectural symbols.",
+            "hr": "Prilagođena ilustracija 'Vrata Samobora' tvrtke NAVADA objedinjuje prepoznatljive motive Samobora u jedinstvenu kompoziciju. Lučni prolaz otvara se prema pogledu na secesijski betonski most preko potoka Gradne, crkvu sv. Anastazije i fontanu s Trga kralja Tomislava, tvoreći vizualni narativ koji povezuje tradiciju s arhitektonskim simbolima grada."
+          },
+          "image2": "/assets/Image/samobar-logo.svg"
+        },
+        "fonts": {
+          "heading": {
+            "en": "Fonts:",
+            "hr": "Fontovi:"
+          },
+          "primary": {
+            "en": "Primary Typography: Bangla MN - Regular - Font",
+            "hr": "Primarna tipografija: Bangla MN - Regular - Font"
+          },
+          "secondary": {
+            "en": "Secondary Typography: Noto Serif - Regular - Font",
+            "hr": "Sekundarna tipografija: Noto Serif - Regular - Font"
+          }
+        },
+        "gallery": {
+          "subtext": {
+            "en": "Julie Huebn: 'Samobor after a Photograph', lithograph, 1860 (from the I. Sudnik collection)",
+            "hr": "Julie Huebn: 'Samobor prema fotografiji', litografija, 1860. (iz zbirke I. Sudnika)"
+          },
+          "image1": "/assets/Image/navada-gallery-img.png",
+          "image2": "/assets/Image/navada-gallery-img1.png",
+          "image3": "/assets/Image/navada-gallery-img3.png",
+          "image4": "/assets/Image/navada-gallery-img4.png"
+        }
+      }
+    }
+  ]
 }

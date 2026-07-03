@@ -1,157 +1,347 @@
 {
-  "metaTitle": { "en": "Coaching.com Case Study | Hrescic", "hr": "Coaching.com Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "How Coaching.com unified separate products into one cohesive ecosystem through shared design and structure.", "hr": "Kako je Coaching.com ujedinio odvojene proizvode u jedan kohezivan ekosustav kroz zajednički dizajn i strukturu." },
-  "type": "cdc",
-  "theme": {
-    "heroBg": "#F8EDF2",
-    "heroTextColor": "#3D3A55",
-    "heroLogo": "/assets/Image/cdc-logo.svg",
-    "heroLogoText": "coaching.com",
-    "heroTitleGradient": "linear-gradient(90deg, #5E1DE1 0%, #7E2BFF 40%, #B327FF 72%, #FF2D9B 100%)",
-    "accentColor": "#5E1DE1",
-    "buttonColor": "#5E1DE1",
-    "buttonTextColor": "#FFFFFF"
+  "title": {
+    "en": "Coaching.com Case Study | Hrescic",
+    "hr": "Coaching.com Studija Slučaja | Hrescic"
   },
-  "hero": {
-    "breadcrumbLabel": { "en": "Case Study", "hr": "Studija Slučaja" },
-    "breadcrumbSub": { "en": "e-Learning", "hr": "E-Učenje" },
-    "heading": { "en": "What started as separate products evolved into one cohesive ecosystem.", "hr": "Ono što je počelo kao odvojeni proizvodi evoluiralo je u jedan kohezivan ekosustav." },
-    "subtext": { "en": "Enabling Coaching.com to scale education, software, and marketplace services through a unified brand and operational system.", "hr": "Omogućavanje Coaching.com-u da skalira obrazovanje, softver i marketplace usluge kroz ujedinjeni brend i operativni sustav." },
-    "image": "/assets/Image/CDC-hero-img.png",
-    "tabs": [
-      { "label": { "en": "The Challenge", "hr": "Izazov" }, "target": "#challenge" },
-      { "label": { "en": "The Goals of Collaboration", "hr": "Ciljevi suradnje" }, "target": "#goals" },
-      { "label": { "en": "Our Strategic Role", "hr": "Strateška uloga" }, "target": "#role" },
-      { "label": { "en": "The Results", "hr": "Rezultati" }, "target": "#results" }
-    ]
+  "slug": "who-we-create-for/cdc",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Coaching.com Case Study | Hrescic",
+    "hr": "Coaching.com Studija Slučaja | Hrescic"
   },
-  "appreciation": {
-    "heading": {
-      "en": "With appreciation for the journey, providing creative direction services for Coaching.com gave me the privilege of working closely with some of the world's leading thought leaders, academic professors, and business professionals.",
-      "hr": "Uz zahvalnost na ovom putovanju, pružanje usluga kreativnog usmjerenja za Coaching.com dalo mi je privilegiju bliske suradnje s nekim od vodećih svjetskih stručnjaka, akademskih profesora i poslovnih profesionalaca."
-    },
-    "text1": {
-      "en": "Through interviews and direct collaboration, I was able to learn directly from their experience and perspectives, but just as importantly, I had the opportunity to work alongside exceptional people at every level. Many of those professional relationships grew into lasting friendships, and each collaboration left a meaningful mark on both my work and my life.",
-      "hr": "Kroz intervjue i izravnu suradnju, imao sam priliku učiti izravno iz njihovog iskustva i perspektiva, ali jednako važno, imao sam priliku raditi s iznimnim ljudima na svim razinama. Mnogi od tih profesionalnih odnosa prerasli su u trajna prijateljstva, a svaka suradnja ostavila je značajan trag u mom radu i životu."
-    },
-    "text2": {
-      "en": "All of these encounters contributed deeply to my professional and personal growth, and for that, I am sincerely grateful.",
-      "hr": "Svi ti susreti duboko su doprinijeli mom profesionalnom i osobnom rastu, i na tome sam iskreno zahvalan."
-    }
+  "metaDescription": {
+    "en": "How Coaching.com unified separate products into one cohesive ecosystem through shared design and structure.",
+    "hr": "Kako je Coaching.com ujedinio odvojene proizvode u jedan kohezivan ekosustav kroz zajednički dizajn i strukturu."
   },
-  "challenge": {
-    "heading": { "en": "The Challenge:", "hr": "Izazov:" },
-    "text": {
-      "en": "Coaching.com operated across three independently developed pillars: education programs, software, and marketplace services. Each pillar differed in structure, funnels, visual language, and delivery methods, while software and marketplace functionalities partially overlapped.",
-      "hr": "Coaching.com je djelovao kroz tri samostalno razvijena stupa: obrazovne programe, softver i usluge tržišta. Svaki se stup razlikovao po strukturi, prodajnim lijevcima, vizualnom jeziku i metodama isporuke, dok su se funkcionalnosti softvera i tržišta djelomično preklapale."
-    },
-    "image": "/assets/Image/CDC-cta-img.png",
-    "listHeading": {
-      "en": "Rather than enforcing rigid standardization, the approach focused on creating a shared foundation that allowed different products to evolve independently while remaining visually and structurally aligned.",
-      "hr": "Umjesto nametanja stroge standardizacije, pristup se usredotočio na stvaranje zajedničkog temelja koji je omogućio različitim proizvodima da se razvijaju neovisno, a da pritom ostanu vizualno i strukturno usklađeni."
-    },
-    "listItems": [
-      {
-        "en": "Defining a consistent design language across platforms and funnels.",
-        "hr": "Definiranje dosljednog jezika dizajna na svim platformama i lijevcima."
-      },
-      {
-        "en": "Aligning UX, brand, and content structures.",
-        "hr": "Usklađivanje UX-a, brenda i strukture sadržaja."
-      },
-      {
-        "en": "Standardizing educational content and video production workflows.",
-        "hr": "Standardizacija obrazovnog sadržaja i tijeka rada video produkcije."
-      },
-      {
-        "en": "Creating scalable systems that support long-term growth.",
-        "hr": "Stvaranje skalabilnih sustava koji podržavaju dugoročni rast."
-      }
-    ]
-  },
-  "resultsIntro": {
-    "heading": { "en": "The Result", "hr": "Rezultat" },
-    "subheading": {
-      "en": "Below is the UX & UI presentation of the three key areas: Platform Website, Summit & Program Funnel Pages, and Program Delivery System.",
-      "hr": "Ispod je prezentacija UX-a i UI-ja za tri ključna područja: web stranica platforme, summit i stranice lijevka programa te sustav isporuke programa."
-    }
-  },
-  "platform": {
-    "heading": { "en": "Platform website", "hr": "Web stranica platforme" },
-    "text1": {
-      "en": "The objective of the Coaching.com website redesign was to establish a unified design system that supports the platform's long-term product strategy.",
-      "hr": "Cilj redizajna web stranice Coaching.com bio je uspostaviti jedinstveni sustav dizajna koji podržava dugoročnu strategiju proizvoda platforme."
-    },
-    "text2": {
-      "en": "The goal was to create a web-design concept that aligns three core business offerings – Coaching Software, Education Hub, and Coaches Marketplace – into a single, coherent ecosystem.",
-      "hr": "Cilj je bio kreirati koncept web dizajna koji objedinjuje tri ključne poslovne ponude – softver za coaching, obrazovno središte i tržište trenera – u jedan koherentan ekosustav."
-    },
-    "images": {
-      "big": "/assets/Image/platform-img.png",
-      "small1": "/assets/Image/platform-img2.png",
-      "small2": "/assets/Image/platform-img1.png"
-    },
-    "navigation": {
-      "title": { "en": "Website Navigation", "hr": "Navigacija web stranice" },
-      "columns": [
-        {
-          "title": { "en": "Education", "hr": "E-Učenje" },
-          "items": [
-            { "label": { "en": "Membership", "hr": "Članstvo" }, "icon": "navigations-icon (2).svg" },
-            { "label": { "en": "Masterclass", "hr": "Masterclass" }, "icon": "navigations-icon (1).svg" },
-            { "label": { "en": "Programs", "hr": "Programi" }, "icon": "navigations-icon (18).svg" },
-            { "label": { "en": "Community", "hr": "Zajednica" }, "icon": "navigations-icon (14).svg" },
-            { "label": { "en": "Events", "hr": "Događaji" }, "icon": "navigations-icon (13).svg" }
+  "content": [
+    {
+      "id": "cdc-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Cdc",
+      "props": {
+        "type": "cdc",
+        "theme": {
+          "heroBg": "#F8EDF2",
+          "heroTextColor": "#3D3A55",
+          "heroLogo": "/assets/Image/cdc-logo.svg",
+          "heroLogoText": "coaching.com",
+          "heroTitleGradient": "linear-gradient(90deg, #5E1DE1 0%, #7E2BFF 40%, #B327FF 72%, #FF2D9B 100%)",
+          "accentColor": "#5E1DE1",
+          "buttonColor": "#5E1DE1",
+          "buttonTextColor": "#FFFFFF"
+        },
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Case Study",
+            "hr": "Studija Slučaja"
+          },
+          "breadcrumbSub": {
+            "en": "e-Learning",
+            "hr": "E-Učenje"
+          },
+          "heading": {
+            "en": "What started as separate products evolved into one cohesive ecosystem.",
+            "hr": "Ono što je počelo kao odvojeni proizvodi evoluiralo je u jedan kohezivan ekosustav."
+          },
+          "subtext": {
+            "en": "Enabling Coaching.com to scale education, software, and marketplace services through a unified brand and operational system.",
+            "hr": "Omogućavanje Coaching.com-u da skalira obrazovanje, softver i marketplace usluge kroz ujedinjeni brend i operativni sustav."
+          },
+          "image": "/assets/Image/CDC-hero-img.png",
+          "tabs": [
+            {
+              "label": {
+                "en": "The Challenge",
+                "hr": "Izazov"
+              },
+              "target": "#challenge"
+            },
+            {
+              "label": {
+                "en": "The Goals of Collaboration",
+                "hr": "Ciljevi suradnje"
+              },
+              "target": "#goals"
+            },
+            {
+              "label": {
+                "en": "Our Strategic Role",
+                "hr": "Strateška uloga"
+              },
+              "target": "#role"
+            },
+            {
+              "label": {
+                "en": "The Results",
+                "hr": "Rezultati"
+              },
+              "target": "#results"
+            }
           ]
         },
-        {
-          "title": { "en": "Software", "hr": "Softver" },
-          "items": [
-            { "label": { "en": "Core Features", "hr": "Glavne značajke" }, "icon": "navigations-icon (12).svg" },
-            { "label": { "en": "Data and Reporting", "hr": "Podaci i izvješća" }, "icon": "navigations-icon (3).svg" },
-            { "label": { "en": "Professional Services", "hr": "Profesionalne usluge" }, "icon": "navigations-icon (11).svg" },
-            { "label": { "en": "Pricing for Business", "hr": "Cijene za tvrtke" }, "icon": "navigations-icon (10).svg" }
+        "appreciation": {
+          "heading": {
+            "en": "With appreciation for the journey, providing creative direction services for Coaching.com gave me the privilege of working closely with some of the world's leading thought leaders, academic professors, and business professionals.",
+            "hr": "Uz zahvalnost na ovom putovanju, pružanje usluga kreativnog usmjerenja za Coaching.com dalo mi je privilegiju bliske suradnje s nekim od vodećih svjetskih stručnjaka, akademskih profesora i poslovnih profesionalaca."
+          },
+          "text1": {
+            "en": "Through interviews and direct collaboration, I was able to learn directly from their experience and perspectives, but just as importantly, I had the opportunity to work alongside exceptional people at every level. Many of those professional relationships grew into lasting friendships, and each collaboration left a meaningful mark on both my work and my life.",
+            "hr": "Kroz intervjue i izravnu suradnju, imao sam priliku učiti izravno iz njihovog iskustva i perspektiva, ali jednako važno, imao sam priliku raditi s iznimnim ljudima na svim razinama. Mnogi od tih profesionalnih odnosa prerasli su u trajna prijateljstva, a svaka suradnja ostavila je značajan trag u mom radu i životu."
+          },
+          "text2": {
+            "en": "All of these encounters contributed deeply to my professional and personal growth, and for that, I am sincerely grateful.",
+            "hr": "Svi ti susreti duboko su doprinijeli mom profesionalnom i osobnom rastu, i na tome sam iskreno zahvalan."
+          }
+        },
+        "challenge": {
+          "heading": {
+            "en": "The Challenge:",
+            "hr": "Izazov:"
+          },
+          "text": {
+            "en": "Coaching.com operated across three independently developed pillars: education programs, software, and marketplace services. Each pillar differed in structure, funnels, visual language, and delivery methods, while software and marketplace functionalities partially overlapped.",
+            "hr": "Coaching.com je djelovao kroz tri samostalno razvijena stupa: obrazovne programe, softver i usluge tržišta. Svaki se stup razlikovao po strukturi, prodajnim lijevcima, vizualnom jeziku i metodama isporuke, dok su se funkcionalnosti softvera i tržišta djelomično preklapale."
+          },
+          "image": "/assets/Image/CDC-cta-img.png",
+          "listHeading": {
+            "en": "Rather than enforcing rigid standardization, the approach focused on creating a shared foundation that allowed different products to evolve independently while remaining visually and structurally aligned.",
+            "hr": "Umjesto nametanja stroge standardizacije, pristup se usredotočio na stvaranje zajedničkog temelja koji je omogućio različitim proizvodima da se razvijaju neovisno, a da pritom ostanu vizualno i strukturno usklađeni."
+          },
+          "listItems": [
+            {
+              "en": "Defining a consistent design language across platforms and funnels.",
+              "hr": "Definiranje dosljednog jezika dizajna na svim platformama i lijevcima."
+            },
+            {
+              "en": "Aligning UX, brand, and content structures.",
+              "hr": "Usklađivanje UX-a, brenda i strukture sadržaja."
+            },
+            {
+              "en": "Standardizing educational content and video production workflows.",
+              "hr": "Standardizacija obrazovnog sadržaja i tijeka rada video produkcije."
+            },
+            {
+              "en": "Creating scalable systems that support long-term growth.",
+              "hr": "Stvaranje skalabilnih sustava koji podržavaju dugoročni rast."
+            }
           ]
         },
-        {
-          "title": { "en": "Marketplace", "hr": "Tržište" },
-          "items": [
-            { "label": { "en": "List Your Coaching", "hr": "Uvrstite svoj coaching" }, "icon": "navigations-icon (9).svg" },
-            { "label": { "en": "List Your Company", "hr": "Uvrstite svoju tvrtku" }, "icon": "navigations-icon (8).svg" },
-            { "label": { "en": "Find a Coach", "hr": "Pronađite trenera" }, "icon": "navigations-icon (7).svg" }
+        "resultsIntro": {
+          "heading": {
+            "en": "The Result",
+            "hr": "Rezultat"
+          },
+          "subheading": {
+            "en": "Below is the UX & UI presentation of the three key areas: Platform Website, Summit & Program Funnel Pages, and Program Delivery System.",
+            "hr": "Ispod je prezentacija UX-a i UI-ja za tri ključna područja: web stranica platforme, summit i stranice lijevka programa te sustav isporuke programa."
+          }
+        },
+        "platform": {
+          "heading": {
+            "en": "Platform website",
+            "hr": "Web stranica platforme"
+          },
+          "text1": {
+            "en": "The objective of the Coaching.com website redesign was to establish a unified design system that supports the platform's long-term product strategy.",
+            "hr": "Cilj redizajna web stranice Coaching.com bio je uspostaviti jedinstveni sustav dizajna koji podržava dugoročnu strategiju proizvoda platforme."
+          },
+          "text2": {
+            "en": "The goal was to create a web-design concept that aligns three core business offerings – Coaching Software, Education Hub, and Coaches Marketplace – into a single, coherent ecosystem.",
+            "hr": "Cilj je bio kreirati koncept web dizajna koji objedinjuje tri ključne poslovne ponude – softver za coaching, obrazovno središte i tržište trenera – u jedan koherentan ekosustav."
+          },
+          "images": {
+            "big": "/assets/Image/platform-img.png",
+            "small1": "/assets/Image/platform-img2.png",
+            "small2": "/assets/Image/platform-img1.png"
+          },
+          "navigation": {
+            "title": {
+              "en": "Website Navigation",
+              "hr": "Navigacija web stranice"
+            },
+            "columns": [
+              {
+                "title": {
+                  "en": "Education",
+                  "hr": "E-Učenje"
+                },
+                "items": [
+                  {
+                    "label": {
+                      "en": "Membership",
+                      "hr": "Članstvo"
+                    },
+                    "icon": "navigations-icon (2).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Masterclass",
+                      "hr": "Masterclass"
+                    },
+                    "icon": "navigations-icon (1).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Programs",
+                      "hr": "Programi"
+                    },
+                    "icon": "navigations-icon (18).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Community",
+                      "hr": "Zajednica"
+                    },
+                    "icon": "navigations-icon (14).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Events",
+                      "hr": "Događaji"
+                    },
+                    "icon": "navigations-icon (13).svg"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Software",
+                  "hr": "Softver"
+                },
+                "items": [
+                  {
+                    "label": {
+                      "en": "Core Features",
+                      "hr": "Glavne značajke"
+                    },
+                    "icon": "navigations-icon (12).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Data and Reporting",
+                      "hr": "Podaci i izvješća"
+                    },
+                    "icon": "navigations-icon (3).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Professional Services",
+                      "hr": "Profesionalne usluge"
+                    },
+                    "icon": "navigations-icon (11).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Pricing for Business",
+                      "hr": "Cijene za tvrtke"
+                    },
+                    "icon": "navigations-icon (10).svg"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Marketplace",
+                  "hr": "Tržište"
+                },
+                "items": [
+                  {
+                    "label": {
+                      "en": "List Your Coaching",
+                      "hr": "Uvrstite svoj coaching"
+                    },
+                    "icon": "navigations-icon (9).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "List Your Company",
+                      "hr": "Uvrstite svoju tvrtku"
+                    },
+                    "icon": "navigations-icon (8).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Find a Coach",
+                      "hr": "Pronađite trenera"
+                    },
+                    "icon": "navigations-icon (7).svg"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Resources",
+                  "hr": "Resursi"
+                },
+                "items": [
+                  {
+                    "label": {
+                      "en": "Webinars",
+                      "hr": "Webinari"
+                    },
+                    "icon": "navigations-icon (1).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Podcast",
+                      "hr": "Podcast"
+                    },
+                    "icon": "navigations-icon (16).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "Blog",
+                      "hr": "Blog"
+                    },
+                    "icon": "navigations-icon (5).svg"
+                  },
+                  {
+                    "label": {
+                      "en": "E-Books",
+                      "hr": "E-Knjige"
+                    },
+                    "icon": "navigations-icon (4).svg"
+                  }
+                ]
+              }
+            ],
+            "ctaText": {
+              "en": "Join Our Global Community",
+              "hr": "Pridružite se našoj globalnoj zajednici"
+            },
+            "ctaHref": "/lets-talk#demo"
+          }
+        },
+        "grid": {
+          "title": {
+            "en": "12 Column Website Grid",
+            "hr": "Mreža web stranice od 12 stupaca"
+          },
+          "bottomText": {
+            "en": "The focus was on establishing a clear structural logic through custom graphic creations, shared design language, and flexible components that support different client needs while producing one coherent platform vision.",
+            "hr": "Fokus je bio na uspostavljanju jasne strukturne logike kroz prilagođene grafičke kreacije, zajednički jezik dizajna i fleksibilne komponente koje podržavaju različite potrebe klijenata stvarajući koherentnu viziju platforme."
+          },
+          "images": [
+            "/assets/Image/website-img.png",
+            "/assets/Image/website-img1.png"
           ]
         },
-        {
-          "title": { "en": "Resources", "hr": "Resursi" },
-          "items": [
-            { "label": { "en": "Webinars", "hr": "Webinari" }, "icon": "navigations-icon (1).svg" },
-            { "label": { "en": "Podcast", "hr": "Podcast" }, "icon": "navigations-icon (16).svg" },
-            { "label": { "en": "Blog", "hr": "Blog" }, "icon": "navigations-icon (5).svg" },
-            { "label": { "en": "E-Books", "hr": "E-Knjige" }, "icon": "navigations-icon (4).svg" }
-          ]
+        "summit": {
+          "title": {
+            "en": "Summit & Program Funnel",
+            "hr": "Summit i prodajni lijevak programa"
+          },
+          "image": "/assets/Image/website-img2.png"
+        },
+        "delivery": {
+          "title": {
+            "en": "Program Delivery",
+            "hr": "Isporuka programa"
+          },
+          "image": "/assets/Image/website-img3.png"
         }
-      ],
-      "ctaText": { "en": "Join Our Global Community", "hr": "Pridružite se našoj globalnoj zajednici" },
-      "ctaHref": "/lets-talk#demo"
+      }
     }
-  },
-  "grid": {
-    "title": { "en": "12 Column Website Grid", "hr": "Mreža web stranice od 12 stupaca" },
-    "bottomText": {
-      "en": "The focus was on establishing a clear structural logic through custom graphic creations, shared design language, and flexible components that support different client needs while producing one coherent platform vision.",
-      "hr": "Fokus je bio na uspostavljanju jasne strukturne logike kroz prilagođene grafičke kreacije, zajednički jezik dizajna i fleksibilne komponente koje podržavaju različite potrebe klijenata stvarajući koherentnu viziju platforme."
-    },
-    "images": [
-      "/assets/Image/website-img.png",
-      "/assets/Image/website-img1.png"
-    ]
-  },
-  "summit": {
-    "title": { "en": "Summit & Program Funnel", "hr": "Summit i prodajni lijevak programa" },
-    "image": "/assets/Image/website-img2.png"
-  },
-  "delivery": {
-    "title": { "en": "Program Delivery", "hr": "Isporuka programa" },
-    "image": "/assets/Image/website-img3.png"
-  }
+  ]
 }

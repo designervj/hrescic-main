@@ -1,9 +1,10 @@
 "use client";
 
 import { Mail, Phone, MapPin } from "lucide-react";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import EditableText from "@/components/shared/EditableText";
 import { useEditable } from "@/lib/store/pages/useEditable";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 interface ContactInfoProps {
   email: string;

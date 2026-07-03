@@ -1,27 +1,52 @@
 {
-  "metaTitle": { "en": "EXO - Life and Beyond | Hrescic", "hr": "EXO - Life and Beyond | Hrescic" },
+  "title": {
+    "en": "EXO - Life and Beyond | Hrescic",
+    "hr": "EXO - Life and Beyond | Hrescic"
+  },
+  "slug": "who-we-create-for/expo-life-far-beyond",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "EXO - Life and Beyond | Hrescic",
+    "hr": "EXO - Life and Beyond | Hrescic"
+  },
   "metaDescription": {
     "en": "Creative & video direction, and storyboard for EXO - Life and Beyond in cooperation with HrvojeKF.",
     "hr": "Kreativno i video usmjeravanje te knjiga snimanja za EXO - Life and Beyond u suradnji s HrvojeKF."
   },
-  "type": "expo",
-  "breadcrumb": { "en": "Work", "hr": "Rad" },
-  "breadcrumbSub": {
-    "en": "Creative & video direction, and storyboard in cooperation with HrvojeKF",
-    "hr": "Kreativno i video usmjeravanje te knjiga snimanja u suradnji s HrvojeKF"
-  },
-  "heading": {
-    "en": "The packaging served as the initial reference point; the full visual direction and all supporting assets were developed and produced in my studio.",
-    "hr": "Pakiranje je poslužilo kao početna referentna točka; cjelokupno vizualno usmjerenje i svi popratni materijali razvijeni su i proizvedeni u mom studiju."
-  },
-  "image": "/assets/Image/Rectangle 1796.png",
-  "video": {
-    "thumbnail": "/assets/Image/exo-bird-flight.png",
-    "youtubeId": "t_Uk41--0Hw",
-    "title": { "en": "EXO - Life and Beyond", "hr": "EXO - Life and Beyond" },
-    "subtext": {
-      "en": "Creative & video direction, and storyboard in cooperation with HrvojeKF",
-      "hr": "Kreativno i video usmjeravanje te knjiga snimanja u suradnji s HrvojeKF"
+  "content": [
+    {
+      "id": "expo-life-far-beyond-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Expo Life Far Beyond",
+      "props": {
+        "type": "expo",
+        "breadcrumb": {
+          "en": "Work",
+          "hr": "Rad"
+        },
+        "breadcrumbSub": {
+          "en": "Creative & video direction, and storyboard in cooperation with HrvojeKF",
+          "hr": "Kreativno i video usmjeravanje te knjiga snimanja u suradnji s HrvojeKF"
+        },
+        "heading": {
+          "en": "The packaging served as the initial reference point; the full visual direction and all supporting assets were developed and produced in my studio.",
+          "hr": "Pakiranje je poslužilo kao početna referentna točka; cjelokupno vizualno usmjerenje i svi popratni materijali razvijeni su i proizvedeni u mom studiju."
+        },
+        "image": "/assets/Image/Rectangle 1796.png",
+        "video": {
+          "thumbnail": "/assets/Image/exo-bird-flight.png",
+          "youtubeId": "t_Uk41--0Hw",
+          "title": {
+            "en": "EXO - Life and Beyond",
+            "hr": "EXO - Life and Beyond"
+          },
+          "subtext": {
+            "en": "Creative & video direction, and storyboard in cooperation with HrvojeKF",
+            "hr": "Kreativno i video usmjeravanje te knjiga snimanja u suradnji s HrvojeKF"
+          }
+        }
+      }
     }
-  }
+  ]
 }

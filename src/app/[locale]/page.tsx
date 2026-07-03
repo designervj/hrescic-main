@@ -1,7 +1,8 @@
 import { getLocalizedString, type LocaleCode } from "@/lib/i18n/locale";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import HomePageRenderer from "@/components/pages/homepages/HomePageRenderer";
 import type { Metadata } from "next";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 const API_BASE = "https://kalptree.xyz/api/cms";
 
@@ -15,8 +16,7 @@ async function fetchPageContent(slug: string) {
   });
   if (!res.ok) throw new Error(`Failed to fetch page: ${res.status}`);
   const body = await res.json();
-  const page = Array.isArray(body) ? body[0] : body;
-
+  const page = body?.data ?? (Array.isArray(body) ? body[0] : body);
 
   return {
     sections: (Array.isArray(page?.content) ? page.content : []) as PageBlock[],

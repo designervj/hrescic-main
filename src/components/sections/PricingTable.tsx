@@ -1,9 +1,10 @@
 "use client";
 
 import EditableText from "@/components/shared/EditableText";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useLocale } from "@/lib/i18n/LocaleContext";
 import { getLocalizedString, type LocalizedString } from "@/lib/i18n/locale";
+import { PageBlock } from "@/lib/store/pages/pageType";
 import { useEditable } from "@/lib/store/pages/useEditable";
 
 interface PricingTableProps {

@@ -4,39 +4,31 @@ import { getLocalizedString, type LocaleCode } from "@/lib/i18n/locale";
 import IndustrySubPage from "@/components/sections/who-we-create-for/IndustrySubPage";
 import CaseStudyPage from "@/components/sections/who-we-create-for/CaseStudyPage";
 
-import tourismTravelData from "@/lib/data/pages/who-we-create-for/sub/tourism-travel.json";
-import educationELearningData from "@/lib/data/pages/who-we-create-for/sub/education-e-learning.json";
-import healthPharmaBeautyData from "@/lib/data/pages/who-we-create-for/sub/health-pharma-beauty.json";
-import localBoutiqueBrandsData from "@/lib/data/pages/who-we-create-for/sub/local-boutique-brands.json";
-import myrentData from "@/lib/data/pages/who-we-create-for/sub/myrent.json";
-import cdcData from "@/lib/data/pages/who-we-create-for/sub/cdc.json";
-import castaniaData from "@/lib/data/pages/who-we-create-for/sub/castania.json";
-import polidermaData from "@/lib/data/pages/who-we-create-for/sub/poliderma.json";
-import expoLifeFarBeyondData from "@/lib/data/pages/who-we-create-for/sub/expo-life-far-beyond.json";
-import lorealData from "@/lib/data/pages/who-we-create-for/sub/loreal.json";
-import navadaData from "@/lib/data/pages/who-we-create-for/sub/navada.json";
-import minglanjeVKlanjcuData from "@/lib/data/pages/who-we-create-for/sub/minglanje-v-klanjcu.json";
-import idsData from "@/lib/data/pages/who-we-create-for/sub/ids.json";
-
-const industrySlugs = ["tourism-travel", "education-e-learning", "health-pharma-beauty", "local-boutique-brands"];
-const caseStudySlugs = ["myrent", "cdc", "castania", "poliderma", "expo-life-far-beyond", "loreal", "navada", "minglanje-v-klanjcu", "ids"];
+const API_BASE = "https://kalptree.xyz/api/cms";
+const industrySlugs = ["tourism-travel", "education-e-learning", "health-pharma-beauty", "local-boutique-brands"] as const;
+const caseStudySlugs = ["myrent", "cdc", "castania", "poliderma", "expo-life-far-beyond", "loreal", "navada", "minglanje-v-klanjcu", "ids"] as const;
 const allSlugs = [...industrySlugs, ...caseStudySlugs];
 
-const dataMap: Record<string, Record<string, unknown>> = {
-  "tourism-travel": tourismTravelData,
-  "education-e-learning": educationELearningData,
-  "health-pharma-beauty": healthPharmaBeautyData,
-  "local-boutique-brands": localBoutiqueBrandsData,
-  "myrent": myrentData,
-  "cdc": cdcData,
-  "castania": castaniaData,
-  "poliderma": polidermaData,
-  "expo-life-far-beyond": expoLifeFarBeyondData,
-  "loreal": lorealData,
-  "navada": navadaData,
-  "minglanje-v-klanjcu": minglanjeVKlanjcuData,
-  "ids": idsData,
-};
+type Slug = typeof allSlugs[number];
+
+async function fetchPageData(slug: string) {
+  const res = await fetch(`${API_BASE}/pages?slug=who-we-create-for/${slug}`, {
+    headers: {
+      accept: "application/json",
+      "x-tenant-db": "kp_hrescic",
+    },
+    next: { revalidate: 60 },
+  });
+  if (!res.ok) return null;
+  const body = await res.json();
+  const page = body?.data ?? (Array.isArray(body) ? body[0] : body);
+  const content = Array.isArray(page?.content) ? page.content[0] : null;
+  return {
+    props: (content?.props ?? null) as Record<string, unknown> | null,
+    metaTitle: page?.metaTitle ?? null,
+    metaDescription: page?.metaDescription ?? null,
+  };
+}
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
@@ -51,11 +43,12 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  if (!allSlugs.includes(slug)) return {};
-  const data = dataMap[slug];
+  if (!allSlugs.includes(slug as Slug)) return {};
+  const data = await fetchPageData(slug);
+  if (!data?.metaTitle) return {};
   return {
     title: getLocalizedString(data.metaTitle as { en: string; hr?: string }, locale as LocaleCode),
-    description: getLocalizedString(data.metaDescription as { en: string; hr?: string }, locale as LocaleCode),
+    description: data.metaDescription ? getLocalizedString(data.metaDescription as { en: string; hr?: string }, locale as LocaleCode) : "",
   };
 }
 
@@ -86,12 +79,13 @@ function resolveLocaleStrings(obj: Record<string, unknown>, locale: LocaleCode):
 
 export default async function WhoWeCreateForSlugPage({ params }: Props) {
   const { locale, slug } = await params;
-  if (!allSlugs.includes(slug)) notFound();
-  const rawData = dataMap[slug];
+  if (!allSlugs.includes(slug as Slug)) notFound();
+  const data = await fetchPageData(slug);
+  if (!data?.props) notFound();
   const localeCode = locale as LocaleCode;
-  const resolvedData = resolveLocaleStrings(rawData, localeCode);
+  const resolvedData = resolveLocaleStrings(data.props, localeCode);
 
-  const isIndustry = industrySlugs.includes(slug);
+  const isIndustry = (industrySlugs as readonly string[]).includes(slug);
   const Component = isIndustry ? IndustrySubPage : CaseStudyPage;
 
   return (

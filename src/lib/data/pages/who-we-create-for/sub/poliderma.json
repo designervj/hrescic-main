@@ -1,119 +1,346 @@
 {
-  "metaTitle": { "en": "Hrescic Case Study | Tourism & Travel", "hr": "Hrescic Studija Slučaja | Turizam i Putovanja" },
-  "metaDescription": { "en": "Building a scalable medical & cosmetic ecosystem across three brands, without fragmenting trust, traffic, or revenue.", "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda, bez fragmentiranja povjerenja." },
-  "type": "poliderma",
-  "hero": {
-    "heading": { "en": "Building a scalable medical & cosmetic ecosystem across three brands, without fragmenting trust, traffic, or revenue", "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda, bez fragmentiranja povjerenja, prometa ili prihoda" },
-    "tabs": [
-      { "label": { "en": "The Challenge", "hr": "Izazov" }, "target": "#challenge" },
-      { "label": { "en": "Our Approach & Delivery", "hr": "Naš Pristup i Isporuka" }, "target": "#approach" },
-      { "label": { "en": "Our Strategic Role", "hr": "Strateška Uloga" }, "target": "#role" },
-      { "label": { "en": "The Results", "hr": "Rezultati" }, "target": "#results" }
-    ],
-    "image": "/assets/Image/polyderma-hero-img.png",
-    "cta": { "en": "Read the Case Study →", "hr": "Pročitajte studiju slučaja →" }
+  "title": {
+    "en": "Hrescic Case Study | Tourism & Travel",
+    "hr": "Hrescic Studija Slučaja | Turizam i Putovanja"
   },
-  "introHeading": { "en": "This project was not about marketing execution.", "hr": "Ovaj projekt nije bio o marketinškoj izvedbi." },
-  "introSubtext": { "en": "It was about building a coherent, scalable medical and cosmetic ecosystem, without losing trust, SEO equity, or clinical authority.", "hr": "Radilo se o izgradnji koherentnog, skalabilnog medicinskog i kozmetičkog ekosustava, bez gubitka povjerenja, SEO kapitala ili kliničkog autoriteta." },
-  "challenge": {
-    "heading": { "en": "The Challenge", "hr": "Izazov" },
-    "intro": {
-      "en": "As the ecosystem grew, structural weaknesses became visible. What initially appeared as a need for marketing support revealed a deeper challenge: rapid expansion without a shared strategic backbone.",
-      "hr": "Kako se ekosustav širio, strukturne slabosti su postale vidljive. Ono što se u početku činilo kao potreba za marketinškom podrškom otkrilo je dublji izazov: brzo širenje bez zajedničke strateške osnove."
-    },
-    "introSubtext": {
-      "en": "This was not three separate projects. The real task was to build one coherent brand ecosystem around a single medical authority, while simultaneously scaling traffic, conversions, and product and service expansion.",
-      "hr": "Ovo nisu bila tri odvojena projekta. Pravi zadatak bio je izgraditi jedan koherentan brendovski ekosustav oko jednog medicinskog autoriteta, dok se istovremeno skalira promet, konverzije i širenje proizvoda i usluga."
-    },
-    "issuesLabel": { "en": "Key issues included:", "hr": "Ključni problemi su uključivali:" },
-    "issues": [
-      { "en": "A highly complex and fragile SEO system, with over 2,000 URLs on Poliderma alone", "hr": "Visoko složen i osjetljiv SEO sustav, s više od 2.000 URL-ova samo na Polidermi" },
-      { "en": "Multiple brands competing for attention instead of reinforcing one another", "hr": "Više brendova koji se natječu za pažnju umjesto da se međusobno pojačavaju" },
-      { "en": "Long, inefficient user journeys across platforms", "hr": "Dugi, neučinkoviti korisnici putovanja na svim platformama" },
-      { "en": "Strong medical authority that was not fully translated into scalable digital growth", "hr": "Snažan medicinski autoritet koji nije u potpunosti preveden u skalabilni digitalni rast" }
-    ],
-    "conclusion": {
-      "en": "This was not three separate projects. The real task was to build one coherent brand ecosystem around a single medical authority, while simultaneously scaling traffic, conversions, and product and service expansion.",
-      "hr": "Ovo nisu bila tri odvojena projekta. Pravi zadatak bio je izgraditi jedan koherentan brendovski ekosustav oko jednog medicinskog autoriteta, dok se istovremeno skalira promet, konverzije i širenje proizvoda i usluga."
-    }
+  "slug": "who-we-create-for/poliderma",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Hrescic Case Study | Tourism & Travel",
+    "hr": "Hrescic Studija Slučaja | Turizam i Putovanja"
   },
-  "approach": {
-    "heading": { "en": "Our approach and delivery", "hr": "Naš pristup i isporuka" },
-    "subheading": { "en": "We treated the collaboration as ecosystem architecture, not campaign-based marketing.", "hr": "Suradnju smo tretirali kao arhitekturu ekosustava, a ne kao marketinške kampanje." },
-    "cards": [
-      {
-        "image": "/assets/Image/polyderma-brand-img.png",
-        "title": { "en": "Surgical Website & Content Restructuring (Poliderma)", "hr": "Kirurška restructurizacija web stranice i sadržaja (Poliderma)" },
-        "intro": { "en": "Poliderma required precision rather than disruption:", "hr": "Poliderma je zahtijevala preciznost umjesto disrupcije:" },
-        "items": [
-          { "en": "Cleaning and restructuring 2,000+ pages", "hr": "Čišćenje i prestrukturiranje 2.000+ stranica" },
-          { "en": "Preserving high-ranking URLs and accumulated SEO equity", "hr": "Čuvanje visoko rangiranih URL-ova i nakupljenog SEO kapitala" },
-          { "en": "Modernizing UX without impacting Google visibility or patient trust", "hr": "Modernizacija UX-a bez utjecaja na vidljivost na Googleu ili povjerenje pacijenata" }
-        ]
-      },
-      {
-        "image": "/assets/Image/polyderma-brand-img9.png",
-        "title": { "en": "Strategic Brand & Content Build (Regenerative)", "hr": "Strateška izgradnja brenda i sadržaja (Regenerativna medicina)" },
-        "intro": { "en": "For the regenerative medicine vertical, we delivered:", "hr": "Za vertikalu regenerativne medicine, isporučili smo:" },
-        "items": [
-          { "en": "Full branding and positioning", "hr": "Potpuni branding i pozicioniranje" },
-          { "en": "Clear separation from cosmetic dermatology, without breaking authority signals", "hr": "Jasno odvajanje od kozmetičke dermatologije, bez narušavanja signala autoriteta" },
-          { "en": "Educational, trust-driven content aligned with clinical credibility", "hr": "Obrazovni, povjerenjem vođen sadržaj usklađen s kliničkim kredibilitetom" }
-        ]
-      },
-      {
-        "image": "/assets/Image/polyderma-brand-img8.png",
-        "title": { "en": "UX, Journey & Product Redesign (MySkin)", "hr": "UX, putovanje i redizajn proizvoda (MySkin)" },
-        "intro": { "en": "The MySkin webshop was rebuilt around conversion logic and trust:", "hr": "MySkin webshop je obnovljen oko logike konverzije i povjerenja:" },
-        "items": [
-          { "en": "Complete UX and user-journey redesign", "hr": "Potpuni redizajn UX-a i korisničkog putovanja" },
-          { "en": "Dramatically shortened path from first visit to purchase", "hr": "Drastično skraćena putanja od prvog posjeta do kupnje" },
-          { "en": "Introduction of educational and reference-based content", "hr": "Uvođenje obrazovnog i referentnog sadržaja" },
-          { "en": "Product naming, packaging guidance, and portfolio structuring", "hr": "Imenovanje proizvoda, smjernice za pakiranje i strukturiranje portfelja" }
-        ]
-      },
-      {
-        "image": "/assets/Image/polyderma-brand-img7.png",
-        "title": { "en": "Marketing & Advertising Aligned With Strategy", "hr": "Marketing i oglašavanje usklađeni sa strategijom" },
-        "intro": { "en": "All marketing activities were aligned with real operational capacity:", "hr": "Sve marketinške aktivnosti bile su usklađene s realnim operativnim kapacitetima:" },
-        "items": [
-          { "en": "Paid campaigns designed for actual treatment availability", "hr": "Plaćene kampanje dizajnirane za stvarnu dostupnost tretmana" },
-          { "en": "Unified messaging across clinic, treatments, and products", "hr": "Ujedinjene poruke u klinici, tretmanima i proizvodima" },
-          { "en": "Continuous optimization across all three brands", "hr": "Kontinuirana optimizacija sva tri brenda" }
-        ]
+  "metaDescription": {
+    "en": "Building a scalable medical & cosmetic ecosystem across three brands, without fragmenting trust, traffic, or revenue.",
+    "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda, bez fragmentiranja povjerenja."
+  },
+  "content": [
+    {
+      "id": "poliderma-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Poliderma",
+      "props": {
+        "type": "poliderma",
+        "hero": {
+          "heading": {
+            "en": "Building a scalable medical & cosmetic ecosystem across three brands, without fragmenting trust, traffic, or revenue",
+            "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda, bez fragmentiranja povjerenja, prometa ili prihoda"
+          },
+          "tabs": [
+            {
+              "label": {
+                "en": "The Challenge",
+                "hr": "Izazov"
+              },
+              "target": "#challenge"
+            },
+            {
+              "label": {
+                "en": "Our Approach & Delivery",
+                "hr": "Naš Pristup i Isporuka"
+              },
+              "target": "#approach"
+            },
+            {
+              "label": {
+                "en": "Our Strategic Role",
+                "hr": "Strateška Uloga"
+              },
+              "target": "#role"
+            },
+            {
+              "label": {
+                "en": "The Results",
+                "hr": "Rezultati"
+              },
+              "target": "#results"
+            }
+          ],
+          "image": "/assets/Image/polyderma-hero-img.png",
+          "cta": {
+            "en": "Read the Case Study →",
+            "hr": "Pročitajte studiju slučaja →"
+          }
+        },
+        "introHeading": {
+          "en": "This project was not about marketing execution.",
+          "hr": "Ovaj projekt nije bio o marketinškoj izvedbi."
+        },
+        "introSubtext": {
+          "en": "It was about building a coherent, scalable medical and cosmetic ecosystem, without losing trust, SEO equity, or clinical authority.",
+          "hr": "Radilo se o izgradnji koherentnog, skalabilnog medicinskog i kozmetičkog ekosustava, bez gubitka povjerenja, SEO kapitala ili kliničkog autoriteta."
+        },
+        "challenge": {
+          "heading": {
+            "en": "The Challenge",
+            "hr": "Izazov"
+          },
+          "intro": {
+            "en": "As the ecosystem grew, structural weaknesses became visible. What initially appeared as a need for marketing support revealed a deeper challenge: rapid expansion without a shared strategic backbone.",
+            "hr": "Kako se ekosustav širio, strukturne slabosti su postale vidljive. Ono što se u početku činilo kao potreba za marketinškom podrškom otkrilo je dublji izazov: brzo širenje bez zajedničke strateške osnove."
+          },
+          "introSubtext": {
+            "en": "This was not three separate projects. The real task was to build one coherent brand ecosystem around a single medical authority, while simultaneously scaling traffic, conversions, and product and service expansion.",
+            "hr": "Ovo nisu bila tri odvojena projekta. Pravi zadatak bio je izgraditi jedan koherentan brendovski ekosustav oko jednog medicinskog autoriteta, dok se istovremeno skalira promet, konverzije i širenje proizvoda i usluga."
+          },
+          "issuesLabel": {
+            "en": "Key issues included:",
+            "hr": "Ključni problemi su uključivali:"
+          },
+          "issues": [
+            {
+              "en": "A highly complex and fragile SEO system, with over 2,000 URLs on Poliderma alone",
+              "hr": "Visoko složen i osjetljiv SEO sustav, s više od 2.000 URL-ova samo na Polidermi"
+            },
+            {
+              "en": "Multiple brands competing for attention instead of reinforcing one another",
+              "hr": "Više brendova koji se natječu za pažnju umjesto da se međusobno pojačavaju"
+            },
+            {
+              "en": "Long, inefficient user journeys across platforms",
+              "hr": "Dugi, neučinkoviti korisnici putovanja na svim platformama"
+            },
+            {
+              "en": "Strong medical authority that was not fully translated into scalable digital growth",
+              "hr": "Snažan medicinski autoritet koji nije u potpunosti preveden u skalabilni digitalni rast"
+            }
+          ],
+          "conclusion": {
+            "en": "This was not three separate projects. The real task was to build one coherent brand ecosystem around a single medical authority, while simultaneously scaling traffic, conversions, and product and service expansion.",
+            "hr": "Ovo nisu bila tri odvojena projekta. Pravi zadatak bio je izgraditi jedan koherentan brendovski ekosustav oko jednog medicinskog autoriteta, dok se istovremeno skalira promet, konverzije i širenje proizvoda i usluga."
+          }
+        },
+        "approach": {
+          "heading": {
+            "en": "Our approach and delivery",
+            "hr": "Naš pristup i isporuka"
+          },
+          "subheading": {
+            "en": "We treated the collaboration as ecosystem architecture, not campaign-based marketing.",
+            "hr": "Suradnju smo tretirali kao arhitekturu ekosustava, a ne kao marketinške kampanje."
+          },
+          "cards": [
+            {
+              "image": "/assets/Image/polyderma-brand-img.png",
+              "title": {
+                "en": "Surgical Website & Content Restructuring (Poliderma)",
+                "hr": "Kirurška restructurizacija web stranice i sadržaja (Poliderma)"
+              },
+              "intro": {
+                "en": "Poliderma required precision rather than disruption:",
+                "hr": "Poliderma je zahtijevala preciznost umjesto disrupcije:"
+              },
+              "items": [
+                {
+                  "en": "Cleaning and restructuring 2,000+ pages",
+                  "hr": "Čišćenje i prestrukturiranje 2.000+ stranica"
+                },
+                {
+                  "en": "Preserving high-ranking URLs and accumulated SEO equity",
+                  "hr": "Čuvanje visoko rangiranih URL-ova i nakupljenog SEO kapitala"
+                },
+                {
+                  "en": "Modernizing UX without impacting Google visibility or patient trust",
+                  "hr": "Modernizacija UX-a bez utjecaja na vidljivost na Googleu ili povjerenje pacijenata"
+                }
+              ]
+            },
+            {
+              "image": "/assets/Image/polyderma-brand-img9.png",
+              "title": {
+                "en": "Strategic Brand & Content Build (Regenerative)",
+                "hr": "Strateška izgradnja brenda i sadržaja (Regenerativna medicina)"
+              },
+              "intro": {
+                "en": "For the regenerative medicine vertical, we delivered:",
+                "hr": "Za vertikalu regenerativne medicine, isporučili smo:"
+              },
+              "items": [
+                {
+                  "en": "Full branding and positioning",
+                  "hr": "Potpuni branding i pozicioniranje"
+                },
+                {
+                  "en": "Clear separation from cosmetic dermatology, without breaking authority signals",
+                  "hr": "Jasno odvajanje od kozmetičke dermatologije, bez narušavanja signala autoriteta"
+                },
+                {
+                  "en": "Educational, trust-driven content aligned with clinical credibility",
+                  "hr": "Obrazovni, povjerenjem vođen sadržaj usklađen s kliničkim kredibilitetom"
+                }
+              ]
+            },
+            {
+              "image": "/assets/Image/polyderma-brand-img8.png",
+              "title": {
+                "en": "UX, Journey & Product Redesign (MySkin)",
+                "hr": "UX, putovanje i redizajn proizvoda (MySkin)"
+              },
+              "intro": {
+                "en": "The MySkin webshop was rebuilt around conversion logic and trust:",
+                "hr": "MySkin webshop je obnovljen oko logike konverzije i povjerenja:"
+              },
+              "items": [
+                {
+                  "en": "Complete UX and user-journey redesign",
+                  "hr": "Potpuni redizajn UX-a i korisničkog putovanja"
+                },
+                {
+                  "en": "Dramatically shortened path from first visit to purchase",
+                  "hr": "Drastično skraćena putanja od prvog posjeta do kupnje"
+                },
+                {
+                  "en": "Introduction of educational and reference-based content",
+                  "hr": "Uvođenje obrazovnog i referentnog sadržaja"
+                },
+                {
+                  "en": "Product naming, packaging guidance, and portfolio structuring",
+                  "hr": "Imenovanje proizvoda, smjernice za pakiranje i strukturiranje portfelja"
+                }
+              ]
+            },
+            {
+              "image": "/assets/Image/polyderma-brand-img7.png",
+              "title": {
+                "en": "Marketing & Advertising Aligned With Strategy",
+                "hr": "Marketing i oglašavanje usklađeni sa strategijom"
+              },
+              "intro": {
+                "en": "All marketing activities were aligned with real operational capacity:",
+                "hr": "Sve marketinške aktivnosti bile su usklađene s realnim operativnim kapacitetima:"
+              },
+              "items": [
+                {
+                  "en": "Paid campaigns designed for actual treatment availability",
+                  "hr": "Plaćene kampanje dizajnirane za stvarnu dostupnost tretmana"
+                },
+                {
+                  "en": "Unified messaging across clinic, treatments, and products",
+                  "hr": "Ujedinjene poruke u klinici, tretmanima i proizvodima"
+                },
+                {
+                  "en": "Continuous optimization across all three brands",
+                  "hr": "Kontinuirana optimizacija sva tri brenda"
+                }
+              ]
+            }
+          ]
+        },
+        "results": {
+          "heading": {
+            "en": "The results & outcome",
+            "hr": "Rezultati i ishod"
+          },
+          "subtext": {
+            "en": "What emerged from this work is not a collection of brands, but a single, well-orchestrated system. Each brand now plays a precise role within a unified ecosystem led by one medical authority, allowing growth without fragmentation or dilution of trust.",
+            "hr": "Ono što je nastalo iz ovog rada nije zbirka brendova, već jedan dobro orkestriran sustav. Svaki brend sada igra preciznu ulogu unutar unificiranog ekosustava predvođenog jednim medicinskim autoritetom."
+          },
+          "stats": [
+            {
+              "value": "100%",
+              "label": {
+                "en": "Fully booked for months in advance through a single ad campaign",
+                "hr": "Potpuno zauzeto mjesecima unaprijed kroz jednu reklamnu kampanju"
+              }
+            },
+            {
+              "value": "15+",
+              "label": {
+                "en": "cosmetic products successfully designed & launched",
+                "hr": "kozmetičkih proizvoda uspješno dizajniranih i lansiranih"
+              }
+            },
+            {
+              "value": "6X",
+              "label": {
+                "en": "increase in website traffic for Polderm year-over-year",
+                "hr": "povećanje prometa na web stranici Polderma od godine do godine"
+              }
+            }
+          ],
+          "gallery": {
+            "desktop": [
+              [
+                {
+                  "type": "img-stat",
+                  "img": "/assets/Image/polyderma-brand-img6.png",
+                  "stat": "100%",
+                  "statLabel": {
+                    "en": "Fully booked for months in advance through a single ad campaign",
+                    "hr": "Potpuno zauzeto kroz jednu kampanju"
+                  }
+                },
+                {
+                  "type": "img",
+                  "img": "/assets/Image/polyderma-brand-img.png",
+                  "height": "sm"
+                },
+                {
+                  "type": "img",
+                  "img": "/assets/Image/our-approach-delivery.png",
+                  "height": "lg"
+                }
+              ],
+              [
+                {
+                  "type": "img",
+                  "img": "/assets/Image/polyderma-brand-img5.png",
+                  "height": "xl"
+                },
+                {
+                  "type": "img-row",
+                  "imgs": [
+                    "/assets/Image/our-approach-img2.png",
+                    "/assets/Image/our-approach-img1.png"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "img",
+                  "img": "/assets/Image/polyderma-brand-img3.png",
+                  "height": "lg"
+                },
+                {
+                  "type": "stat-pair",
+                  "stats": [
+                    {
+                      "value": "15+",
+                      "label": {
+                        "en": "cosmetic products successfully designed & launched",
+                        "hr": "kozmetičkih proizvoda"
+                      }
+                    },
+                    {
+                      "value": "6X",
+                      "label": {
+                        "en": "increase in website traffic for Polderm year-over-year",
+                        "hr": "povećanje prometa"
+                      }
+                    }
+                  ],
+                  "img": "/assets/Image/polyderma-brand-img-4.png"
+                }
+              ]
+            ]
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Marketing Excellence That Works On Your Terms",
+            "hr": "Marketinška Izvrsnost Koja Radi na Vašim Uvjetima"
+          },
+          "subtext": {
+            "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.",
+            "hr": "Jer sjajan marketing ne staje — on evoluira. Bez obzira trebate li web stranicu koja rezervira goste, video koji priča vašu priču ili potpuni kreativni sustav koji raste s vama."
+          },
+          "buttonText": {
+            "en": "Let's Talk",
+            "hr": "Razgovarajmo"
+          },
+          "buttonHref": "/lets-talk#ask"
+        }
       }
-    ]
-  },
-  "results": {
-    "heading": { "en": "The results & outcome", "hr": "Rezultati i ishod" },
-    "subtext": { "en": "What emerged from this work is not a collection of brands, but a single, well-orchestrated system. Each brand now plays a precise role within a unified ecosystem led by one medical authority, allowing growth without fragmentation or dilution of trust.", "hr": "Ono što je nastalo iz ovog rada nije zbirka brendova, već jedan dobro orkestriran sustav. Svaki brend sada igra preciznu ulogu unutar unificiranog ekosustava predvođenog jednim medicinskim autoritetom." },
-    "stats": [
-      { "value": "100%", "label": { "en": "Fully booked for months in advance through a single ad campaign", "hr": "Potpuno zauzeto mjesecima unaprijed kroz jednu reklamnu kampanju" } },
-      { "value": "15+", "label": { "en": "cosmetic products successfully designed & launched", "hr": "kozmetičkih proizvoda uspješno dizajniranih i lansiranih" } },
-      { "value": "6X", "label": { "en": "increase in website traffic for Polderm year-over-year", "hr": "povećanje prometa na web stranici Polderma od godine do godine" } }
-    ],
-    "gallery": {
-      "desktop": [
-        [
-          { "type": "img-stat", "img": "/assets/Image/polyderma-brand-img6.png", "stat": "100%", "statLabel": { "en": "Fully booked for months in advance through a single ad campaign", "hr": "Potpuno zauzeto kroz jednu kampanju" } },
-          { "type": "img", "img": "/assets/Image/polyderma-brand-img.png", "height": "sm" },
-          { "type": "img", "img": "/assets/Image/our-approach-delivery.png", "height": "lg" }
-        ],
-        [
-          { "type": "img", "img": "/assets/Image/polyderma-brand-img5.png", "height": "xl" },
-          { "type": "img-row", "imgs": ["/assets/Image/our-approach-img2.png", "/assets/Image/our-approach-img1.png"] }
-        ],
-        [
-          { "type": "img", "img": "/assets/Image/polyderma-brand-img3.png", "height": "lg" },
-          { "type": "stat-pair", "stats": [{ "value": "15+", "label": { "en": "cosmetic products successfully designed & launched", "hr": "kozmetičkih proizvoda" } }, { "value": "6X", "label": { "en": "increase in website traffic for Polderm year-over-year", "hr": "povećanje prometa" } }], "img": "/assets/Image/polyderma-brand-img-4.png" }
-        ]
-      ]
     }
-  },
-  "cta": {
-    "heading": { "en": "Marketing Excellence That Works On Your Terms", "hr": "Marketinška Izvrsnost Koja Radi na Vašim Uvjetima" },
-    "subtext": { "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.", "hr": "Jer sjajan marketing ne staje — on evoluira. Bez obzira trebate li web stranicu koja rezervira goste, video koji priča vašu priču ili potpuni kreativni sustav koji raste s vama." },
-    "buttonText": { "en": "Let's Talk", "hr": "Razgovarajmo" },
-    "buttonHref": "/lets-talk#ask"
-  }
+  ]
 }

@@ -1,119 +1,294 @@
 {
-  "metaTitle": { "en": "Castania Case Study | Hrescic", "hr": "Castania Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "How Castania transformed from a commodity product into a premium boutique brand.", "hr": "Kako se Castania transformirala iz robnog proizvoda u premium butik brend." },
-  "type": "castania",
-  "hero": {
-    "breadcrumbLabel": { "en": "Case Study", "hr": "Studija Slučaja" },
-    "breadcrumbSub": { "en": "Boutique Brands", "hr": "Butik Brendovi" },
-    "headingPrefix": { "en": "From Commodity to Premium:", "hr": "Od robe do premiuma:" },
-    "headingSuffix": { "en": "Building Castania into a Scalable Boutique Brand", "hr": "Izgradnja Castanie u skalabilni butik brend" },
-    "subtext": { "en": "We created the brand name, positioning, and narrative, transforming a raw product into a brand with meaning, personality, and purpose.", "hr": "Stvorili smo ime brenda, pozicioniranje i narativ, transformirajući sirovi proizvod u brend sa značenjem, osobnošću i svrhom." },
-    "image": "/assets/Image/castania-hero-img.png",
-    "cta": { "en": "Read the Case Study →", "hr": "Pročitajte studiju slučaja →" },
-    "tabs": [
-      { "label": { "en": "The Challenge", "hr": "Izazov" }, "target": "#challenge" },
-      { "label": { "en": "The Goals of Collaboration", "hr": "Ciljevi suradnje" }, "target": "#goals" },
-      { "label": { "en": "Our Strategic Role", "hr": "Naša strateška uloga" }, "target": "#role" },
-      { "label": { "en": "The Results", "hr": "Rezultati" }, "target": "#results" }
-    ]
+  "title": {
+    "en": "Castania Case Study | Hrescic",
+    "hr": "Castania Studija Slučaja | Hrescic"
   },
-  "intro": {
-    "en": "Castania was built from zero to a premium honey brand. What began as a small producer evolved into a scalable, recognizable, and commercially strong business through strategic positioning, storytelling, packaging, and a complete sales ecosystem.\n\nThis was not a packaging refresh or a visual exercise — it was the deliberate creation of a brand, and the foundation of a sustainable business.",
-    "hr": "Castania je izgrađena od nule do premium brenda meda. Ono što je započelo kao mali proizvođač evoluiralo je u skalabilno, prepoznatljivo i komercijalno snažno poslovanje kroz strateško pozicioniranje, pripovijedanje, pakiranje i cjelovit prodajni ekosustav.\n\nOvo nije bilo osvježavanje ambalaže ili vizualna vježba — to je bilo namjerno stvaranje brenda i temelj održivog poslovanja."
+  "slug": "who-we-create-for/castania",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Castania Case Study | Hrescic",
+    "hr": "Castania Studija Slučaja | Hrescic"
   },
-  "challenge": {
-    "heading": { "en": "The Challenge", "hr": "Izazov" },
-    "introTop": {
-      "en": "Castania started with an excellent product: high-quality honey and natural derivatives. What it lacked was everything else required to compete beyond the local, low-margin market.",
-      "hr": "Castania je započela s izvrsnim proizvodom: visokokvalitetnim medom i prirodnim derivatima. Ono što joj je nedostajalo bilo je sve ostalo potrebno za natjecanje izvan lokalnog tržišta niskih marži."
-    },
-    "introBottom": {
-      "en": "Like many small producers, Castania was trapped in a commodity position:",
-      "hr": "Kao i mnogi mali proizvođači, Castania je bila zarobljena u robnoj poziciji:"
-    },
-    "issues": [
-      { "en": "Strong product quality, but no brand", "hr": "Snažna kvaliteta proizvoda, ali bez brenda" },
-      { "en": "No differentiation in a crowded market", "hr": "Nema diferencijacije na pretrpanom tržištu" },
-      { "en": "No story customers could connect to", "hr": "Nema priče s kojom bi se kupci mogli povezati" },
-      { "en": "No pricing power", "hr": "Nema moći određivanja cijena" },
-      { "en": "No system for growth", "hr": "Nema sustava za rast" }
-    ],
-    "conclusion": {
-      "en": "Without a clear identity, positioning, packaging, or sales strategy, scaling beyond local sales or basic distribution was impossible.",
-      "hr": "Bez jasnog identiteta, pozicioniranja, pakiranja ili prodajne strategije, skaliranje izvan lokalne prodaje ili osnovne distribucije bilo je nemoguće."
-    }
+  "metaDescription": {
+    "en": "How Castania transformed from a commodity product into a premium boutique brand.",
+    "hr": "Kako se Castania transformirala iz robnog proizvoda u premium butik brend."
   },
-  "goals": {
-    "heading": { "en": "The Goals of the Collaboration", "hr": "Ciljevi suradnje" },
-    "subheading": { "en": "The objective was not simply to sell honey. It was to build a sustainable, scalable business.", "hr": "Cilj nije bio samo prodavati med. Bilo je izgraditi održivo, skalabilno poslovanje." },
-    "cards": [
-      {
-        "image": "/assets/Image/castania-business-img.png",
-        "title": { "en": "Creating a Brand Identity", "hr": "Stvaranje identiteta brenda" },
-        "text": { "en": "Castania's brand identity is developed around authentic origin, a subtle premium visual language, and a system that supports long-term growth without compromising trust or recognizability.", "hr": "Identitet brenda Castania razvijen je oko autentičnog podrijetla, suptilnog premium vizualnog jezika i sustava koji podržava dugoročni rast." }
-      },
-      {
-        "image": "/assets/Image/castania-business-img1.png",
-        "title": { "en": "Building a Story", "hr": "Izgradnja priče" },
-        "text": { "en": "Castania connects real origin, nature, and trust. Each type of honey is tied to a specific apiary location, creating an authentic link between the product and the customer.", "hr": "Castania povezuje stvarno podrijetlo, prirodu i povjerenje. Svaka vrsta meda vezana je za specifičnu lokaciju pčelinjaka." }
-      },
-      {
-        "image": "/assets/Image/castania-business-img2.png",
-        "title": { "en": "Package Design & Photography", "hr": "Dizajn pakiranja i fotografija" },
-        "text": { "en": "Packaging and photography are designed as sales tools. A clean visual language, natural tones, and a strong focus on the product increase perceived value and position it as a recognizable display and gift item.", "hr": "Pakiranje i fotografija dizajnirani su kao prodajni alati. Čist vizualni jezik, prirodni tonovi i snažan fokus na proizvod povećavaju percipiranu vrijednost." }
-      },
-      {
-        "image": "/assets/Image/castania-business-img3.png",
-        "title": { "en": "Developing a Growth System", "hr": "Razvoj sustava za rast" },
-        "text": { "en": "Brand growth is built on a system, not on campaigns. A consistent identity, modular product range, and clearly defined origin enable long-term expansion without loss of recognition.", "hr": "Rast brenda gradi se na sustavu, a ne na kampanjama. Dosljedan identitet, modularni asortiman proizvoda i jasno definirano podrijetlo omogućuju dugoročno širenje." }
+  "content": [
+    {
+      "id": "castania-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Castania",
+      "props": {
+        "type": "castania",
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Case Study",
+            "hr": "Studija Slučaja"
+          },
+          "breadcrumbSub": {
+            "en": "Boutique Brands",
+            "hr": "Butik Brendovi"
+          },
+          "headingPrefix": {
+            "en": "From Commodity to Premium:",
+            "hr": "Od robe do premiuma:"
+          },
+          "headingSuffix": {
+            "en": "Building Castania into a Scalable Boutique Brand",
+            "hr": "Izgradnja Castanie u skalabilni butik brend"
+          },
+          "subtext": {
+            "en": "We created the brand name, positioning, and narrative, transforming a raw product into a brand with meaning, personality, and purpose.",
+            "hr": "Stvorili smo ime brenda, pozicioniranje i narativ, transformirajući sirovi proizvod u brend sa značenjem, osobnošću i svrhom."
+          },
+          "image": "/assets/Image/castania-hero-img.png",
+          "cta": {
+            "en": "Read the Case Study →",
+            "hr": "Pročitajte studiju slučaja →"
+          },
+          "tabs": [
+            {
+              "label": {
+                "en": "The Challenge",
+                "hr": "Izazov"
+              },
+              "target": "#challenge"
+            },
+            {
+              "label": {
+                "en": "The Goals of Collaboration",
+                "hr": "Ciljevi suradnje"
+              },
+              "target": "#goals"
+            },
+            {
+              "label": {
+                "en": "Our Strategic Role",
+                "hr": "Naša strateška uloga"
+              },
+              "target": "#role"
+            },
+            {
+              "label": {
+                "en": "The Results",
+                "hr": "Rezultati"
+              },
+              "target": "#results"
+            }
+          ]
+        },
+        "intro": {
+          "en": "Castania was built from zero to a premium honey brand. What began as a small producer evolved into a scalable, recognizable, and commercially strong business through strategic positioning, storytelling, packaging, and a complete sales ecosystem.\n\nThis was not a packaging refresh or a visual exercise — it was the deliberate creation of a brand, and the foundation of a sustainable business.",
+          "hr": "Castania je izgrađena od nule do premium brenda meda. Ono što je započelo kao mali proizvođač evoluiralo je u skalabilno, prepoznatljivo i komercijalno snažno poslovanje kroz strateško pozicioniranje, pripovijedanje, pakiranje i cjelovit prodajni ekosustav.\n\nOvo nije bilo osvježavanje ambalaže ili vizualna vježba — to je bilo namjerno stvaranje brenda i temelj održivog poslovanja."
+        },
+        "challenge": {
+          "heading": {
+            "en": "The Challenge",
+            "hr": "Izazov"
+          },
+          "introTop": {
+            "en": "Castania started with an excellent product: high-quality honey and natural derivatives. What it lacked was everything else required to compete beyond the local, low-margin market.",
+            "hr": "Castania je započela s izvrsnim proizvodom: visokokvalitetnim medom i prirodnim derivatima. Ono što joj je nedostajalo bilo je sve ostalo potrebno za natjecanje izvan lokalnog tržišta niskih marži."
+          },
+          "introBottom": {
+            "en": "Like many small producers, Castania was trapped in a commodity position:",
+            "hr": "Kao i mnogi mali proizvođači, Castania je bila zarobljena u robnoj poziciji:"
+          },
+          "issues": [
+            {
+              "en": "Strong product quality, but no brand",
+              "hr": "Snažna kvaliteta proizvoda, ali bez brenda"
+            },
+            {
+              "en": "No differentiation in a crowded market",
+              "hr": "Nema diferencijacije na pretrpanom tržištu"
+            },
+            {
+              "en": "No story customers could connect to",
+              "hr": "Nema priče s kojom bi se kupci mogli povezati"
+            },
+            {
+              "en": "No pricing power",
+              "hr": "Nema moći određivanja cijena"
+            },
+            {
+              "en": "No system for growth",
+              "hr": "Nema sustava za rast"
+            }
+          ],
+          "conclusion": {
+            "en": "Without a clear identity, positioning, packaging, or sales strategy, scaling beyond local sales or basic distribution was impossible.",
+            "hr": "Bez jasnog identiteta, pozicioniranja, pakiranja ili prodajne strategije, skaliranje izvan lokalne prodaje ili osnovne distribucije bilo je nemoguće."
+          }
+        },
+        "goals": {
+          "heading": {
+            "en": "The Goals of the Collaboration",
+            "hr": "Ciljevi suradnje"
+          },
+          "subheading": {
+            "en": "The objective was not simply to sell honey. It was to build a sustainable, scalable business.",
+            "hr": "Cilj nije bio samo prodavati med. Bilo je izgraditi održivo, skalabilno poslovanje."
+          },
+          "cards": [
+            {
+              "image": "/assets/Image/castania-business-img.png",
+              "title": {
+                "en": "Creating a Brand Identity",
+                "hr": "Stvaranje identiteta brenda"
+              },
+              "text": {
+                "en": "Castania's brand identity is developed around authentic origin, a subtle premium visual language, and a system that supports long-term growth without compromising trust or recognizability.",
+                "hr": "Identitet brenda Castania razvijen je oko autentičnog podrijetla, suptilnog premium vizualnog jezika i sustava koji podržava dugoročni rast."
+              }
+            },
+            {
+              "image": "/assets/Image/castania-business-img1.png",
+              "title": {
+                "en": "Building a Story",
+                "hr": "Izgradnja priče"
+              },
+              "text": {
+                "en": "Castania connects real origin, nature, and trust. Each type of honey is tied to a specific apiary location, creating an authentic link between the product and the customer.",
+                "hr": "Castania povezuje stvarno podrijetlo, prirodu i povjerenje. Svaka vrsta meda vezana je za specifičnu lokaciju pčelinjaka."
+              }
+            },
+            {
+              "image": "/assets/Image/castania-business-img2.png",
+              "title": {
+                "en": "Package Design & Photography",
+                "hr": "Dizajn pakiranja i fotografija"
+              },
+              "text": {
+                "en": "Packaging and photography are designed as sales tools. A clean visual language, natural tones, and a strong focus on the product increase perceived value and position it as a recognizable display and gift item.",
+                "hr": "Pakiranje i fotografija dizajnirani su kao prodajni alati. Čist vizualni jezik, prirodni tonovi i snažan fokus na proizvod povećavaju percipiranu vrijednost."
+              }
+            },
+            {
+              "image": "/assets/Image/castania-business-img3.png",
+              "title": {
+                "en": "Developing a Growth System",
+                "hr": "Razvoj sustava za rast"
+              },
+              "text": {
+                "en": "Brand growth is built on a system, not on campaigns. A consistent identity, modular product range, and clearly defined origin enable long-term expansion without loss of recognition.",
+                "hr": "Rast brenda gradi se na sustavu, a ne na kampanjama. Dosljedan identitet, modularni asortiman proizvoda i jasno definirano podrijetlo omogućuju dugoročno širenje."
+              }
+            }
+          ]
+        },
+        "role": {
+          "heading": {
+            "en": "Our Strategic Role",
+            "hr": "Naša strateška uloga"
+          },
+          "intro": {
+            "en": "We designed Castania from the ground up as a complete brand system. Before any visuals, packaging, or marketing execution, we defined the fundamentals:",
+            "hr": "Dizajnirali smo Castaniu iz temelja kao cjelovit brend sustav. Prije bilo kakvih vizuala, pakiranja ili marketinške izvedbe, definirali smo osnove:"
+          },
+          "questions": [
+            {
+              "en": "Who the brand is for?",
+              "hr": "Za koga je brend?"
+            },
+            {
+              "en": "What makes it meaningfully different?",
+              "hr": "Što ga čini značajno drugačijim?"
+            },
+            {
+              "en": "Why it deserves a premium position?",
+              "hr": "Zašto zaslužuje premium poziciju?"
+            }
+          ],
+          "conclusion": {
+            "en": "Every decision that followed, from naming to packaging to e-commerce, was built to reinforce the same story, values, and market position. What We Delivered:",
+            "hr": "Svaka odluka koja je uslijedila, od imenovanja do pakiranja do e-trgovine, izgrađena je kako bi pojačala istu priču, vrijednosti i tržišnu poziciju. Što smo isporučili:"
+          },
+          "cards": [
+            {
+              "icon": "/assets/Image/castania-brand-img3.svg",
+              "title": {
+                "en": "Brand Strategy & Naming",
+                "hr": "Strategija brenda i imenovanje"
+              },
+              "text": {
+                "en": "We created the brand name, positioning, and narrative, transforming a raw product into a brand with meaning, personality, and purpose.",
+                "hr": "Stvorili smo ime brenda, pozicioniranje i narativ, transformirajući sirovi proizvod u brend sa značenjem, osobnošću i svrhom."
+              }
+            },
+            {
+              "icon": "/assets/Image/castania-brand-img.svg",
+              "title": {
+                "en": "Visual Identity & Packaging System",
+                "hr": "Vizualni identitet i sustav pakiranja"
+              },
+              "text": {
+                "en": "A complete visual identity and modular packaging system designed to support a growing product portfolio while maintaining consistency and recognition.",
+                "hr": "Cjelovit vizualni identitet i modularni sustav pakiranja dizajniran da podrži rastući portfelj proizvoda uz održavanje dosljednosti i prepoznatljivosti."
+              }
+            },
+            {
+              "icon": "/assets/Image/castania-brand-img1.svg",
+              "title": {
+                "en": "Web & E-commerce",
+                "hr": "Web i e-trgovina"
+              },
+              "text": {
+                "en": "A brand platform and webshop that communicate quality, origin, and trust, and convert interest into direct-to-consumer sales.",
+                "hr": "Brend platforma i webshop koji komuniciraju kvalitetu, podrijetlo i povjerenje te pretvaraju interes u prodaju direktno potrošačima."
+              }
+            },
+            {
+              "icon": "/assets/Image/castania-brand-img2.svg",
+              "title": {
+                "en": "Retail & POS Materials",
+                "hr": "Maloprodaja i POS materijali"
+              },
+              "text": {
+                "en": "In-store and point-of-sale materials designed to stand out on the shelf and support premium pricing without discounts or explanation.",
+                "hr": "Materijali za trgovinu i prodajna mjesta dizajnirani da se ističu na polici i podržavaju premium cijene bez popusta ili objašnjenja."
+              }
+            }
+          ],
+          "wideCard": {
+            "icon": "/assets/Image/castania-brand-img1.svg",
+            "title": {
+              "en": "Marketing & Communication Framework",
+              "hr": "Marketinški i komunikacijski okvir"
+            },
+            "text": {
+              "en": "A clear tone of voice, storytelling framework, and messaging system used across all channels, ensuring the brand always speaks with one voice.",
+              "hr": "Jasan ton glasa, okvir pripovijedanja i sustav poruka koji se koriste na svim kanalima, osiguravajući da brend uvijek govori jednim glasom."
+            }
+          }
+        },
+        "results": {
+          "heading": {
+            "en": "Partnership Model & Results",
+            "hr": "Model partnerstva i rezultati"
+          },
+          "subtext": {
+            "en": "Instead of competing on price, Castania competes on meaning, quality, and trust.",
+            "hr": "Umjesto da se natječe cijenom, Castania se natječe značenjem, kvalitetom i povjerenjem."
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Marketing Excellence That Works On Your Terms",
+            "hr": "Marketinška Izvrsnost Koja Radi na Vašim Uvjetima"
+          },
+          "subtext": {
+            "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.",
+            "hr": "Jer sjajan marketing ne staje — on evoluira. Bez obzira trebate li web stranicu koja rezervira goste, video koji priča vašu priču ili potpuni kreativni sustav koji raste s vama."
+          },
+          "buttonText": {
+            "en": "Let's Talk",
+            "hr": "Razgovarajmo"
+          },
+          "buttonHref": "/lets-talk#ask"
+        }
       }
-    ]
-  },
-  "role": {
-    "heading": { "en": "Our Strategic Role", "hr": "Naša strateška uloga" },
-    "intro": { "en": "We designed Castania from the ground up as a complete brand system. Before any visuals, packaging, or marketing execution, we defined the fundamentals:", "hr": "Dizajnirali smo Castaniu iz temelja kao cjelovit brend sustav. Prije bilo kakvih vizuala, pakiranja ili marketinške izvedbe, definirali smo osnove:" },
-    "questions": [
-      { "en": "Who the brand is for?", "hr": "Za koga je brend?" },
-      { "en": "What makes it meaningfully different?", "hr": "Što ga čini značajno drugačijim?" },
-      { "en": "Why it deserves a premium position?", "hr": "Zašto zaslužuje premium poziciju?" }
-    ],
-    "conclusion": { "en": "Every decision that followed, from naming to packaging to e-commerce, was built to reinforce the same story, values, and market position. What We Delivered:", "hr": "Svaka odluka koja je uslijedila, od imenovanja do pakiranja do e-trgovine, izgrađena je kako bi pojačala istu priču, vrijednosti i tržišnu poziciju. Što smo isporučili:" },
-    "cards": [
-      {
-        "icon": "/assets/Image/castania-brand-img3.svg",
-        "title": { "en": "Brand Strategy & Naming", "hr": "Strategija brenda i imenovanje" },
-        "text": { "en": "We created the brand name, positioning, and narrative, transforming a raw product into a brand with meaning, personality, and purpose.", "hr": "Stvorili smo ime brenda, pozicioniranje i narativ, transformirajući sirovi proizvod u brend sa značenjem, osobnošću i svrhom." }
-      },
-      {
-        "icon": "/assets/Image/castania-brand-img.svg",
-        "title": { "en": "Visual Identity & Packaging System", "hr": "Vizualni identitet i sustav pakiranja" },
-        "text": { "en": "A complete visual identity and modular packaging system designed to support a growing product portfolio while maintaining consistency and recognition.", "hr": "Cjelovit vizualni identitet i modularni sustav pakiranja dizajniran da podrži rastući portfelj proizvoda uz održavanje dosljednosti i prepoznatljivosti." }
-      },
-      {
-        "icon": "/assets/Image/castania-brand-img1.svg",
-        "title": { "en": "Web & E-commerce", "hr": "Web i e-trgovina" },
-        "text": { "en": "A brand platform and webshop that communicate quality, origin, and trust, and convert interest into direct-to-consumer sales.", "hr": "Brend platforma i webshop koji komuniciraju kvalitetu, podrijetlo i povjerenje te pretvaraju interes u prodaju direktno potrošačima." }
-      },
-      {
-        "icon": "/assets/Image/castania-brand-img2.svg",
-        "title": { "en": "Retail & POS Materials", "hr": "Maloprodaja i POS materijali" },
-        "text": { "en": "In-store and point-of-sale materials designed to stand out on the shelf and support premium pricing without discounts or explanation.", "hr": "Materijali za trgovinu i prodajna mjesta dizajnirani da se ističu na polici i podržavaju premium cijene bez popusta ili objašnjenja." }
-      }
-    ],
-    "wideCard": {
-      "icon": "/assets/Image/castania-brand-img1.svg",
-      "title": { "en": "Marketing & Communication Framework", "hr": "Marketinški i komunikacijski okvir" },
-      "text": { "en": "A clear tone of voice, storytelling framework, and messaging system used across all channels, ensuring the brand always speaks with one voice.", "hr": "Jasan ton glasa, okvir pripovijedanja i sustav poruka koji se koriste na svim kanalima, osiguravajući da brend uvijek govori jednim glasom." }
     }
-  },
-  "results": {
-    "heading": { "en": "Partnership Model & Results", "hr": "Model partnerstva i rezultati" },
-    "subtext": { "en": "Instead of competing on price, Castania competes on meaning, quality, and trust.", "hr": "Umjesto da se natječe cijenom, Castania se natječe značenjem, kvalitetom i povjerenjem." }
-  },
-  "cta": {
-    "heading": { "en": "Marketing Excellence That Works On Your Terms", "hr": "Marketinška Izvrsnost Koja Radi na Vašim Uvjetima" },
-    "subtext": { "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.", "hr": "Jer sjajan marketing ne staje — on evoluira. Bez obzira trebate li web stranicu koja rezervira goste, video koji priča vašu priču ili potpuni kreativni sustav koji raste s vama." },
-    "buttonText": { "en": "Let's Talk", "hr": "Razgovarajmo" },
-    "buttonHref": "/lets-talk#ask"
-  }
+  ]
 }

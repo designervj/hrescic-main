@@ -66,11 +66,8 @@ const pagesSlice = createSlice({
         state.isLoading = false;
         state.allPages = action.payload;
         state.isAllPageFetched = true;
-        const data=action.payload.find((page:Page)=>page.slug==="home")
-        if(data){
-          state.currentPages=data
-        }
-        
+        // NOTE: Do NOT set currentPages here — UpdateCurrentPage handles this
+        // based on the current URL slug, so any page works correctly on language switch.
       })
       .addCase(fetchPagesThunk.rejected, (state) => {
         state.isLoading = false;
@@ -86,10 +83,8 @@ const pagesSlice = createSlice({
         state.isLoading = false;
         state.allPages = action.payload;
         state.isAllPageFetched = true;
-        const data=action.payload.find((page:Page)=>page.slug==="home")
-        if(data){
-          state.currentPages=data
-        }
+        // NOTE: Do NOT set currentPages here — UpdateCurrentPage handles this
+        // based on the current URL slug, so any page works correctly on language switch.
        })
        .addCase(fetchFastApiPagesThunk.rejected, (state) => {
         state.isLoading = false;

@@ -2,10 +2,11 @@
 
 import { FaCircleCheck } from "react-icons/fa6";
 import EditableText from "@/components/shared/EditableText";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useLocale } from "@/lib/i18n/LocaleContext";
 import { getLocalizedString, type LocalizedString } from "@/lib/i18n/locale";
 import { useEditable } from "@/lib/store/pages/useEditable";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 interface FeatureColumn {
   title: LocalizedString;

@@ -1,175 +1,353 @@
 {
-  "metaTitle": { "en": "MyRent Case Study | Hrescic", "hr": "MyRent Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "How MyRent transformed a complex platform into a growth system with clarity and structure.", "hr": "Kako je MyRent transformirao složenu platformu u sustav rasta s jasnoćom i strukturom." },
-  "hero": {
-    "breadcrumbLabel": { "en": "Case Study", "hr": "Studija Slučaja" },
-    "breadcrumbSub": { "en": "Tourism & Travel", "hr": "Turizam & Putovanja" },
-    "heading": {
-      "en": "How MyRent Transformed a Complex Platform into a Growth System",
-      "hr": "Kako je MyRent pretvorio složenu platformu u sustav rasta"
-    },
-    "headingHighlight": {
-      "en": "Building Clarity at Scale:",
-      "hr": "Izgradnja jasnoće u velikom mjerilu:"
-    },
-    "subtext": {
-      "en": "The objective was not visibility alone, but positioning MyRent as a serious, credible player within the broader hospitality ecosystem.",
-      "hr": "Cilj nije bila samo vidljivost, već pozicioniranje MyRenta kao ozbiljnog, vjerodostojnog igrača unutar šireg ugostiteljskog ekosustava."
-    },
-    "image": "/assets/Image/my-rent-case-study.png",
-    "tabs": [
-      { "label": { "en": "The Challenge", "hr": "Izazov" }, "target": "#challenge" },
-      { "label": { "en": "The Goals of Collaboration", "hr": "Ciljevi suradnje" }, "target": "#goals" },
-      { "label": { "en": "Our Strategic Role", "hr": "Naša strateška uloga" }, "target": "#role" },
-      { "label": { "en": "The Results", "hr": "Rezultati" }, "target": "#results" }
-    ]
+  "title": {
+    "en": "MyRent Case Study | Hrescic",
+    "hr": "MyRent Studija Slučaja | Hrescic"
   },
-  "stats": [
-    { "value": { "en": "+85%", "hr": "+85%" }, "label": { "en": "website traffic within two months of launch", "hr": "prometa web stranice u dva mjeseca od pokretanja" } },
-    { "value": { "en": "+130%", "hr": "+130%" }, "label": { "en": "growth in comparison with pre-launch period", "hr": "rast u usporedbi s razdobljem prije pokretanja" } },
-    { "value": { "en": "100/100", "hr": "100/100" }, "label": { "en": "SEO score: 100 / 100, with long-term organic growth", "hr": "SEO ocjena: 100 / 100, s dugoročnim organskim rastom" } },
-    { "value": { "en": "+78%", "hr": "+78%" }, "label": { "en": "content reduction while improving the user journey", "hr": "smanjenje sadržaja uz poboljšanje korisničkog puta" } }
-  ],
-  "intro": {
-    "heading": {
-      "en": "MyRent is a property management platform serving private renters and professional agencies across multiple markets.",
-      "hr": "MyRent je platforma za upravljanje nekretninama koja služi privatnim iznajmljivačima i profesionalnim agencijama na više tržišta."
-    },
-    "text": {
-      "en": "This collaboration was not a one-off project, it was a long-term, partnership-based development model designed to support continuous growth, evolving market needs, and operational scalability. The work spanned strategy, structure, UX, SEO, content, and marketing delivered through multiple collaboration models depending on context and growth phase.",
-      "hr": "Ova suradnja nije bila jednokratni projekt, već dugoročni partnerski model razvoja osmišljen da podrži kontinuirani rast, evoluirajuće potrebe tržišta i operativnu skalabilnost. Rad je obuhvatio strategiju, strukturu, UX, SEO, sadržaj i marketing isporučene kroz više modela suradnje ovisno o kontekstu i fazi rasta."
-    }
+  "slug": "who-we-create-for/myrent",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "MyRent Case Study | Hrescic",
+    "hr": "MyRent Studija Slučaja | Hrescic"
   },
-  "challenge": {
-    "heading": { "en": "The Challenge", "hr": "Izazov" },
-    "text": {
-      "en": "MyRent operates within a highly complex ecosystem that includes multiple user types, a wide range of interconnected services, diverse market contexts, and a strong requirement for both scalability and operational speed.",
-      "hr": "MyRent djeluje unutar vrlo složenog ekosustava koji uključuje više vrsta korisnika, širok raspon međusobno povezanih usluga, različite tržišne kontekste i snažan zahtjev za skalabilnošću i operativnom brzinom."
-    },
-    "image": "/assets/Image/tourism-growth.png",
-    "listHeading": {
-      "en": "As the platform evolved, several structural issues emerged:",
-      "hr": "Kako se platforma razvijala, pojavilo se nekoliko strukturnih problema:"
-    },
-    "listItems": [
-      { "en": "A fragmented and unclear user journey", "hr": "Fragmentiran i nejasan korisnički put" },
-      { "en": "Content overload that obscured the value of the offer", "hr": "Preopterećenost sadržajem koja je prikrila vrijednost ponude" },
-      { "en": "Weak logical connections between individual services", "hr": "Slabe logičke veze između pojedinačnih usluga" },
-      { "en": "The need for strong yet fast SEO optimization", "hr": "Potreba za snažnom, a brzom SEO optimizacijom" },
-      { "en": "Lack of clear market positioning beyond functional descriptions", "hr": "Nedostatak jasnog pozicioniranja na tržištu izvan funkcionalnih opisa" }
-    ],
-    "quoteText": {
-      "en": "The challenge was not building more. It was creating clarity within complexity.",
-      "hr": "Izazov nije bio graditi više. Bilo je to stvaranje jasnoće unutar složenosti."
-    }
+  "metaDescription": {
+    "en": "How MyRent transformed a complex platform into a growth system with clarity and structure.",
+    "hr": "Kako je MyRent transformirao složenu platformu u sustav rasta s jasnoćom i strukturom."
   },
-  "results": {
-    "heading": {
-      "en": "How this works in real tourism businesses",
-      "hr": "Kako to funkcionira u stvarnom turističkom poslovanju"
-    },
-    "subheading": {
-      "en": "(My Rent - Case Study):",
-      "hr": "(My Rent - Studija Slučaja):"
-    },
-    "cards": [
-      {
-        "image": "/assets/Image/tourism-case-study.png",
-        "title": { "en": "A Clear and Logical User Journey", "hr": "Jasan i logičan korisnički put" },
-        "text": { "en": "Users needed to immediately understand:", "hr": "Korisnici su trebali odmah razumjeti:" },
-        "bullets": [
-          { "en": "Where they are", "hr": "Gdje se nalaze" },
-          { "en": "Who the platform is for", "hr": "Kome je platforma namijenjena" },
-          { "en": "How services connect to one another", "hr": "Kako se usluge međusobno povezuju" },
-          { "en": "What the next step is for their specific business type", "hr": "Koji je sljedeći korak za njihov specifičan tip poslovanja" }
-        ]
-      },
-      {
-        "image": "/assets/Image/tourism-brand-img1.png",
-        "title": { "en": "High-Performance Structural SEO", "hr": "Visokoučinkoviti strukturni SEO" },
-        "text": { "en": "Despite the platform's complexity, the website had to:", "hr": "Unatoč složenosti platforme, web stranica je morala:" },
-        "bullets": [
-          { "en": "Load fast", "hr": "Učitavati se brzo" },
-          { "en": "Be technically sound", "hr": "Biti tehnički ispravna" },
-          { "en": "Support long-term organic growth across markets", "hr": "Podržavati dugoročni organski rast na različitim tržištima" }
-        ]
-      },
-      {
-        "image": "/assets/Image/tourism-brand-img2.png",
-        "title": { "en": "Radical Content Reduction Without Value Loss", "hr": "Radikalno smanjenje sadržaja bez gubitka vrijednosti" },
-        "text": {
-          "en": "Total content volume was reduced to approximately one fifth of the original, while preserving:",
-          "hr": "Ukupni volumen sadržaja smanjen je na otprilike jednu petinu izvornog, uz očuvanje:"
+  "content": [
+    {
+      "id": "myrent-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Myrent",
+      "props": {
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Case Study",
+            "hr": "Studija Slučaja"
+          },
+          "breadcrumbSub": {
+            "en": "Tourism & Travel",
+            "hr": "Turizam & Putovanja"
+          },
+          "heading": {
+            "en": "How MyRent Transformed a Complex Platform into a Growth System",
+            "hr": "Kako je MyRent pretvorio složenu platformu u sustav rasta"
+          },
+          "headingHighlight": {
+            "en": "Building Clarity at Scale:",
+            "hr": "Izgradnja jasnoće u velikom mjerilu:"
+          },
+          "subtext": {
+            "en": "The objective was not visibility alone, but positioning MyRent as a serious, credible player within the broader hospitality ecosystem.",
+            "hr": "Cilj nije bila samo vidljivost, već pozicioniranje MyRenta kao ozbiljnog, vjerodostojnog igrača unutar šireg ugostiteljskog ekosustava."
+          },
+          "image": "/assets/Image/my-rent-case-study.png",
+          "tabs": [
+            {
+              "label": {
+                "en": "The Challenge",
+                "hr": "Izazov"
+              },
+              "target": "#challenge"
+            },
+            {
+              "label": {
+                "en": "The Goals of Collaboration",
+                "hr": "Ciljevi suradnje"
+              },
+              "target": "#goals"
+            },
+            {
+              "label": {
+                "en": "Our Strategic Role",
+                "hr": "Naša strateška uloga"
+              },
+              "target": "#role"
+            },
+            {
+              "label": {
+                "en": "The Results",
+                "hr": "Rezultati"
+              },
+              "target": "#results"
+            }
+          ]
         },
-        "bullets": [
-          { "en": "Informational clarity", "hr": "Informativne jasnoće" },
-          { "en": "Market credibility", "hr": "Tržišne vjerodostojnosti" },
-          { "en": "SEO relevance", "hr": "SEO važnosti" }
-        ]
-      }
-    ]
-  },
-  "role": {
-    "heading": { "en": "Our Strategic Role", "hr": "Naša strateška uloga" },
-    "text": {
-      "en": "We operated as an external strategic and operational partner, focused on clarity, structure, and scalability. Our role included:",
-      "hr": "Djelovali smo kao vanjski strateški i operativni partner, usmjeren na jasnoću, strukturu i skalabilnost. Naša uloga je uključivala:"
-    },
-    "cards": [
-      {
-        "icon": "ux",
-        "title": { "en": "UX Design", "hr": "UX Dizajn" },
-        "text": { "en": "Designing the complete user journey and UX logic", "hr": "Dizajniranje kompletnog korisničkog puta i UX logike" }
-      },
-      {
-        "icon": "structure",
-        "title": { "en": "Service Structure", "hr": "Struktura usluga" },
-        "text": { "en": "Structuring the offer and defining relationships between services", "hr": "Strukturiranje ponude i definiranje odnosa između usluga" }
-      },
-      {
-        "icon": "seo",
-        "title": { "en": "SEO Optimisation", "hr": "SEO Optimizacija" },
-        "text": {
-          "en": "SEO architecture and optimization for a complex, multi-service platform",
-          "hr": "SEO arhitektura i optimizacija za složenu platformu s više usluga"
+        "stats": [
+          {
+            "value": {
+              "en": "+85%",
+              "hr": "+85%"
+            },
+            "label": {
+              "en": "website traffic within two months of launch",
+              "hr": "prometa web stranice u dva mjeseca od pokretanja"
+            }
+          },
+          {
+            "value": {
+              "en": "+130%",
+              "hr": "+130%"
+            },
+            "label": {
+              "en": "growth in comparison with pre-launch period",
+              "hr": "rast u usporedbi s razdobljem prije pokretanja"
+            }
+          },
+          {
+            "value": {
+              "en": "100/100",
+              "hr": "100/100"
+            },
+            "label": {
+              "en": "SEO score: 100 / 100, with long-term organic growth",
+              "hr": "SEO ocjena: 100 / 100, s dugoročnim organskim rastom"
+            }
+          },
+          {
+            "value": {
+              "en": "+78%",
+              "hr": "+78%"
+            },
+            "label": {
+              "en": "content reduction while improving the user journey",
+              "hr": "smanjenje sadržaja uz poboljšanje korisničkog puta"
+            }
+          }
+        ],
+        "intro": {
+          "heading": {
+            "en": "MyRent is a property management platform serving private renters and professional agencies across multiple markets.",
+            "hr": "MyRent je platforma za upravljanje nekretninama koja služi privatnim iznajmljivačima i profesionalnim agencijama na više tržišta."
+          },
+          "text": {
+            "en": "This collaboration was not a one-off project, it was a long-term, partnership-based development model designed to support continuous growth, evolving market needs, and operational scalability. The work spanned strategy, structure, UX, SEO, content, and marketing delivered through multiple collaboration models depending on context and growth phase.",
+            "hr": "Ova suradnja nije bila jednokratni projekt, već dugoročni partnerski model razvoja osmišljen da podrži kontinuirani rast, evoluirajuće potrebe tržišta i operativnu skalabilnost. Rad je obuhvatio strategiju, strukturu, UX, SEO, sadržaj i marketing isporučene kroz više modela suradnje ovisno o kontekstu i fazi rasta."
+          }
+        },
+        "challenge": {
+          "heading": {
+            "en": "The Challenge",
+            "hr": "Izazov"
+          },
+          "text": {
+            "en": "MyRent operates within a highly complex ecosystem that includes multiple user types, a wide range of interconnected services, diverse market contexts, and a strong requirement for both scalability and operational speed.",
+            "hr": "MyRent djeluje unutar vrlo složenog ekosustava koji uključuje više vrsta korisnika, širok raspon međusobno povezanih usluga, različite tržišne kontekste i snažan zahtjev za skalabilnošću i operativnom brzinom."
+          },
+          "image": "/assets/Image/tourism-growth.png",
+          "listHeading": {
+            "en": "As the platform evolved, several structural issues emerged:",
+            "hr": "Kako se platforma razvijala, pojavilo se nekoliko strukturnih problema:"
+          },
+          "listItems": [
+            {
+              "en": "A fragmented and unclear user journey",
+              "hr": "Fragmentiran i nejasan korisnički put"
+            },
+            {
+              "en": "Content overload that obscured the value of the offer",
+              "hr": "Preopterećenost sadržajem koja je prikrila vrijednost ponude"
+            },
+            {
+              "en": "Weak logical connections between individual services",
+              "hr": "Slabe logičke veze između pojedinačnih usluga"
+            },
+            {
+              "en": "The need for strong yet fast SEO optimization",
+              "hr": "Potreba za snažnom, a brzom SEO optimizacijom"
+            },
+            {
+              "en": "Lack of clear market positioning beyond functional descriptions",
+              "hr": "Nedostatak jasnog pozicioniranja na tržištu izvan funkcionalnih opisa"
+            }
+          ],
+          "quoteText": {
+            "en": "The challenge was not building more. It was creating clarity within complexity.",
+            "hr": "Izazov nije bio graditi više. Bilo je to stvaranje jasnoće unutar složenosti."
+          }
+        },
+        "results": {
+          "heading": {
+            "en": "How this works in real tourism businesses",
+            "hr": "Kako to funkcionira u stvarnom turističkom poslovanju"
+          },
+          "subheading": {
+            "en": "(My Rent - Case Study):",
+            "hr": "(My Rent - Studija Slučaja):"
+          },
+          "cards": [
+            {
+              "image": "/assets/Image/tourism-case-study.png",
+              "title": {
+                "en": "A Clear and Logical User Journey",
+                "hr": "Jasan i logičan korisnički put"
+              },
+              "text": {
+                "en": "Users needed to immediately understand:",
+                "hr": "Korisnici su trebali odmah razumjeti:"
+              },
+              "bullets": [
+                {
+                  "en": "Where they are",
+                  "hr": "Gdje se nalaze"
+                },
+                {
+                  "en": "Who the platform is for",
+                  "hr": "Kome je platforma namijenjena"
+                },
+                {
+                  "en": "How services connect to one another",
+                  "hr": "Kako se usluge međusobno povezuju"
+                },
+                {
+                  "en": "What the next step is for their specific business type",
+                  "hr": "Koji je sljedeći korak za njihov specifičan tip poslovanja"
+                }
+              ]
+            },
+            {
+              "image": "/assets/Image/tourism-brand-img1.png",
+              "title": {
+                "en": "High-Performance Structural SEO",
+                "hr": "Visokoučinkoviti strukturni SEO"
+              },
+              "text": {
+                "en": "Despite the platform's complexity, the website had to:",
+                "hr": "Unatoč složenosti platforme, web stranica je morala:"
+              },
+              "bullets": [
+                {
+                  "en": "Load fast",
+                  "hr": "Učitavati se brzo"
+                },
+                {
+                  "en": "Be technically sound",
+                  "hr": "Biti tehnički ispravna"
+                },
+                {
+                  "en": "Support long-term organic growth across markets",
+                  "hr": "Podržavati dugoročni organski rast na različitim tržištima"
+                }
+              ]
+            },
+            {
+              "image": "/assets/Image/tourism-brand-img2.png",
+              "title": {
+                "en": "Radical Content Reduction Without Value Loss",
+                "hr": "Radikalno smanjenje sadržaja bez gubitka vrijednosti"
+              },
+              "text": {
+                "en": "Total content volume was reduced to approximately one fifth of the original, while preserving:",
+                "hr": "Ukupni volumen sadržaja smanjen je na otprilike jednu petinu izvornog, uz očuvanje:"
+              },
+              "bullets": [
+                {
+                  "en": "Informational clarity",
+                  "hr": "Informativne jasnoće"
+                },
+                {
+                  "en": "Market credibility",
+                  "hr": "Tržišne vjerodostojnosti"
+                },
+                {
+                  "en": "SEO relevance",
+                  "hr": "SEO važnosti"
+                }
+              ]
+            }
+          ]
+        },
+        "role": {
+          "heading": {
+            "en": "Our Strategic Role",
+            "hr": "Naša strateška uloga"
+          },
+          "text": {
+            "en": "We operated as an external strategic and operational partner, focused on clarity, structure, and scalability. Our role included:",
+            "hr": "Djelovali smo kao vanjski strateški i operativni partner, usmjeren na jasnoću, strukturu i skalabilnost. Naša uloga je uključivala:"
+          },
+          "cards": [
+            {
+              "icon": "ux",
+              "title": {
+                "en": "UX Design",
+                "hr": "UX Dizajn"
+              },
+              "text": {
+                "en": "Designing the complete user journey and UX logic",
+                "hr": "Dizajniranje kompletnog korisničkog puta i UX logike"
+              }
+            },
+            {
+              "icon": "structure",
+              "title": {
+                "en": "Service Structure",
+                "hr": "Struktura usluga"
+              },
+              "text": {
+                "en": "Structuring the offer and defining relationships between services",
+                "hr": "Strukturiranje ponude i definiranje odnosa između usluga"
+              }
+            },
+            {
+              "icon": "seo",
+              "title": {
+                "en": "SEO Optimisation",
+                "hr": "SEO Optimizacija"
+              },
+              "text": {
+                "en": "SEO architecture and optimization for a complex, multi-service platform",
+                "hr": "SEO arhitektura i optimizacija za složenu platformu s više usluga"
+              }
+            },
+            {
+              "icon": "content",
+              "title": {
+                "en": "Content Strategy",
+                "hr": "Strategija sadržaja"
+              },
+              "text": {
+                "en": "Content strategy centered on understanding, trust, and conversion",
+                "hr": "Strategija sadržaja usmjerena na razumijevanje, povjerenje i konverziju"
+              }
+            }
+          ],
+          "bottomText": {
+            "en": "Rather than optimizing isolated elements, we designed a system where all components reinforce one another.",
+            "hr": "Umjesto optimiziranja izoliranih elemenata, dizajniramo jedan jasan sustav gdje sve komponente rade zajedno."
+          },
+          "bottomAccentText": {
+            "en": "a system where all components reinforce one another.",
+            "hr": "jedan jasan sustav gdje sve komponente rade zajedno."
+          },
+          "bottomImage": "/assets/Image/tourism-brand-img.png"
+        },
+        "partnership": {
+          "heading": {
+            "en": "Partnership Model & Results",
+            "hr": "Partnerski model i rezultati"
+          },
+          "text": {
+            "en": "Providing additional expertise MyRent did not require in-house, without expanding their internal team. This flexible model allowed MyRent to scale efficiently, maintain control, and ensure consistent quality across initiatives. The results:",
+            "hr": "Pružanje dodatne ekspertize koju MyRent nije trebao unutar vlastitog tima, bez širenja internog tima. Ovaj fleksibilni model omogućio je MyRentu učinkovito skaliranje, zadržavanje kontrole i osiguravanje dosljedne kvalitete. Rezultati:"
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Marketing Excellence That Works On Your Terms",
+            "hr": "Izvrsnost marketinga koja funkcionira pod vašim uvjetima"
+          },
+          "subtext": {
+            "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.",
+            "hr": "Jer dobar marketing ne staje — on evoluira. Bilo da trebate web stranicu koja rezervira goste, video koji priča vašu priču ili cjeloviti kreativni sustav koji se skalira s vama — tu smo da pomognemo vašem brendu da ostane relevantan, dosljedan i živ."
+          },
+          "button1Text": {
+            "en": "Let's Talk",
+            "hr": "Razgovarajmo"
+          },
+          "button1Href": "/lets-talk#ask"
         }
-      },
-      {
-        "icon": "content",
-        "title": { "en": "Content Strategy", "hr": "Strategija sadržaja" },
-        "text": {
-          "en": "Content strategy centered on understanding, trust, and conversion",
-          "hr": "Strategija sadržaja usmjerena na razumijevanje, povjerenje i konverziju"
-        }
       }
-    ],
-    "bottomText": {
-      "en": "Rather than optimizing isolated elements, we designed a system where all components reinforce one another.",
-      "hr": "Umjesto optimiziranja izoliranih elemenata, dizajniramo jedan jasan sustav gdje sve komponente rade zajedno."
-    },
-    "bottomAccentText": {
-      "en": "a system where all components reinforce one another.",
-      "hr": "jedan jasan sustav gdje sve komponente rade zajedno."
-    },
-    "bottomImage": "/assets/Image/tourism-brand-img.png"
-  },
-  "partnership": {
-    "heading": { "en": "Partnership Model & Results", "hr": "Partnerski model i rezultati" },
-    "text": {
-      "en": "Providing additional expertise MyRent did not require in-house, without expanding their internal team. This flexible model allowed MyRent to scale efficiently, maintain control, and ensure consistent quality across initiatives. The results:",
-      "hr": "Pružanje dodatne ekspertize koju MyRent nije trebao unutar vlastitog tima, bez širenja internog tima. Ovaj fleksibilni model omogućio je MyRentu učinkovito skaliranje, zadržavanje kontrole i osiguravanje dosljedne kvalitete. Rezultati:"
     }
-  },
-  "cta": {
-    "heading": {
-      "en": "Marketing Excellence That Works On Your Terms",
-      "hr": "Izvrsnost marketinga koja funkcionira pod vašim uvjetima"
-    },
-    "subtext": {
-      "en": "Because great marketing doesn't stop — it evolves. Whether you need a website that books guests, a video that tells your story, or a full creative system that scales with you — we're here to help your brand stay relevant, consistent and alive.",
-      "hr": "Jer dobar marketing ne staje — on evoluira. Bilo da trebate web stranicu koja rezervira goste, video koji priča vašu priču ili cjeloviti kreativni sustav koji se skalira s vama — tu smo da pomognemo vašem brendu da ostane relevantan, dosljedan i živ."
-    },
-    "button1Text": { "en": "Let's Talk", "hr": "Razgovarajmo" },
-    "button1Href": "/lets-talk#ask"
-  }
+  ]
 }

@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { headerData } from "@/lib/data/pageLoader";
+import headerData from "@/lib/data/pages/headerData.json";
 import { getLocalizedString, type LocaleCode, type LocalizedString } from "@/lib/i18n/locale";
 
 interface NavItem {

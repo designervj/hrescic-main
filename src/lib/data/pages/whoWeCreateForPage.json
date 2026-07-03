@@ -1,7 +1,10 @@
 {
+  "title": { "en": "Who We Create For | Hrescic", "hr": "Za Koga Stvaramo | Hrescic" },
+  "slug": "who-we-create-for",
+  "isPublished": true,
   "metaTitle": { "en": "Who We Create For | Hrescic", "hr": "Za Koga Stvaramo | Hrescic" },
   "metaDescription": { "en": "Hrescic works with forward-thinking businesses across tourism, health, education, and local boutique brands.", "hr": "Hrescic radi s naprednim tvrtkama u turizmu, zdravstvu, obrazovanju i lokalnim butik brendovima." },
-  "sections": [
+  "content": [
     {
       "id": "wcf-hero-001",
       "type": "hero-wwcf",

@@ -1,7 +1,10 @@
 {
+  "title": { "en": "Let's Talk | Hrescic", "hr": "Kontakt | Hrescic" },
+  "slug": "lets-talk",
+  "isPublished": true,
   "metaTitle": { "en": "Let's Talk | Hrescic", "hr": "Kontakt | Hrescic" },
   "metaDescription": { "en": "Contact Hrescic — book a demo or ask a question.", "hr": "Kontaktirajte Hrescic — rezervirajte demo ili postavite pitanje." },
-  "sections": [
+  "content": [
     {
       "id": "lt-hero-001",
       "type": "hero-centered",

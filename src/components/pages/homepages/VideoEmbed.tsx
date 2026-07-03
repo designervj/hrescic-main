@@ -3,7 +3,8 @@
 import { useMemo, useState } from "react";
 import { Play } from "lucide-react";
 import YouTube, { type YouTubeProps } from "react-youtube";
-import type { PageBlock } from "@/lib/data/pageLoader";
+import { PageBlock } from "@/lib/store/pages/pageType";
+
 
 interface VideoEmbedProps {
   videoUrl: string;

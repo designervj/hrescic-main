@@ -1,25 +1,56 @@
 {
-  "metaTitle": { "en": "L'Oréal Revitalift | Hrescic", "hr": "L'Oréal Revitalift | Hrescic" },
+  "title": {
+    "en": "L'Oréal Revitalift | Hrescic",
+    "hr": "L'Oréal Revitalift | Hrescic"
+  },
+  "slug": "who-we-create-for/loreal",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "L'Oréal Revitalift | Hrescic",
+    "hr": "L'Oréal Revitalift | Hrescic"
+  },
   "metaDescription": {
     "en": "Creative & video direction, storyboard, and illustration for L'Oreal Revitalift Laser Renew in cooperation with HrvojeXF.",
     "hr": "Kreativno i video usmjeravanje, knjiga snimanja i ilustracija za L'Oreal Revitalift Laser Renew u suradnji s HrvojeXF."
   },
-  "type": "loreal",
-  "breadcrumb": { "en": "Work", "hr": "Rad" },
-  "breadcrumbSub": { "en": "Video production", "hr": "Video produkcija" },
-  "heading": {
-    "en": "The packaging served as the initial reference point; the full visual direction and all supporting assets were developed and produced in my studio.",
-    "hr": "Pakiranje je poslužilo kao početna referentna točka; cjelokupno vizualno usmjerenje i svi popratni materijali razvijeni su i proizvedeni u mom studiju."
-  },
-  "image": "/assets/Image/loreal-hero.png",
-  "video": {
-    "thumbnail": "/assets/Image/video-placeholder-img.png",
-    "youtubeId": "PmQPMplV1oE",
-    "brandLabel": { "en": "L'ORÉAL", "hr": "L'ORÉAL" },
-    "title": { "en": "L'Oreal Revitalift Laser Renew - Video Animation", "hr": "L'Oreal Revitalift Laser Renew - Video Animacija" },
-    "subtext": {
-      "en": "Creative & video direction, storyboard, and illustration, in cooperation with HrvojeXF",
-      "hr": "Kreativno i video usmjeravanje, knjiga snimanja i ilustracija, u suradnji s HrvojeXF"
+  "content": [
+    {
+      "id": "loreal-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Loreal",
+      "props": {
+        "type": "loreal",
+        "breadcrumb": {
+          "en": "Work",
+          "hr": "Rad"
+        },
+        "breadcrumbSub": {
+          "en": "Video production",
+          "hr": "Video produkcija"
+        },
+        "heading": {
+          "en": "The packaging served as the initial reference point; the full visual direction and all supporting assets were developed and produced in my studio.",
+          "hr": "Pakiranje je poslužilo kao početna referentna točka; cjelokupno vizualno usmjerenje i svi popratni materijali razvijeni su i proizvedeni u mom studiju."
+        },
+        "image": "/assets/Image/loreal-hero.png",
+        "video": {
+          "thumbnail": "/assets/Image/video-placeholder-img.png",
+          "youtubeId": "PmQPMplV1oE",
+          "brandLabel": {
+            "en": "L'ORÉAL",
+            "hr": "L'ORÉAL"
+          },
+          "title": {
+            "en": "L'Oreal Revitalift Laser Renew - Video Animation",
+            "hr": "L'Oreal Revitalift Laser Renew - Video Animacija"
+          },
+          "subtext": {
+            "en": "Creative & video direction, storyboard, and illustration, in cooperation with HrvojeXF",
+            "hr": "Kreativno i video usmjeravanje, knjiga snimanja i ilustracija, u suradnji s HrvojeXF"
+          }
+        }
+      }
     }
-  }
+  ]
 }

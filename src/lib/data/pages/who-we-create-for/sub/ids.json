@@ -1,21 +1,61 @@
 {
-  "metaTitle": { "en": "IDS Case Study | Hrescic", "hr": "IDS Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "Coaching.com e-learning Platform, creative direction, video production, and delivery system", "hr": "Coaching.com e-learning platforma, kreativna direkcija, video produkcija i sustav isporuke" },
-  "type": "ids",
-  "hero": {
-    "breadcrumbLabel": { "en": "Work", "hr": "Rad" },
-    "breadcrumbSub": { "en": "Web UX & UI, Illustration, Video Direction", "hr": "Web UX & UI, Ilustracija, Video Direkcija" },
-    "logo": "/assets/Image/Mask group.png",
-    "heading": { "en": "Coaching.com e-learning Platform, creative direction, video production, and delivery system", "hr": "Coaching.com e-learning platforma, kreativna direkcija, video produkcija i sustav isporuke" },
-    "image": "/assets/Image/ids-images.png"
+  "title": {
+    "en": "IDS Case Study | Hrescic",
+    "hr": "IDS Studija Slučaja | Hrescic"
   },
-  "videoSection": {
-    "image": "/assets/Image/Rectangle 1817.png",
-    "subtitle": { "en": "IDS showreel storyboard, video direction, in cooperation with hrescic.com", "hr": "IDS showreel storyboard, video direkcija, u suradnji s hrescic.com" },
-    "text": { "en": "Creative Director with 20+ years of experience across education, consulting, healthcare, and tourism, turning complex business goals into high-performing creative systems that grow long-term value and revenue.", "hr": "Kreativni direktor s više od 20 godina iskustva u obrazovanju, savjetovanju, zdravstvu i turizmu, pretvarajući složene poslovne ciljeve u visoko učinkovite kreativne sustave koji povećavaju dugoročnu vrijednost i prihod." }
+  "slug": "who-we-create-for/ids",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "IDS Case Study | Hrescic",
+    "hr": "IDS Studija Slučaja | Hrescic"
   },
-  "mockupSection": {
-    "image": "/assets/Image/Rectangle 1818.png",
-    "label": { "en": "Web UX & UI", "hr": "Web UX & UI" }
-  }
+  "metaDescription": {
+    "en": "Coaching.com e-learning Platform, creative direction, video production, and delivery system",
+    "hr": "Coaching.com e-learning platforma, kreativna direkcija, video produkcija i sustav isporuke"
+  },
+  "content": [
+    {
+      "id": "ids-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Ids",
+      "props": {
+        "type": "ids",
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Work",
+            "hr": "Rad"
+          },
+          "breadcrumbSub": {
+            "en": "Web UX & UI, Illustration, Video Direction",
+            "hr": "Web UX & UI, Ilustracija, Video Direkcija"
+          },
+          "logo": "/assets/Image/Mask group.png",
+          "heading": {
+            "en": "Coaching.com e-learning Platform, creative direction, video production, and delivery system",
+            "hr": "Coaching.com e-learning platforma, kreativna direkcija, video produkcija i sustav isporuke"
+          },
+          "image": "/assets/Image/ids-images.png"
+        },
+        "videoSection": {
+          "image": "/assets/Image/Rectangle 1817.png",
+          "subtitle": {
+            "en": "IDS showreel storyboard, video direction, in cooperation with hrescic.com",
+            "hr": "IDS showreel storyboard, video direkcija, u suradnji s hrescic.com"
+          },
+          "text": {
+            "en": "Creative Director with 20+ years of experience across education, consulting, healthcare, and tourism, turning complex business goals into high-performing creative systems that grow long-term value and revenue.",
+            "hr": "Kreativni direktor s više od 20 godina iskustva u obrazovanju, savjetovanju, zdravstvu i turizmu, pretvarajući složene poslovne ciljeve u visoko učinkovite kreativne sustave koji povećavaju dugoročnu vrijednost i prihod."
+          }
+        },
+        "mockupSection": {
+          "image": "/assets/Image/Rectangle 1818.png",
+          "label": {
+            "en": "Web UX & UI",
+            "hr": "Web UX & UI"
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,102 +1,256 @@
 {
-  "metaTitle": { "en": "Education & E-Learning | Hrescic", "hr": "Obrazovanje i E-Učenje | Hrescic" },
-  "metaDescription": { "en": "Education & e-learning brands don't scale by adding more products. They scale by creating clarity.", "hr": "Obrazovni brendovi ne skaliraju dodavanjem proizvoda. Skaliraju stvaranjem jasnoće." },
-  "theme": {
-    "bgColor": "#FFF0F5",
-    "accentColor": "#5E1DE1",
-    "buttonColor": "#5E1DE1",
-    "buttonTextColor": "#FFFFFF",
-    "textColor": "#0F0F3D",
-    "sectionBg": "#F8F8F8",
-    "growthBg": "#F7F0FF",
-    "growthPanelBg": "#EBE1F7",
-    "structureCardBg": "#FFFFFF"
+  "title": {
+    "en": "Education & E-Learning | Hrescic",
+    "hr": "Obrazovanje i E-Učenje | Hrescic"
   },
-  "hero": {
-    "breadcrumb": { "en": "Who We Create For", "hr": "Za Koga Stvaramo" },
-    "breadcrumbLabel": { "en": "Education & E-Learning", "hr": "Obrazovanje i E-Učenje" },
-    "heading": { "en": "Education & e-learning brands don't scale by adding more products. They scale by creating clarity.", "hr": "Obrazovni brendovi ne skaliraju dodavanjem proizvoda. Skaliraju stvaranjem jasnoće." },
-    "headingGradient": "linear-gradient(90deg, #5E1DE1 0%, #FF1DA4 100%)",
-    "subtext": { "en": "We help education and e-learning businesses align programs, platforms and content into one coherent system — built to scale without losing trust, structure or focus.", "hr": "Pomažemo obrazovnim tvrtkama uskladiti programe, platforme i sadržaj u jedan koherentni sustav — izgrađen za skaliranje bez gubitka povjerenja, strukture ili fokusa." },
-    "button1Text": { "en": "Talk about scaling your education business", "hr": "Razgovarajte o skaliranju vašeg obrazovnog poslovanja" },
-    "button1Href": "/lets-talk#ask",
-    "button2Text": { "en": "See how education platforms grow with us", "hr": "Pogledajte kako obrazovne platforme rastu s nama" },
-    "button2Href": "/lets-talk#demo",
-    "image": "/assets/Image/education-imgs.png"
+  "slug": "who-we-create-for/education-e-learning",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Education & E-Learning | Hrescic",
+    "hr": "Obrazovanje i E-Učenje | Hrescic"
   },
-  "reality": {
-    "heading": { "en": "The reality of education & e-learning today", "hr": "Stvarnost obrazovanja i e-učenja danas" },
-    "subtext": { "en": "Education businesses grow fast, and then stall.", "hr": "Obrazovne tvrtke brzo rastu, a onda zastanu." },
-    "whyHeading": { "en": "The Challenge", "hr": "Izazov" },
-    "whyText": { "en": "Programs, platforms and funnels evolve separately, creating fragmented experiences for learners, teams and partners.", "hr": "Programi, platforme i tokovi se razvijaju odvojeno, stvarajući fragmentirana iskustva za učenike, timove i partnere." },
-    "whatHeading": { "en": "What this leads to:", "hr": "Do čega ovo dovodi:" },
-    "issues": [
-      { "en": "Disconnected products and offerings", "hr": "Nepovezani proizvodi i ponude" },
-      { "en": "Inconsistent UX, brand and messaging", "hr": "Nedosljedni UX, brend i poruke" },
-      { "en": "Complex funnels that don't convert as expected", "hr": "Složeni tokovi koji ne pretvaraju kako se očekuje" },
-      { "en": "Growth that becomes harder to manage over time", "hr": "Rast koji s vremenom postaje teže upravljati" }
-    ]
+  "metaDescription": {
+    "en": "Education & e-learning brands don't scale by adding more products. They scale by creating clarity.",
+    "hr": "Obrazovni brendovi ne skaliraju dodavanjem proizvoda. Skaliraju stvaranjem jasnoće."
   },
-  "growth": {
-    "heading": { "en": "What actually drives growth in education", "hr": "Što zapravo pokreće rast u obrazovanju" },
-    "text": { "en": "Education growth doesn't come from more courses, more tools or more features. It comes from clarity across the entire learning ecosystem — from first touchpoint to program delivery.", "hr": "Rast u obrazovanju ne dolazi od više tečajeva, više alata ili više značajki. Dolazi od jasnoće u cijelom ekosustavu učenja — od prve dodirne točke do isporuke programa." },
-    "image": "/assets/Image/educations-growth-img.png",
-    "scaleHeading": { "en": "Education and e-learning brands grow when they have:", "hr": "Obrazovni brendovi rastu kada imaju:" },
-    "scaleItems": [
-      { "en": "A clear structure learners immediately understand", "hr": "Jasnu strukturu koju učenici odmah razumiju" },
-      { "en": "A unified experience across programs, platforms and funnels", "hr": "Ujedinjeno iskustvo kroz programe, platforme i tokove" },
-      { "en": "Messaging that builds trust before commitment", "hr": "Poruke koje grade povjerenje prije obveze" },
-      { "en": "Systems that support scale without adding confusion", "hr": "Sustave koji podržavaju skaliranje bez dodavanja zabune" }
-    ],
-    "quote": { "en": "That's what we build by aligning brand, UX, content and structure into one scalable education system.", "hr": "To je ono što gradimo usklađivanjem brenda, UX-a, sadržaja i strukture u jedan skalabilni obrazovni sustav." }
-  },
-  "cases": {
-    "heading": { "en": "How this works in real education ecosystems:", "hr": "Kako ovo funkcionira u stvarnim obrazovnim ekosustavima:" },
-    "subheading": { "en": "(Coaching.com - Case Study):", "hr": "(Coaching.com - Studija slučaja):" },
-    "cards": [
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Intro", "hr": "Uvod" },
-        "text": { "en": "One example of turning fragmented education products into a cohesive, scalable system.", "hr": "Jedan primjer pretvaranja fragmentiranih obrazovnih proizvoda u kohezivan, skalabilan sustav." },
-        "image": "/assets/Image/educations-case-img.png",
-        "bg": "bg-[#F7F0FF]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Headline", "hr": "Naslov" },
-        "text": { "en": "From separate products to one ecosystem: Scaling Coaching.com through clarity", "hr": "Od odvojenih proizvoda do jednog ekosustava: Skaliranje Coaching.com kroz jasnoću" },
-        "image": "/assets/Image/educations-case-1.png",
-        "bg": "bg-[#FFF0FD]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Summary", "hr": "Sažetak" },
-        "text": { "en": "Coaching.com operated across independently developed education programs, software and marketplace services. The challenge wasn't growth, it was unifying structure, experience and delivery without limiting future evolution.", "hr": "Coaching.com je djelovao kroz samostalno razvijene obrazovne programe, softver i marketplace usluge. Izazov nije bio rast, već objedinjavanje strukture, iskustva i isporuke bez ograničavanja buduće evolucije." },
-        "image": "/assets/Image/educations-case-2.png",
-        "bg": "bg-[#F9F3F3]"
+  "content": [
+    {
+      "id": "education-e-learning-page",
+      "type": "industry-page",
+      "layout": "default",
+      "adminTitle": "Industry Page - Education E Learning",
+      "props": {
+        "theme": {
+          "bgColor": "#FFF0F5",
+          "accentColor": "#5E1DE1",
+          "buttonColor": "#5E1DE1",
+          "buttonTextColor": "#FFFFFF",
+          "textColor": "#0F0F3D",
+          "sectionBg": "#F8F8F8",
+          "growthBg": "#F7F0FF",
+          "growthPanelBg": "#EBE1F7",
+          "structureCardBg": "#FFFFFF"
+        },
+        "hero": {
+          "breadcrumb": {
+            "en": "Who We Create For",
+            "hr": "Za Koga Stvaramo"
+          },
+          "breadcrumbLabel": {
+            "en": "Education & E-Learning",
+            "hr": "Obrazovanje i E-Učenje"
+          },
+          "heading": {
+            "en": "Education & e-learning brands don't scale by adding more products. They scale by creating clarity.",
+            "hr": "Obrazovni brendovi ne skaliraju dodavanjem proizvoda. Skaliraju stvaranjem jasnoće."
+          },
+          "headingGradient": "linear-gradient(90deg, #5E1DE1 0%, #FF1DA4 100%)",
+          "subtext": {
+            "en": "We help education and e-learning businesses align programs, platforms and content into one coherent system — built to scale without losing trust, structure or focus.",
+            "hr": "Pomažemo obrazovnim tvrtkama uskladiti programe, platforme i sadržaj u jedan koherentni sustav — izgrađen za skaliranje bez gubitka povjerenja, strukture ili fokusa."
+          },
+          "button1Text": {
+            "en": "Talk about scaling your education business",
+            "hr": "Razgovarajte o skaliranju vašeg obrazovnog poslovanja"
+          },
+          "button1Href": "/lets-talk#ask",
+          "button2Text": {
+            "en": "See how education platforms grow with us",
+            "hr": "Pogledajte kako obrazovne platforme rastu s nama"
+          },
+          "button2Href": "/lets-talk#demo",
+          "image": "/assets/Image/education-imgs.png"
+        },
+        "reality": {
+          "heading": {
+            "en": "The reality of education & e-learning today",
+            "hr": "Stvarnost obrazovanja i e-učenja danas"
+          },
+          "subtext": {
+            "en": "Education businesses grow fast, and then stall.",
+            "hr": "Obrazovne tvrtke brzo rastu, a onda zastanu."
+          },
+          "whyHeading": {
+            "en": "The Challenge",
+            "hr": "Izazov"
+          },
+          "whyText": {
+            "en": "Programs, platforms and funnels evolve separately, creating fragmented experiences for learners, teams and partners.",
+            "hr": "Programi, platforme i tokovi se razvijaju odvojeno, stvarajući fragmentirana iskustva za učenike, timove i partnere."
+          },
+          "whatHeading": {
+            "en": "What this leads to:",
+            "hr": "Do čega ovo dovodi:"
+          },
+          "issues": [
+            {
+              "en": "Disconnected products and offerings",
+              "hr": "Nepovezani proizvodi i ponude"
+            },
+            {
+              "en": "Inconsistent UX, brand and messaging",
+              "hr": "Nedosljedni UX, brend i poruke"
+            },
+            {
+              "en": "Complex funnels that don't convert as expected",
+              "hr": "Složeni tokovi koji ne pretvaraju kako se očekuje"
+            },
+            {
+              "en": "Growth that becomes harder to manage over time",
+              "hr": "Rast koji s vremenom postaje teže upravljati"
+            }
+          ]
+        },
+        "growth": {
+          "heading": {
+            "en": "What actually drives growth in education",
+            "hr": "Što zapravo pokreće rast u obrazovanju"
+          },
+          "text": {
+            "en": "Education growth doesn't come from more courses, more tools or more features. It comes from clarity across the entire learning ecosystem — from first touchpoint to program delivery.",
+            "hr": "Rast u obrazovanju ne dolazi od više tečajeva, više alata ili više značajki. Dolazi od jasnoće u cijelom ekosustavu učenja — od prve dodirne točke do isporuke programa."
+          },
+          "image": "/assets/Image/educations-growth-img.png",
+          "scaleHeading": {
+            "en": "Education and e-learning brands grow when they have:",
+            "hr": "Obrazovni brendovi rastu kada imaju:"
+          },
+          "scaleItems": [
+            {
+              "en": "A clear structure learners immediately understand",
+              "hr": "Jasnu strukturu koju učenici odmah razumiju"
+            },
+            {
+              "en": "A unified experience across programs, platforms and funnels",
+              "hr": "Ujedinjeno iskustvo kroz programe, platforme i tokove"
+            },
+            {
+              "en": "Messaging that builds trust before commitment",
+              "hr": "Poruke koje grade povjerenje prije obveze"
+            },
+            {
+              "en": "Systems that support scale without adding confusion",
+              "hr": "Sustave koji podržavaju skaliranje bez dodavanja zabune"
+            }
+          ],
+          "quote": {
+            "en": "That's what we build by aligning brand, UX, content and structure into one scalable education system.",
+            "hr": "To je ono što gradimo usklađivanjem brenda, UX-a, sadržaja i strukture u jedan skalabilni obrazovni sustav."
+          }
+        },
+        "cases": {
+          "heading": {
+            "en": "How this works in real education ecosystems:",
+            "hr": "Kako ovo funkcionira u stvarnim obrazovnim ekosustavima:"
+          },
+          "subheading": {
+            "en": "(Coaching.com - Case Study):",
+            "hr": "(Coaching.com - Studija slučaja):"
+          },
+          "cards": [
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Intro",
+                "hr": "Uvod"
+              },
+              "text": {
+                "en": "One example of turning fragmented education products into a cohesive, scalable system.",
+                "hr": "Jedan primjer pretvaranja fragmentiranih obrazovnih proizvoda u kohezivan, skalabilan sustav."
+              },
+              "image": "/assets/Image/educations-case-img.png",
+              "bg": "bg-[#F7F0FF]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Headline",
+                "hr": "Naslov"
+              },
+              "text": {
+                "en": "From separate products to one ecosystem: Scaling Coaching.com through clarity",
+                "hr": "Od odvojenih proizvoda do jednog ekosustava: Skaliranje Coaching.com kroz jasnoću"
+              },
+              "image": "/assets/Image/educations-case-1.png",
+              "bg": "bg-[#FFF0FD]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Summary",
+                "hr": "Sažetak"
+              },
+              "text": {
+                "en": "Coaching.com operated across independently developed education programs, software and marketplace services. The challenge wasn't growth, it was unifying structure, experience and delivery without limiting future evolution.",
+                "hr": "Coaching.com je djelovao kroz samostalno razvijene obrazovne programe, softver i marketplace usluge. Izazov nije bio rast, već objedinjavanje strukture, iskustva i isporuke bez ograničavanja buduće evolucije."
+              },
+              "image": "/assets/Image/educations-case-2.png",
+              "bg": "bg-[#F9F3F3]"
+            }
+          ],
+          "ctaText": {
+            "en": "See how clarity enables scale in education",
+            "hr": "Pogledajte kako jasnoća omogućuje skaliranje u obrazovanju"
+          },
+          "ctaHref": "/who-we-create-for/cdc"
+        },
+        "structure": {
+          "heading": {
+            "en": "Why clarity beats complexity in education?",
+            "hr": "Zašto jasnoća pobjeđuje složenost u obrazovanju?"
+          },
+          "text": {
+            "en": "Education businesses don't struggle because they lack expertise. They struggle because complexity hides value.",
+            "hr": "Obrazovne tvrtke ne pate jer im nedostaje stručnost. Pate jer složenost skriva vrijednost."
+          },
+          "accentText": {
+            "en": "we design shared foundations that allow different programs and products to evolve independently,",
+            "hr": "dizajniramo zajedničke temelje koji omogućuju različitim programima i proizvodima da se razvijaju samostalno,"
+          },
+          "fullText": {
+            "en": "Instead of enforcing rigid standardization, we design shared foundations that allow different programs and products to evolve independently, while remaining structurally and visually aligned.",
+            "hr": "Umjesto nametanja krute standardizacije, dizajniramo zajedničke temelje koji omogućuju različitim programima i proizvodima da se razvijaju samostalno, dok ostaju strukturno i vizualno usklađeni."
+          },
+          "bottomText": {
+            "en": "That's how scale stays sustainable.",
+            "hr": "Tako skaliranje ostaje održivo."
+          },
+          "images": {
+            "big": "/assets/Image/education-images-2.png",
+            "small1": "/assets/Image/education-images-1.png",
+            "small2": "/assets/Image/education-images.png"
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Ready to scale your education business without losing clarity?",
+            "hr": "Spremni skalirati svoje obrazovno poslovanje bez gubitka jasnoće?"
+          },
+          "subtext": {
+            "en": "Let's talk about structuring your education ecosystem for growth — without fragmentation.",
+            "hr": "Razgovarajmo o strukturiranju vašeg obrazovnog ekosustava za rast — bez fragmentacije."
+          },
+          "button1Text": {
+            "en": "Book an education strategy call",
+            "hr": "Rezervirajte poziv za obrazovnu strategiju"
+          },
+          "button1Href": "/lets-talk#demo",
+          "button2Text": {
+            "en": "Ask about scaling your learning platform",
+            "hr": "Pitajte o skaliranju vaše platforme za učenje"
+          },
+          "button2Href": "/lets-talk#ask"
+        }
       }
-    ],
-    "ctaText": { "en": "See how clarity enables scale in education", "hr": "Pogledajte kako jasnoća omogućuje skaliranje u obrazovanju" },
-    "ctaHref": "/who-we-create-for/cdc"
-  },
-  "structure": {
-    "heading": { "en": "Why clarity beats complexity in education?", "hr": "Zašto jasnoća pobjeđuje složenost u obrazovanju?" },
-    "text": { "en": "Education businesses don't struggle because they lack expertise. They struggle because complexity hides value.", "hr": "Obrazovne tvrtke ne pate jer im nedostaje stručnost. Pate jer složenost skriva vrijednost." },
-    "accentText": { "en": "we design shared foundations that allow different programs and products to evolve independently,", "hr": "dizajniramo zajedničke temelje koji omogućuju različitim programima i proizvodima da se razvijaju samostalno," },
-    "fullText": { "en": "Instead of enforcing rigid standardization, we design shared foundations that allow different programs and products to evolve independently, while remaining structurally and visually aligned.", "hr": "Umjesto nametanja krute standardizacije, dizajniramo zajedničke temelje koji omogućuju različitim programima i proizvodima da se razvijaju samostalno, dok ostaju strukturno i vizualno usklađeni." },
-    "bottomText": { "en": "That's how scale stays sustainable.", "hr": "Tako skaliranje ostaje održivo." },
-    "images": {
-      "big": "/assets/Image/education-images-2.png",
-      "small1": "/assets/Image/education-images-1.png",
-      "small2": "/assets/Image/education-images.png"
     }
-  },
-  "cta": {
-    "heading": { "en": "Ready to scale your education business without losing clarity?", "hr": "Spremni skalirati svoje obrazovno poslovanje bez gubitka jasnoće?" },
-    "subtext": { "en": "Let's talk about structuring your education ecosystem for growth — without fragmentation.", "hr": "Razgovarajmo o strukturiranju vašeg obrazovnog ekosustava za rast — bez fragmentacije." },
-    "button1Text": { "en": "Book an education strategy call", "hr": "Rezervirajte poziv za obrazovnu strategiju" },
-    "button1Href": "/lets-talk#demo",
-    "button2Text": { "en": "Ask about scaling your learning platform", "hr": "Pitajte o skaliranju vaše platforme za učenje" },
-    "button2Href": "/lets-talk#ask"
-  }
+  ]
 }

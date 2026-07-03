@@ -1,7 +1,10 @@
 {
+  "title": { "en": "AI Video Production | Hrescic", "hr": "AI Video Produkcija | Hrescic" },
+  "slug": "what-we-do/sub/ai-video-production",
+  "isPublished": true,
   "metaTitle": { "en": "AI Video Production | Hrescic", "hr": "AI Video Produkcija | Hrescic" },
   "metaDescription": { "en": "AI-powered video systems for continuous content production. Concept, generation, adaptation and scaling.", "hr": "AI video sustavi za kontinuiranu produkciju sadržaja. Koncept, generacija, adaptacija i skaliranje." },
-  "sections": [
+  "content": [
     {
       "id": "av-hero-001",
       "type": "hero-sub-page",

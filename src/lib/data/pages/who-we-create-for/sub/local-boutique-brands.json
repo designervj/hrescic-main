@@ -1,101 +1,255 @@
 {
-  "metaTitle": { "en": "Local & Boutique Brands | Hrescic", "hr": "Lokalni i Butik Brendovi | Hrescic" },
-  "metaDescription": { "en": "Local & boutique brands don't win on price. They win on meaning.", "hr": "Lokalni i butik brendovi ne pobjeđuju na cijeni. Pobjeđuju na značenju." },
-  "theme": {
-    "bgColor": "#ecebea",
-    "accentColor": "#327E92",
-    "buttonColor": "#CE6B03",
-    "buttonTextColor": "#FFFFFF",
-    "textColor": "#555555",
-    "sectionBg": "#F8F8F8",
-    "growthBg": "#F5F1EF",
-    "growthPanelBg": "#EDE8E6",
-    "structureCardBg": "#ece9e7",
-    "structureImage": "/assets/Image/eroding-brand-img.png"
+  "title": {
+    "en": "Local & Boutique Brands | Hrescic",
+    "hr": "Lokalni i Butik Brendovi | Hrescic"
   },
-  "hero": {
-    "breadcrumb": { "en": "Who We Create For", "hr": "Za Koga Stvaramo" },
-    "breadcrumbLabel": { "en": "Local & boutique brands", "hr": "Lokalni i butik brendovi" },
-    "heading": { "en": "Local & boutique brands don't win on price. They win on meaning.", "hr": "Lokalni i butik brendovi ne pobjeđuju na cijeni. Pobjeđuju na značenju." },
-    "subtext": { "en": "We help local and boutique brands move beyond commodity positioning, by building clear identities, premium perception and systems that support sustainable growth.", "hr": "Pomažemo lokalnim i butik brendovima da se pomaknu izvan robnog pozicioniranja, gradeći jasne identitete, premium percepciju i sustave koji podržavaju održivi rast." },
-    "button1Text": { "en": "Talk about building a premium brand", "hr": "Razgovarajte o izgradnji premium brenda" },
-    "button1Href": "/lets-talk#ask",
-    "button2Text": { "en": "See how boutique brands scale with us", "hr": "Pogledajte kako butik brendovi skaliraju s nama" },
-    "button2Href": "/lets-talk#demo",
-    "image": "/assets/Image/brands-hero-img.png"
+  "slug": "who-we-create-for/local-boutique-brands",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Local & Boutique Brands | Hrescic",
+    "hr": "Lokalni i Butik Brendovi | Hrescic"
   },
-  "reality": {
-    "heading": { "en": "The reality of local & boutique brands", "hr": "Stvarnost lokalnih i butik brendova" },
-    "subtext": { "en": "Many boutique brands start with an excellent product, but struggle to grow beyond local reach.", "hr": "Mnogi butik brendovi počinju s izvrsnim proizvodom, ali se bore da narastu izvan lokalnog dosega." },
-    "whyHeading": { "en": "Why it happens?", "hr": "Zašto se događa?" },
-    "whyText": { "en": "Quality alone isn't enough in crowded markets where everything looks similar and price becomes the default differentiator.", "hr": "Kvaliteta sama po sebi nije dovoljna na prenapučenim tržištima gdje sve izgleda slično i cijena postaje zadani diferencijator." },
-    "whatHeading": { "en": "What this creates?", "hr": "Što ovo stvara?" },
-    "issues": [
-      { "en": "Strong product, weak brand", "hr": "Jak proizvod, slab brend" },
-      { "en": "No clear differentiation", "hr": "Nema jasne diferencijacije" },
-      { "en": "Low pricing power", "hr": "Niska cjenovna moć" },
-      { "en": "Limited recognition beyond local markets", "hr": "Ograničena prepoznatljivost izvan lokalnih tržišta" },
-      { "en": "No system for scalable growth", "hr": "Nema sustava za skalabilni rast" }
-    ]
+  "metaDescription": {
+    "en": "Local & boutique brands don't win on price. They win on meaning.",
+    "hr": "Lokalni i butik brendovi ne pobjeđuju na cijeni. Pobjeđuju na značenju."
   },
-  "growth": {
-    "heading": { "en": "What actually drives growth for boutique brands", "hr": "Što zapravo pokreće rast butik brendova" },
-    "text": { "en": "Boutique brands don't grow by shouting louder or discounting more. They grow by making their value unmistakably clear, emotionally, visually and strategically.", "hr": "Butik brendovi ne rastu glasnijim vikanjem ili većim popustima. Rastu čineći svoju vrijednost nepogrešivo jasnom, emocionalno, vizualno i strateški." },
-    "image": "/assets/Image/brands-growth.png",
-    "scaleHeading": { "en": "Boutique brands scale when they have:", "hr": "Butik brendovi skaliraju kada imaju:" },
-    "scaleItems": [
-      { "en": "A clear identity customers can connect with instantly", "hr": "Jasan identitet s kojim se kupci mogu odmah povezati" },
-      { "en": "A story that turns products into meaningful choices", "hr": "Priču koja pretvara proizvode u značajne izbore" },
-      { "en": "Visual systems that justify premium pricing", "hr": "Vizualne sustave koji opravdavaju premium cijene" },
-      { "en": "A brand foundation that supports growth beyond one product or channel", "hr": "Temelj brenda koji podržava rast izvan jednog proizvoda ili kanala" }
-    ],
-    "quote": { "en": "That's what we build, by turning products into brands and brands into scalable systems.", "hr": "To je ono što gradimo, pretvarajući proizvode u brendove i brendove u skalabilne sustave." }
-  },
-  "cases": {
-    "heading": { "en": "How this works in real boutique brands", "hr": "Kako ovo funkcionira u stvarnim butik brendovima" },
-    "description": {
-      "en": "One example of transforming a high-quality product \n into a premium, scalable brand.",
-      "hr": "Jedan primjer transformacije visokokvalitetnog proizvoda \n u premium, skalabilni brend."
-    },
-    "subheading": { "en": "(Castania - Case Study):", "hr": "(Castania - Studija slučaja):" },
-    "cards": [
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Intro", "hr": "Uvod" },
-        "text": { "en": "One example of transforming a high-quality product into a premium, scalable brand.", "hr": "Jedan primjer transformacije visokokvalitetnog proizvoda u premium, skalabilni brend." },
-        "image": "/assets/Image/case-brand-img.png",
-        "bg": "bg-[#000000]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Highlight Headline", "hr": "Istaknuti naslov" },
-        "text": { "en": "From commodity to premium: Building Castania into a boutique brand.", "hr": "Od robe do premiuma: Izgradnja Castanie u butik brend." },
-        "image": "/assets/Image/case-brand-2.png",
-        "bg": "bg-[#000000]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Summary", "hr": "Sažetak" },
-        "text": { "en": "Castania began as a small producer with an excellent product, competing in a low-margin, price-driven market. The challenge wasn't quality, it was creating identity, differentiation and a system that could support long-term growth.", "hr": "Castania je započela kao mali proizvođač s izvrsnim proizvodom, natječući se na tržištu niskih marži vođenom cijenom. Izazov nije bila kvaliteta, već stvaranje identiteta, diferencijacije i sustava koji bi mogao podržati dugoročni rast." },
-        "image": "/assets/Image/case-brand-3.png",
-        "bg": "bg-[#000000]"
+  "content": [
+    {
+      "id": "local-boutique-brands-page",
+      "type": "industry-page",
+      "layout": "default",
+      "adminTitle": "Industry Page - Local Boutique Brands",
+      "props": {
+        "theme": {
+          "bgColor": "#ecebea",
+          "accentColor": "#327E92",
+          "buttonColor": "#CE6B03",
+          "buttonTextColor": "#FFFFFF",
+          "textColor": "#555555",
+          "sectionBg": "#F8F8F8",
+          "growthBg": "#F5F1EF",
+          "growthPanelBg": "#EDE8E6",
+          "structureCardBg": "#ece9e7",
+          "structureImage": "/assets/Image/eroding-brand-img.png"
+        },
+        "hero": {
+          "breadcrumb": {
+            "en": "Who We Create For",
+            "hr": "Za Koga Stvaramo"
+          },
+          "breadcrumbLabel": {
+            "en": "Local & boutique brands",
+            "hr": "Lokalni i butik brendovi"
+          },
+          "heading": {
+            "en": "Local & boutique brands don't win on price. They win on meaning.",
+            "hr": "Lokalni i butik brendovi ne pobjeđuju na cijeni. Pobjeđuju na značenju."
+          },
+          "subtext": {
+            "en": "We help local and boutique brands move beyond commodity positioning, by building clear identities, premium perception and systems that support sustainable growth.",
+            "hr": "Pomažemo lokalnim i butik brendovima da se pomaknu izvan robnog pozicioniranja, gradeći jasne identitete, premium percepciju i sustave koji podržavaju održivi rast."
+          },
+          "button1Text": {
+            "en": "Talk about building a premium brand",
+            "hr": "Razgovarajte o izgradnji premium brenda"
+          },
+          "button1Href": "/lets-talk#ask",
+          "button2Text": {
+            "en": "See how boutique brands scale with us",
+            "hr": "Pogledajte kako butik brendovi skaliraju s nama"
+          },
+          "button2Href": "/lets-talk#demo",
+          "image": "/assets/Image/brands-hero-img.png"
+        },
+        "reality": {
+          "heading": {
+            "en": "The reality of local & boutique brands",
+            "hr": "Stvarnost lokalnih i butik brendova"
+          },
+          "subtext": {
+            "en": "Many boutique brands start with an excellent product, but struggle to grow beyond local reach.",
+            "hr": "Mnogi butik brendovi počinju s izvrsnim proizvodom, ali se bore da narastu izvan lokalnog dosega."
+          },
+          "whyHeading": {
+            "en": "Why it happens?",
+            "hr": "Zašto se događa?"
+          },
+          "whyText": {
+            "en": "Quality alone isn't enough in crowded markets where everything looks similar and price becomes the default differentiator.",
+            "hr": "Kvaliteta sama po sebi nije dovoljna na prenapučenim tržištima gdje sve izgleda slično i cijena postaje zadani diferencijator."
+          },
+          "whatHeading": {
+            "en": "What this creates?",
+            "hr": "Što ovo stvara?"
+          },
+          "issues": [
+            {
+              "en": "Strong product, weak brand",
+              "hr": "Jak proizvod, slab brend"
+            },
+            {
+              "en": "No clear differentiation",
+              "hr": "Nema jasne diferencijacije"
+            },
+            {
+              "en": "Low pricing power",
+              "hr": "Niska cjenovna moć"
+            },
+            {
+              "en": "Limited recognition beyond local markets",
+              "hr": "Ograničena prepoznatljivost izvan lokalnih tržišta"
+            },
+            {
+              "en": "No system for scalable growth",
+              "hr": "Nema sustava za skalabilni rast"
+            }
+          ]
+        },
+        "growth": {
+          "heading": {
+            "en": "What actually drives growth for boutique brands",
+            "hr": "Što zapravo pokreće rast butik brendova"
+          },
+          "text": {
+            "en": "Boutique brands don't grow by shouting louder or discounting more. They grow by making their value unmistakably clear, emotionally, visually and strategically.",
+            "hr": "Butik brendovi ne rastu glasnijim vikanjem ili većim popustima. Rastu čineći svoju vrijednost nepogrešivo jasnom, emocionalno, vizualno i strateški."
+          },
+          "image": "/assets/Image/brands-growth.png",
+          "scaleHeading": {
+            "en": "Boutique brands scale when they have:",
+            "hr": "Butik brendovi skaliraju kada imaju:"
+          },
+          "scaleItems": [
+            {
+              "en": "A clear identity customers can connect with instantly",
+              "hr": "Jasan identitet s kojim se kupci mogu odmah povezati"
+            },
+            {
+              "en": "A story that turns products into meaningful choices",
+              "hr": "Priču koja pretvara proizvode u značajne izbore"
+            },
+            {
+              "en": "Visual systems that justify premium pricing",
+              "hr": "Vizualne sustave koji opravdavaju premium cijene"
+            },
+            {
+              "en": "A brand foundation that supports growth beyond one product or channel",
+              "hr": "Temelj brenda koji podržava rast izvan jednog proizvoda ili kanala"
+            }
+          ],
+          "quote": {
+            "en": "That's what we build, by turning products into brands and brands into scalable systems.",
+            "hr": "To je ono što gradimo, pretvarajući proizvode u brendove i brendove u skalabilne sustave."
+          }
+        },
+        "cases": {
+          "heading": {
+            "en": "How this works in real boutique brands",
+            "hr": "Kako ovo funkcionira u stvarnim butik brendovima"
+          },
+          "description": {
+            "en": "One example of transforming a high-quality product \n into a premium, scalable brand.",
+            "hr": "Jedan primjer transformacije visokokvalitetnog proizvoda \n u premium, skalabilni brend."
+          },
+          "subheading": {
+            "en": "(Castania - Case Study):",
+            "hr": "(Castania - Studija slučaja):"
+          },
+          "cards": [
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Intro",
+                "hr": "Uvod"
+              },
+              "text": {
+                "en": "One example of transforming a high-quality product into a premium, scalable brand.",
+                "hr": "Jedan primjer transformacije visokokvalitetnog proizvoda u premium, skalabilni brend."
+              },
+              "image": "/assets/Image/case-brand-img.png",
+              "bg": "bg-[#000000]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Highlight Headline",
+                "hr": "Istaknuti naslov"
+              },
+              "text": {
+                "en": "From commodity to premium: Building Castania into a boutique brand.",
+                "hr": "Od robe do premiuma: Izgradnja Castanie u butik brend."
+              },
+              "image": "/assets/Image/case-brand-2.png",
+              "bg": "bg-[#000000]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Summary",
+                "hr": "Sažetak"
+              },
+              "text": {
+                "en": "Castania began as a small producer with an excellent product, competing in a low-margin, price-driven market. The challenge wasn't quality, it was creating identity, differentiation and a system that could support long-term growth.",
+                "hr": "Castania je započela kao mali proizvođač s izvrsnim proizvodom, natječući se na tržištu niskih marži vođenom cijenom. Izazov nije bila kvaliteta, već stvaranje identiteta, diferencijacije i sustava koji bi mogao podržati dugoročni rast."
+              },
+              "image": "/assets/Image/case-brand-3.png",
+              "bg": "bg-[#000000]"
+            }
+          ],
+          "ctaText": {
+            "en": "See how premium positioning changes everything",
+            "hr": "Pogledajte kako premium pozicioniranje mijenja sve"
+          },
+          "ctaHref": "/who-we-create-for/castania"
+        },
+        "structure": {
+          "heading": {
+            "en": "Why meaning beats price in boutique markets?",
+            "hr": "Zašto značenje pobjeđuje cijenu na butik tržištima?"
+          },
+          "text": {
+            "en": "Boutique brands can't win by copying mass-market tactics. They win by creating meaning customers are willing to pay for.",
+            "hr": "Butik brendovi ne mogu pobijediti kopiranjem masovnih taktika. Pobjeđuju stvaranjem značenja koje su kupci spremni platiti."
+          },
+          "accentText": {
+            "en": "we build brands that compete on identity, trust and perceived value,",
+            "hr": "gradimo brendove koji se natječu na identitetu, povjerenju i percipiranoj vrijednosti,"
+          },
+          "fullText": {
+            "en": "Instead of competing on volume or discounts, we build brands that compete on identity, trust and perceived value, allowing growth without eroding the brand.",
+            "hr": "Umjesto natjecanja na volumenu ili popustima, gradimo brendove koji se natječu na identitetu, povjerenju i percipiranoj vrijednosti, omogućujući rast bez erodiranja brenda."
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Ready to turn your product into a premium brand?",
+            "hr": "Spremni pretvoriti svoj proizvod u premium brend?"
+          },
+          "subtext": {
+            "en": "Let's talk about positioning, identity and building a brand system that supports growth.",
+            "hr": "Razgovarajmo o pozicioniranju, identitetu i izgradnji sustava brenda koji podržava rast."
+          },
+          "button1Text": {
+            "en": "Book a brand strategy call",
+            "hr": "Rezervirajte poziv za strategiju brenda"
+          },
+          "button1Href": "/lets-talk#demo",
+          "button2Text": {
+            "en": "Ask about boutique scaling",
+            "hr": "Pitajte o skaliranju butika"
+          },
+          "button2Href": "/lets-talk#ask"
+        }
       }
-    ],
-    "ctaText": { "en": "See how premium positioning changes everything", "hr": "Pogledajte kako premium pozicioniranje mijenja sve" },
-    "ctaHref": "/who-we-create-for/castania"
-  },
-  "structure": {
-    "heading": { "en": "Why meaning beats price in boutique markets?", "hr": "Zašto značenje pobjeđuje cijenu na butik tržištima?" },
-    "text": { "en": "Boutique brands can't win by copying mass-market tactics. They win by creating meaning customers are willing to pay for.", "hr": "Butik brendovi ne mogu pobijediti kopiranjem masovnih taktika. Pobjeđuju stvaranjem značenja koje su kupci spremni platiti." },
-    "accentText": { "en": "we build brands that compete on identity, trust and perceived value,", "hr": "gradimo brendove koji se natječu na identitetu, povjerenju i percipiranoj vrijednosti," },
-    "fullText": { "en": "Instead of competing on volume or discounts, we build brands that compete on identity, trust and perceived value, allowing growth without eroding the brand.", "hr": "Umjesto natjecanja na volumenu ili popustima, gradimo brendove koji se natječu na identitetu, povjerenju i percipiranoj vrijednosti, omogućujući rast bez erodiranja brenda." }
-  },
-  "cta": {
-    "heading": { "en": "Ready to turn your product into a premium brand?", "hr": "Spremni pretvoriti svoj proizvod u premium brend?" },
-    "subtext": { "en": "Let's talk about positioning, identity and building a brand system that supports growth.", "hr": "Razgovarajmo o pozicioniranju, identitetu i izgradnji sustava brenda koji podržava rast." },
-    "button1Text": { "en": "Book a brand strategy call", "hr": "Rezervirajte poziv za strategiju brenda" },
-    "button1Href": "/lets-talk#demo",
-    "button2Text": { "en": "Ask about boutique scaling", "hr": "Pitajte o skaliranju butika" },
-    "button2Href": "/lets-talk#ask"
-  }
+    }
+  ]
 }

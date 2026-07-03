@@ -1,7 +1,10 @@
 {
+  "title": { "en": "What We Do | Hrescic", "hr": "Što radimo | Hrescic" },
+  "slug": "what-we-do",
+  "isPublished": true,
   "metaTitle": { "en": "What We Do", "hr": "Što radimo" },
   "metaDescription": { "en": "SEO and slug settings only", "hr": "SEO and slug settings only" },
-  "sections": [
+  "content": [
     {
       "id": "wwd-hero-001",
       "type": "hero-split",
@@ -30,7 +33,7 @@
           { "src": "/assets/logo/logo-2.svg", "alt": "London Business School" },
           { "src": "/assets/logo/logo-4.svg", "alt": "Principles Ray Dalio" },
           { "src": "/assets/logo/hogan-logo 1.svg", "alt": "Hogan" },
-          { "src": "/assets/logo/Link → Početna.svg", "alt": "Profil Klett" },
+          { "src": "/assets/logo/Link → Početna.svg", "alt": "Profil Klett" },
           { "src": "/assets/logo/Logo-5.svg", "alt": "Coaching.com" },
           { "src": "/assets/logo/tis-main-logo 2.svg", "alt": "TIS Grupa" },
           { "src": "/assets/logo/Layer_1.svg", "alt": "Pliva Teva" },

@@ -2,7 +2,7 @@
 
 import type { LocaleCode } from "@/lib/i18n/locale";
 import { LocaleProvider } from "@/lib/i18n/LocaleContext";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useAppSelector } from "@/lib/store/hooks";
 import HeroSection from "./HeroSection";
 import LogoCloud from "./LogoCloud";
@@ -11,13 +11,19 @@ import IndustryCards from "./IndustryCards";
 import StatsBar from "./StatsBar";
 import PortfolioGrid from "./PortfolioGrid";
 import CtaCentered from "./CtaCentered";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 function findBlock(sections: PageBlock[], type: string) {
   return sections.find((b) => b.type === type);
 }
 
 export default function HomePageRenderer({ sections, locale }: { sections: PageBlock[]; locale: LocaleCode }) {
-  const reduxSections = useAppSelector((state) => state.pages.currentPages?.content) as PageBlock[] | undefined;
+  const currentPages = useAppSelector((state) => state.pages.currentPages);
+  // Only use Redux currentPages content if its slug matches this page
+  const reduxSections =
+    currentPages?.slug === "home"
+      ? (currentPages.content as PageBlock[] | undefined)
+      : undefined;
   const s = reduxSections ?? sections;
   return (
     <LocaleProvider locale={locale}>

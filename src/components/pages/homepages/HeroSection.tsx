@@ -5,10 +5,11 @@ import { motion } from "framer-motion";
 import { FaPlay } from "react-icons/fa";
 import Button from "@/components/shared/Button";
 import EditableText from "@/components/shared/EditableText";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useLocale } from "@/lib/i18n/LocaleContext";
 import { getLocalizedString, type LocalizedString } from "@/lib/i18n/locale";
 import { useEditable } from "@/lib/store/pages/useEditable";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 interface HeroProps {
   heading: LocalizedString;

@@ -1,7 +1,10 @@
 {
+  "title": { "en": "Branding & Strategy | Hrescic", "hr": "Branding i Strategija | Hrescic" },
+  "slug": "what-we-do/sub/branding-strategy",
+  "isPublished": true,
   "metaTitle": { "en": "Branding & Strategy | Hrescic", "hr": "Branding i Strategija | Hrescic" },
   "metaDescription": { "en": "Build a brand that communicates your value instantly. Positioning, messaging, visual identity and brand systems.", "hr": "Izgradite brend koji trenutno komunicira vašu vrijednost. Pozicioniranje, poruke, vizualni identitet i sustavi brenda." },
-  "sections": [
+  "content": [
     {
       "id": "bs-hero-001",
       "type": "hero-sub-page",

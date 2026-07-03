@@ -1,39 +1,91 @@
 {
-  "metaTitle": { "en": "Minglanje v Klanjcu Case Study | Hrescic", "hr": "Minglanje v Klanjcu Studija Slučaja | Hrescic" },
-  "metaDescription": { "en": "Branding a place with a deep, layered past. One whole street decided to have a festival.", "hr": "Brendiranje mjesta s dubokom, slojevitom prošlošću. Cijela jedna ulica odlučila je imati festival." },
-  "type": "minglanje-v-klanjcu",
-  "hero": {
-    "breadcrumbLabel": { "en": "Case Study", "hr": "Studija Slučaja" },
-    "breadcrumbSub": { "en": "Illustration, Branding & Packaging", "hr": "Ilustracija, Brendiranje i Pakiranje" },
-    "logo": "/assets/Image/Samobor-logo.svg",
-    "heading": { "en": "One whole street decided to have the festival of their own, so we were honored when they invited us to brand it!", "hr": "Cijela jedna ulica odlučila je imati vlastiti festival, pa smo bili počašćeni kada su nas pozvali da ga brendiramo!" },
-    "image": "/assets/Image/Group 6356927.png"
+  "title": {
+    "en": "Minglanje v Klanjcu Case Study | Hrescic",
+    "hr": "Minglanje v Klanjcu Studija Slučaja | Hrescic"
   },
-  "illustration": {
-    "image": "/assets/Image/Samobor-imgs1.png",
-    "text1": { "en": "Branding a place with such a deep, layered past is both a privilege and a challenge — especially when its history lives more in fragments, memories, and traces than in formal records.", "hr": "Brendiranje mjesta s tako dubokom, slojevitom prošlošću istovremeno je privilegija i izazov — pogotovo kada njegova povijest više živi u fragmentima, sjećanjima i tragovima nego u formalnim zapisima." },
-    "text2": { "en": "Scarcity of documentation doesn't mean absence; in fact, what surfaced proved far richer and more evocative than expected.", "hr": "Oskudica dokumentacije ne znači odsutnost; zapravo, ono što je izronilo pokazalo se daleko bogatijim i evokativnijim od očekivanog." }
+  "slug": "who-we-create-for/minglanje-v-klanjcu",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Minglanje v Klanjcu Case Study | Hrescic",
+    "hr": "Minglanje v Klanjcu Studija Slučaja | Hrescic"
   },
-  "quote": {
-    "text": { "en": "'Samobor je grad malih uličica, mirisnog cvijeća, i ljudi koji vole svoj mir.'", "hr": "'Samobor je grad malih uličica, mirisnog cvijeća, i ljudi koji vole svoj mir.'" },
-    "image": "/assets/Image/Lang 1.png",
-    "name": { "en": "MILAN LANG", "hr": "MILAN LANG" },
-    "subtext": { "en": "Quote from the Book 'Samobor', Milan Lang, XXXX , about the nature of the people from Samobor.", "hr": "Citat iz knjige 'Samobor', Milan Lang, XXXX., o prirodi ljudi iz Samobora." }
+  "metaDescription": {
+    "en": "Branding a place with a deep, layered past. One whole street decided to have a festival.",
+    "hr": "Brendiranje mjesta s dubokom, slojevitom prošlošću. Cijela jedna ulica odlučila je imati festival."
   },
-  "result": {
-    "heading": { "en": "The result:", "hr": "Rezultat:" },
-    "card1": {
-      "image": "/assets/Image/Group 6356928.png",
-      "title": "Marda",
-      "text": { "en": "22.12.2026. u 19h / Lokacija: Klanjec, Samobor", "hr": "22.12.2026. u 19h / Lokacija: Klanjec, Samobor" }
-    },
-    "card2": {
-      "image": "/assets/Image/Cup_Mockup 4.png"
+  "content": [
+    {
+      "id": "minglanje-v-klanjcu-page",
+      "type": "case-study",
+      "layout": "default",
+      "adminTitle": "Case Study - Minglanje V Klanjcu",
+      "props": {
+        "type": "minglanje-v-klanjcu",
+        "hero": {
+          "breadcrumbLabel": {
+            "en": "Case Study",
+            "hr": "Studija Slučaja"
+          },
+          "breadcrumbSub": {
+            "en": "Illustration, Branding & Packaging",
+            "hr": "Ilustracija, Brendiranje i Pakiranje"
+          },
+          "logo": "/assets/Image/Samobor-logo.svg",
+          "heading": {
+            "en": "One whole street decided to have the festival of their own, so we were honored when they invited us to brand it!",
+            "hr": "Cijela jedna ulica odlučila je imati vlastiti festival, pa smo bili počašćeni kada su nas pozvali da ga brendiramo!"
+          },
+          "image": "/assets/Image/Group 6356927.png"
+        },
+        "illustration": {
+          "image": "/assets/Image/Samobor-imgs1.png",
+          "text1": {
+            "en": "Branding a place with such a deep, layered past is both a privilege and a challenge — especially when its history lives more in fragments, memories, and traces than in formal records.",
+            "hr": "Brendiranje mjesta s tako dubokom, slojevitom prošlošću istovremeno je privilegija i izazov — pogotovo kada njegova povijest više živi u fragmentima, sjećanjima i tragovima nego u formalnim zapisima."
+          },
+          "text2": {
+            "en": "Scarcity of documentation doesn't mean absence; in fact, what surfaced proved far richer and more evocative than expected.",
+            "hr": "Oskudica dokumentacije ne znači odsutnost; zapravo, ono što je izronilo pokazalo se daleko bogatijim i evokativnijim od očekivanog."
+          }
+        },
+        "quote": {
+          "text": {
+            "en": "'Samobor je grad malih uličica, mirisnog cvijeća, i ljudi koji vole svoj mir.'",
+            "hr": "'Samobor je grad malih uličica, mirisnog cvijeća, i ljudi koji vole svoj mir.'"
+          },
+          "image": "/assets/Image/Lang 1.png",
+          "name": {
+            "en": "MILAN LANG",
+            "hr": "MILAN LANG"
+          },
+          "subtext": {
+            "en": "Quote from the Book 'Samobor', Milan Lang, XXXX , about the nature of the people from Samobor.",
+            "hr": "Citat iz knjige 'Samobor', Milan Lang, XXXX., o prirodi ljudi iz Samobora."
+          }
+        },
+        "result": {
+          "heading": {
+            "en": "The result:",
+            "hr": "Rezultat:"
+          },
+          "card1": {
+            "image": "/assets/Image/Group 6356928.png",
+            "title": "Marda",
+            "text": {
+              "en": "22.12.2026. u 19h / Lokacija: Klanjec, Samobor",
+              "hr": "22.12.2026. u 19h / Lokacija: Klanjec, Samobor"
+            }
+          },
+          "card2": {
+            "image": "/assets/Image/Cup_Mockup 4.png"
+          }
+        },
+        "gallery": [
+          "/assets/Image/Group 6356929.png",
+          "/assets/Image/Group 6356930.png",
+          "/assets/Image/Group 6356931.png"
+        ]
+      }
     }
-  },
-  "gallery": [
-    "/assets/Image/Group 6356929.png",
-    "/assets/Image/Group 6356930.png",
-    "/assets/Image/Group 6356931.png"
   ]
 }

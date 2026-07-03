@@ -1,7 +1,10 @@
 {
+  "title": { "en": "Web & Digital | Hrescic", "hr": "Web i Digital | Hrescic" },
+  "slug": "what-we-do/sub/web-digital",
+  "isPublished": true,
   "metaTitle": { "en": "Web & Digital | Hrescic", "hr": "Web i Digital | Hrescic" },
   "metaDescription": { "en": "High-performance websites that convert. UX/UI, landing pages, full websites, booking flows and SEO.", "hr": "Visokoučinkovite web stranice koje pretvaraju. UX/UI, landing stranice, kompletne web stranice, tokovi rezervacije i SEO." },
-  "sections": [
+  "content": [
     {
       "id": "wd-hero-001",
       "type": "hero-sub-page",

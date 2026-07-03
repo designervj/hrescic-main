@@ -2,7 +2,7 @@
 
 import type { LocaleCode } from "@/lib/i18n/locale";
 import { LocaleProvider } from "@/lib/i18n/LocaleContext";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useAppSelector } from "@/lib/store/hooks";
 import HeroSection from "@/components/pages/homepages/HeroSection";
 import LogoCloud from "@/components/pages/homepages/LogoCloud";
@@ -28,6 +28,7 @@ import FeatureGridSection from "./FeatureGridSection";
 import PracticalFlowSection from "./PracticalFlowSection";
 import CtaSubPage from "./CtaSubPage";
 import HeroWwcf from "./HeroWwcf";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 const sectionRegistry: Record<string, React.FC<{ block: PageBlock }>> = {
   hero: HeroSection,

@@ -1,7 +1,10 @@
 {
+  "title": { "en": "Content & Marketing | Hrescic", "hr": "Sadržaj i Marketing | Hrescic" },
+  "slug": "what-we-do/sub/content-marketing",
+  "isPublished": true,
   "metaTitle": { "en": "Content & Marketing | Hrescic", "hr": "Sadržaj i Marketing | Hrescic" },
   "metaDescription": { "en": "Content systems that drive demand. Messaging, content structure, distribution and conversion strategies.", "hr": "Sustavi sadržaja koji pokreću potražnju. Poruke, struktura sadržaja, distribucija i strategije konverzije." },
-  "sections": [
+  "content": [
     {
       "id": "cm-hero-001",
       "type": "hero-sub-page",

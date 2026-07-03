@@ -23,7 +23,9 @@ const UpdateCurrentPage = () => {
   const pathname = usePathname();
   const segments = pathname.split('/').filter(Boolean);
   const hasLocalePrefix = SUPPORTED_LOCALES.includes(segments[0]);
-  const slug = hasLocalePrefix ? (segments[1] || "home") : (segments[0] || "home");
+  // Build full path slug from all segments after the locale prefix
+  const pathSegments = hasLocalePrefix ? segments.slice(1) : segments;
+  const slug = pathSegments.join('/') || "home";
 
   const dispatch = useAppDispatch()
   useEffect(() => {
@@ -31,7 +33,19 @@ const UpdateCurrentPage = () => {
     if (allPages && 
       allPages?.length > 0 
       && slug) {
-      const data = allPages.find((page: any) => page.slug === slug)
+      // Exact match first
+      let data = allPages.find((page: any) => page.slug === slug);
+
+      // If no exact match, try matching when the stored slug has a /sub/ infix
+      // e.g. URL: "what-we-do/branding-strategy"  vs stored: "what-we-do/sub/branding-strategy"
+      if (!data) {
+        data = allPages.find((page: any) => {
+          // Remove any /sub/ segment from stored slug and compare
+          const normalizedStored = page.slug.replace(/\/sub\//g, '/');
+          return normalizedStored === slug;
+        });
+      }
+
       if (data) {
         dispatch(setCurrentPages(data))
         return;

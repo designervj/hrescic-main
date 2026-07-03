@@ -1,97 +1,251 @@
 {
-  "metaTitle": { "en": "Health, Pharma & Beauty | Hrescic", "hr": "Zdravstvo, Farmacija i Ljepota | Hrescic" },
-  "metaDescription": { "en": "Health, pharma & beauty brands don't grow on attention. They grow on trust.", "hr": "Zdravstveni brendovi ne rastu na pažnji. Rastu na povjerenju." },
-  "theme": {
-    "bgColor": "#ecebea",
-    "accentColor": "#d5943b",
-    "buttonColor": "#DD9842",
-    "buttonTextColor": "#FFFFFF",
-    "textColor": "#555555",
-    "sectionBg": "#F8F8F8",
-    "growthBg": "#F5F1EF",
-    "growthPanelBg": "#EDE8E6",
-    "structureCardBg": "#ece9e7",
-    "structureImage": "/assets/Image/medical-beauty-img.png"
+  "title": {
+    "en": "Health, Pharma & Beauty | Hrescic",
+    "hr": "Zdravstvo, Farmacija i Ljepota | Hrescic"
   },
-  "hero": {
-    "breadcrumb": { "en": "Who We Create For", "hr": "Za Koga Stvaramo" },
-    "breadcrumbLabel": { "en": "Health, Pharma & Beauty", "hr": "Zdravstvo, Farmacija i Ljepota" },
-    "heading": { "en": "Health, pharma & beauty brands don't grow on attention. They grow on trust.", "hr": "Zdravstveni, farmaceutski i beauty brendovi ne rastu na pažnji. Rastu na povjerenju." },
-    "subtext": { "en": "We help health, pharma and beauty businesses scale complex ecosystems — without losing credibility, clinical authority or SEO equity.", "hr": "Pomažemo zdravstvenim, farmaceutskim i beauty tvrtkama skalirati složene ekosustave — bez gubitka vjerodostojnosti, kliničkog autoriteta ili SEO vrijednosti." },
-    "button1Text": { "en": "Talk about scaling without losing trust", "hr": "Razgovarajte o skaliranju bez gubitka povjerenja" },
-    "button1Href": "/lets-talk#ask",
-    "button2Text": { "en": "See how medical brands grow with us", "hr": "Pogledajte kako medicinski brendovi rastu s nama" },
-    "button2Href": "/lets-talk#demo",
-    "image": "/assets/hero/health-pharma-img.png"
+  "slug": "who-we-create-for/health-pharma-beauty",
+  "isPublished": true,
+  "metaTitle": {
+    "en": "Health, Pharma & Beauty | Hrescic",
+    "hr": "Zdravstvo, Farmacija i Ljepota | Hrescic"
   },
-  "reality": {
-    "heading": { "en": "The reality of health, pharma & beauty brands", "hr": "Stvarnost zdravstvenih, farmaceutskih i beauty brendova" },
-    "subtext": { "en": "As health and beauty ecosystems grow, complexity increases, fast.", "hr": "Kako zdravstveni i beauty ekosustavi rastu, složenost se brzo povećava." },
-    "whyHeading": { "en": "Why it happens?", "hr": "Zašto se događa?" },
-    "whyText": { "en": "What starts as a single clinic, product or service often expands into multiple brands, platforms and offerings, competing for attention instead of reinforcing one another.", "hr": "Ono što počinje kao jedna klinika, proizvod ili usluga često se širi na više brendova, platformi i ponuda, natječući se za pažnju umjesto da se međusobno podržavaju." },
-    "whatHeading": { "en": "What this creates?", "hr": "Što ovo stvara?" },
-    "issues": [
-      { "en": "Fragmented brand trust", "hr": "Fragmentirano povjerenje u brend" },
-      { "en": "Overlapping or competing digital presences", "hr": "Preklapajuće ili konkurentske digitalne prisutnosti" },
-      { "en": "Complex, inefficient user journeys", "hr": "Složeni, neučinkoviti korisnički putovi" },
-      { "en": "SEO dilution across brands and products", "hr": "SEO razrjeđivanje kroz brendove i proizvode" },
-      { "en": "Strong medical authority not fully translated into digital growth", "hr": "Snažan medicinski autoritet nije u potpunosti pretočen u digitalni rast" }
-    ]
+  "metaDescription": {
+    "en": "Health, pharma & beauty brands don't grow on attention. They grow on trust.",
+    "hr": "Zdravstveni brendovi ne rastu na pažnji. Rastu na povjerenju."
   },
-  "growth": {
-    "heading": { "en": "What actually drives growth in health & beauty", "hr": "Što zapravo pokreće rast u zdravstvu i ljepoti" },
-    "text": { "en": "Growth in regulated, trust-based industries doesn't come from campaigns. It comes from structural clarity across the entire ecosystem - clinical, commercial and digital.", "hr": "Rast u reguliranim industrijama temeljenim na povjerenju ne dolazi od kampanja. Dolazi od strukturne jasnoće u cijelom ekosustavu - kliničkom, komercijalnom i digitalnom." },
-    "image": "/assets/Image/ecosystem-img.png",
-    "scaleHeading": { "en": "Health, pharma and beauty brands scale when they have:", "hr": "Zdravstveni, farmaceutski i beauty brendovi skaliraju kada imaju:" },
-    "scaleItems": [
-      { "en": "A clear hierarchy of brands, products and services", "hr": "Jasnu hijerarhiju brendova, proizvoda i usluga" },
-      { "en": "Digital journeys built around trust, not persuasion", "hr": "Digitalna putovanja izgrađena oko povjerenja, ne uvjeravanja" },
-      { "en": "SEO structures that protect long-term authority", "hr": "SEO strukture koje štite dugoročni autoritet" },
-      { "en": "Systems that allow expansion without fragmentation or dilution", "hr": "Sustave koji omogućuju širenje bez fragmentacije ili razrjeđivanja" }
-    ],
-    "quote": { "en": "That's what we build, by treating growth as ecosystem architecture, not marketing execution.", "hr": "To je ono što gradimo, tretirajući rast kao arhitekturu ekosustava, a ne izvođenje marketinga." }
-  },
-  "cases": {
-    "heading": { "en": "How this works in real medical & cosmetic ecosystems", "hr": "Kako ovo funkcionira u stvarnim medicinskim i kozmetičkim ekosustavima" },
-    "subheading": { "en": "(Poliderma & My Skin - Case Study):", "hr": "(Poliderma & My Skin - Studija slučaja):" },
-    "cards": [
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Intro", "hr": "Uvod" },
-        "text": { "en": "One example of scaling a multi-brand health ecosystem without losing trust or authority.", "hr": "Jedan primjer skaliranja višebrendskog zdravstvenog ekosustava bez gubitka povjerenja ili autoriteta." },
-        "image": "/assets/Image/case-study-1.png",
-        "bg": "bg-[#ece9e7]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Highlight Headline", "hr": "Istaknuti naslov" },
-        "text": { "en": "Building a scalable medical & cosmetic ecosystem across three brands", "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda" },
-        "image": "/assets/Image/case-study-2.png",
-        "bg": "bg-[#ece9e7]"
-      },
-      {
-        "title": { "en": "Case - ", "hr": "Slučaj - " },
-        "highlight": { "en": "Summary", "hr": "Sažetak" },
-        "text": { "en": "As the Poliderma ecosystem expanded across clinical services, cosmetic dermatology and skincare products, structural weaknesses became visible. The challenge wasn't visibility, it was scaling without fragmenting trust or SEO equity.", "hr": "Kako se Poliderma ekosustav širio na kliničke usluge, kozmetičku dermatologiju i proizvode za njegu kože, strukturne slabosti su postale vidljive. Izazov nije bila vidljivost, već skaliranje bez fragmentiranja povjerenja ili SEO vrijednosti." },
-        "image": "/assets/Image/case-study-3.png",
-        "bg": "bg-[#ece9e7]"
+  "content": [
+    {
+      "id": "health-pharma-beauty-page",
+      "type": "industry-page",
+      "layout": "default",
+      "adminTitle": "Industry Page - Health Pharma Beauty",
+      "props": {
+        "theme": {
+          "bgColor": "#ecebea",
+          "accentColor": "#d5943b",
+          "buttonColor": "#DD9842",
+          "buttonTextColor": "#FFFFFF",
+          "textColor": "#555555",
+          "sectionBg": "#F8F8F8",
+          "growthBg": "#F5F1EF",
+          "growthPanelBg": "#EDE8E6",
+          "structureCardBg": "#ece9e7",
+          "structureImage": "/assets/Image/medical-beauty-img.png"
+        },
+        "hero": {
+          "breadcrumb": {
+            "en": "Who We Create For",
+            "hr": "Za Koga Stvaramo"
+          },
+          "breadcrumbLabel": {
+            "en": "Health, Pharma & Beauty",
+            "hr": "Zdravstvo, Farmacija i Ljepota"
+          },
+          "heading": {
+            "en": "Health, pharma & beauty brands don't grow on attention. They grow on trust.",
+            "hr": "Zdravstveni, farmaceutski i beauty brendovi ne rastu na pažnji. Rastu na povjerenju."
+          },
+          "subtext": {
+            "en": "We help health, pharma and beauty businesses scale complex ecosystems — without losing credibility, clinical authority or SEO equity.",
+            "hr": "Pomažemo zdravstvenim, farmaceutskim i beauty tvrtkama skalirati složene ekosustave — bez gubitka vjerodostojnosti, kliničkog autoriteta ili SEO vrijednosti."
+          },
+          "button1Text": {
+            "en": "Talk about scaling without losing trust",
+            "hr": "Razgovarajte o skaliranju bez gubitka povjerenja"
+          },
+          "button1Href": "/lets-talk#ask",
+          "button2Text": {
+            "en": "See how medical brands grow with us",
+            "hr": "Pogledajte kako medicinski brendovi rastu s nama"
+          },
+          "button2Href": "/lets-talk#demo",
+          "image": "/assets/hero/health-pharma-img.png"
+        },
+        "reality": {
+          "heading": {
+            "en": "The reality of health, pharma & beauty brands",
+            "hr": "Stvarnost zdravstvenih, farmaceutskih i beauty brendova"
+          },
+          "subtext": {
+            "en": "As health and beauty ecosystems grow, complexity increases, fast.",
+            "hr": "Kako zdravstveni i beauty ekosustavi rastu, složenost se brzo povećava."
+          },
+          "whyHeading": {
+            "en": "Why it happens?",
+            "hr": "Zašto se događa?"
+          },
+          "whyText": {
+            "en": "What starts as a single clinic, product or service often expands into multiple brands, platforms and offerings, competing for attention instead of reinforcing one another.",
+            "hr": "Ono što počinje kao jedna klinika, proizvod ili usluga često se širi na više brendova, platformi i ponuda, natječući se za pažnju umjesto da se međusobno podržavaju."
+          },
+          "whatHeading": {
+            "en": "What this creates?",
+            "hr": "Što ovo stvara?"
+          },
+          "issues": [
+            {
+              "en": "Fragmented brand trust",
+              "hr": "Fragmentirano povjerenje u brend"
+            },
+            {
+              "en": "Overlapping or competing digital presences",
+              "hr": "Preklapajuće ili konkurentske digitalne prisutnosti"
+            },
+            {
+              "en": "Complex, inefficient user journeys",
+              "hr": "Složeni, neučinkoviti korisnički putovi"
+            },
+            {
+              "en": "SEO dilution across brands and products",
+              "hr": "SEO razrjeđivanje kroz brendove i proizvode"
+            },
+            {
+              "en": "Strong medical authority not fully translated into digital growth",
+              "hr": "Snažan medicinski autoritet nije u potpunosti pretočen u digitalni rast"
+            }
+          ]
+        },
+        "growth": {
+          "heading": {
+            "en": "What actually drives growth in health & beauty",
+            "hr": "Što zapravo pokreće rast u zdravstvu i ljepoti"
+          },
+          "text": {
+            "en": "Growth in regulated, trust-based industries doesn't come from campaigns. It comes from structural clarity across the entire ecosystem - clinical, commercial and digital.",
+            "hr": "Rast u reguliranim industrijama temeljenim na povjerenju ne dolazi od kampanja. Dolazi od strukturne jasnoće u cijelom ekosustavu - kliničkom, komercijalnom i digitalnom."
+          },
+          "image": "/assets/Image/ecosystem-img.png",
+          "scaleHeading": {
+            "en": "Health, pharma and beauty brands scale when they have:",
+            "hr": "Zdravstveni, farmaceutski i beauty brendovi skaliraju kada imaju:"
+          },
+          "scaleItems": [
+            {
+              "en": "A clear hierarchy of brands, products and services",
+              "hr": "Jasnu hijerarhiju brendova, proizvoda i usluga"
+            },
+            {
+              "en": "Digital journeys built around trust, not persuasion",
+              "hr": "Digitalna putovanja izgrađena oko povjerenja, ne uvjeravanja"
+            },
+            {
+              "en": "SEO structures that protect long-term authority",
+              "hr": "SEO strukture koje štite dugoročni autoritet"
+            },
+            {
+              "en": "Systems that allow expansion without fragmentation or dilution",
+              "hr": "Sustave koji omogućuju širenje bez fragmentacije ili razrjeđivanja"
+            }
+          ],
+          "quote": {
+            "en": "That's what we build, by treating growth as ecosystem architecture, not marketing execution.",
+            "hr": "To je ono što gradimo, tretirajući rast kao arhitekturu ekosustava, a ne izvođenje marketinga."
+          }
+        },
+        "cases": {
+          "heading": {
+            "en": "How this works in real medical & cosmetic ecosystems",
+            "hr": "Kako ovo funkcionira u stvarnim medicinskim i kozmetičkim ekosustavima"
+          },
+          "subheading": {
+            "en": "(Poliderma & My Skin - Case Study):",
+            "hr": "(Poliderma & My Skin - Studija slučaja):"
+          },
+          "cards": [
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Intro",
+                "hr": "Uvod"
+              },
+              "text": {
+                "en": "One example of scaling a multi-brand health ecosystem without losing trust or authority.",
+                "hr": "Jedan primjer skaliranja višebrendskog zdravstvenog ekosustava bez gubitka povjerenja ili autoriteta."
+              },
+              "image": "/assets/Image/case-study-1.png",
+              "bg": "bg-[#ece9e7]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Highlight Headline",
+                "hr": "Istaknuti naslov"
+              },
+              "text": {
+                "en": "Building a scalable medical & cosmetic ecosystem across three brands",
+                "hr": "Izgradnja skalabilnog medicinskog i kozmetičkog ekosustava kroz tri brenda"
+              },
+              "image": "/assets/Image/case-study-2.png",
+              "bg": "bg-[#ece9e7]"
+            },
+            {
+              "title": {
+                "en": "Case - ",
+                "hr": "Slučaj - "
+              },
+              "highlight": {
+                "en": "Summary",
+                "hr": "Sažetak"
+              },
+              "text": {
+                "en": "As the Poliderma ecosystem expanded across clinical services, cosmetic dermatology and skincare products, structural weaknesses became visible. The challenge wasn't visibility, it was scaling without fragmenting trust or SEO equity.",
+                "hr": "Kako se Poliderma ekosustav širio na kliničke usluge, kozmetičku dermatologiju i proizvode za njegu kože, strukturne slabosti su postale vidljive. Izazov nije bila vidljivost, već skaliranje bez fragmentiranja povjerenja ili SEO vrijednosti."
+              },
+              "image": "/assets/Image/case-study-3.png",
+              "bg": "bg-[#ece9e7]"
+            }
+          ],
+          "ctaText": {
+            "en": "See how trust-driven ecosystems scale",
+            "hr": "Pogledajte kako ekosustavi vođeni povjerenjem skaliraju"
+          },
+          "ctaHref": "/who-we-create-for/poliderma"
+        },
+        "structure": {
+          "heading": {
+            "en": "Why structure beats campaigns in health & beauty?",
+            "hr": "Zašto struktura pobjeđuje kampanje u zdravstvu i ljepoti?"
+          },
+          "text": {
+            "en": "In health-related industries, trust compounds slowly, and breaks quickly.",
+            "hr": "U industrijama povezanim sa zdravljem, povjerenje se sporo gradi, a brzo ruši."
+          },
+          "accentText": {
+            "en": "we design ecosystems where medical authority, content, UX and performance reinforce one another,",
+            "hr": "dizajniramo ekosustave gdje se medicinski autoritet, sadržaj, UX i performanse međusobno podržavaju,"
+          },
+          "fullText": {
+            "en": "Instead of running isolated campaigns, we design ecosystems where medical authority, content, UX and performance reinforce one another, allowing growth without compromising credibility.",
+            "hr": "Umjesto vođenja izoliranih kampanja, dizajniramo ekosustave gdje se medicinski autoritet, sadržaj, UX i performanse međusobno podržavaju, omogućujući rast bez ugrožavanja vjerodostojnosti."
+          }
+        },
+        "cta": {
+          "heading": {
+            "en": "Ready to scale your health or beauty ecosystem without losing authority?",
+            "hr": "Spremni skalirati svoj zdravstveni ili beauty ekosustav bez gubitka autoriteta?"
+          },
+          "subtext": {
+            "en": "Let's talk about structuring growth in regulated, trust-based industries.",
+            "hr": "Razgovarajmo o strukturiranju rasta u reguliranim industrijama temeljenim na povjerenju."
+          },
+          "button1Text": {
+            "en": "Book a health strategy call",
+            "hr": "Rezervirajte poziv za zdravstvenu strategiju"
+          },
+          "button1Href": "/lets-talk#demo",
+          "button2Text": {
+            "en": "Ask about ecosystem architecture",
+            "hr": "Pitajte o arhitekturi ekosustava"
+          },
+          "button2Href": "/lets-talk#ask"
+        }
       }
-    ],
-    "ctaText": { "en": "See how trust-driven ecosystems scale", "hr": "Pogledajte kako ekosustavi vođeni povjerenjem skaliraju" },
-    "ctaHref": "/who-we-create-for/poliderma"
-  },
-  "structure": {
-    "heading": { "en": "Why structure beats campaigns in health & beauty?", "hr": "Zašto struktura pobjeđuje kampanje u zdravstvu i ljepoti?" },
-    "text": { "en": "In health-related industries, trust compounds slowly, and breaks quickly.", "hr": "U industrijama povezanim sa zdravljem, povjerenje se sporo gradi, a brzo ruši." },
-    "accentText": { "en": "we design ecosystems where medical authority, content, UX and performance reinforce one another,", "hr": "dizajniramo ekosustave gdje se medicinski autoritet, sadržaj, UX i performanse međusobno podržavaju," },
-    "fullText": { "en": "Instead of running isolated campaigns, we design ecosystems where medical authority, content, UX and performance reinforce one another, allowing growth without compromising credibility.", "hr": "Umjesto vođenja izoliranih kampanja, dizajniramo ekosustave gdje se medicinski autoritet, sadržaj, UX i performanse međusobno podržavaju, omogućujući rast bez ugrožavanja vjerodostojnosti." }
-  },
-  "cta": {
-    "heading": { "en": "Ready to scale your health or beauty ecosystem without losing authority?", "hr": "Spremni skalirati svoj zdravstveni ili beauty ekosustav bez gubitka autoriteta?" },
-    "subtext": { "en": "Let's talk about structuring growth in regulated, trust-based industries.", "hr": "Razgovarajmo o strukturiranju rasta u reguliranim industrijama temeljenim na povjerenju." },
-    "button1Text": { "en": "Book a health strategy call", "hr": "Rezervirajte poziv za zdravstvenu strategiju" },
-    "button1Href": "/lets-talk#demo",
-    "button2Text": { "en": "Ask about ecosystem architecture", "hr": "Pitajte o arhitekturi ekosustava" },
-    "button2Href": "/lets-talk#ask"
-  }
+    }
+  ]
 }

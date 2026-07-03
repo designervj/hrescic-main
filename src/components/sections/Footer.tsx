@@ -3,7 +3,7 @@
 import React from "react";
 import { usePathname } from "next/navigation";
 import { Mail, Phone, MapPin, Linkedin, Instagram, Youtube, Facebook } from "lucide-react";
-import { footerData } from "@/lib/data/pageLoader";
+import footerData from "@/lib/data/pages/footerData.json";
 import { getLocalizedString, type LocaleCode, type LocalizedString } from "@/lib/i18n/locale";
 
 const iconMap: Record<string, React.ElementType> = {

@@ -11,6 +11,7 @@ interface Props {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
+
   const validLocale = locale === "hr" ? "hr" : "en";
 
   return (

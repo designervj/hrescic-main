@@ -7,10 +7,11 @@ import YouTube, { type YouTubeProps } from "react-youtube";
 import Link from "next/link";
 import Button from "@/components/shared/Button";
 import EditableText from "@/components/shared/EditableText";
-import type { PageBlock } from "@/lib/data/pageLoader";
+
 import { useLocale } from "@/lib/i18n/LocaleContext";
 import { getLocalizedString, type LocalizedString } from "@/lib/i18n/locale";
 import { useEditable } from "@/lib/store/pages/useEditable";
+import { PageBlock } from "@/lib/store/pages/pageType";
 
 interface ServiceCardsProps {
   sectionTitle: LocalizedString;
