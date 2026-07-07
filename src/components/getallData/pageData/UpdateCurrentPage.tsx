@@ -7,13 +7,10 @@ import { usePathname } from "next/navigation";
 
 import GetAllPage from "./GetAllPage";
 
-import dynamic from 'next/dynamic';
 import { setCurrentPages, setEditMode } from "@/lib/store/pages/pagesSlice";
 import { useAppDispatch } from "@/lib/store/hooks";
 import { RootState } from "@/lib/store/store";
 import { SUPPORTED_LOCALES } from "@/lib/i18n";
-
-const EditModeToggle = dynamic(() => import('@/components/EditMode/EditModeToggle/EditModeToggle'), { ssr: false });
 
 const UpdateCurrentPage = () => {
 
@@ -64,10 +61,7 @@ const UpdateCurrentPage = () => {
   }, [authUser,isAuthenticated]);
 
   return (
-    <>
-      <GetAllPage />
-      <EditModeToggle />
-    </>
+    <GetAllPage />
   )
 }
 export default UpdateCurrentPage

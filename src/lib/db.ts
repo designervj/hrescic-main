@@ -24,8 +24,21 @@ export async function connectClient(): Promise<MongoClient> {
 
   if (cachedClient.conn) return cachedClient.conn;
 
+  let uri = MONGODB_URI;
+  if (
+    uri?.startsWith("mongodb+srv://") &&
+    uri.includes("@kalpcluster.mr8bacs.mongodb.net")
+  ) {
+    uri = uri
+      .replace(
+        "@kalpcluster.mr8bacs.mongodb.net/",
+        "@ac-zxbieql-shard-00-00.mr8bacs.mongodb.net:27017,ac-zxbieql-shard-00-01.mr8bacs.mongodb.net:27017,ac-zxbieql-shard-00-02.mr8bacs.mongodb.net:27017/?ssl=true&replicaSet=atlas-vw7phq-shard-0&authSource=admin&retryWrites=true&w=majority",
+      )
+      .replace("mongodb+srv://", "mongodb://");
+  }
+
   if (!cachedClient.promise) {
-    cachedClient.promise = MongoClient.connect(MONGODB_URI);
+    cachedClient.promise = MongoClient.connect(uri);
   }
 
   try {

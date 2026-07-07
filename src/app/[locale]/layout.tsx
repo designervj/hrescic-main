@@ -3,6 +3,7 @@ import Footer from "@/components/sections/Footer";
 import LocaleScript from "./LocaleScript";
 import StoreProvider from "@/lib/store/StoreProvider";
 import UpdateCurrentPage from "@/components/getallData/pageData/UpdateCurrentPage";
+import AdminBar from "@/components/sections/AdminBar";
 
 interface Props {
   children: React.ReactNode;
@@ -17,6 +18,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <>
       <StoreProvider>
+        <AdminBar />
         <LocaleScript locale={validLocale} />
         <Header locale={validLocale} />
         <UpdateCurrentPage/>
