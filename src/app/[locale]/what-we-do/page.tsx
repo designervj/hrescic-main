@@ -4,7 +4,7 @@ import WhatWeDoPageRenderer from "@/components/pages/whatwedo/WhatWeDoPageRender
 import type { Metadata } from "next";
 import { PageBlock } from "@/lib/store/pages/pageType";
 
-const API_BASE = "https://kalptree.xyz/api/cms";
+const API_BASE = (process.env.FASTAPI_URL || "https://admin.kalptree.xyz/api").replace("/api", "/cms/api");
 
 async function fetchPageContent(slug: string) {
   const res = await fetch(`${API_BASE}/pages?slug=${slug}`, {

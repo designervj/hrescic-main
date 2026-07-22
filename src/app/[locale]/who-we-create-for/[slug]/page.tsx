@@ -4,7 +4,7 @@ import { getLocalizedString, type LocaleCode } from "@/lib/i18n/locale";
 import IndustrySubPage from "@/components/sections/who-we-create-for/IndustrySubPage";
 import CaseStudyPage from "@/components/sections/who-we-create-for/CaseStudyPage";
 
-const API_BASE = "https://kalptree.xyz/api/cms";
+const API_BASE = (process.env.FASTAPI_URL || "https://admin.kalptree.xyz/api").replace("/api", "/cms/api");
 const industrySlugs = ["tourism-travel", "education-e-learning", "health-pharma-beauty", "local-boutique-brands"] as const;
 const caseStudySlugs = ["myrent", "cdc", "castania", "poliderma", "expo-life-far-beyond", "loreal", "navada", "minglanje-v-klanjcu", "ids"] as const;
 const allSlugs = [...industrySlugs, ...caseStudySlugs];

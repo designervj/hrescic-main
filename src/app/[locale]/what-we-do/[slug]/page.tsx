@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { PageBlock } from "@/lib/store/pages/pageType";
 
-const API_BASE = "https://kalptree.xyz/api/cms";
+const API_BASE = (process.env.FASTAPI_URL || "https://admin.kalptree.xyz/api").replace("/api", "/cms/api");
 const validSlugs = ["branding-strategy", "web-digital", "content-marketing", "ai-video-production"] as const;
 
 async function fetchSubPageContent(slug: string) {

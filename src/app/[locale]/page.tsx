@@ -1,10 +1,11 @@
 import { getLocalizedString, type LocaleCode } from "@/lib/i18n/locale";
+import { notFound } from "next/navigation";
 
 import HomePageRenderer from "@/components/pages/homepages/HomePageRenderer";
 import type { Metadata } from "next";
 import { PageBlock } from "@/lib/store/pages/pageType";
 
-const API_BASE = "https://kalptree.xyz/api/cms";
+const API_BASE = (process.env.FASTAPI_URL || "https://admin.kalptree.xyz/api").replace("/api", "/cms/api");
 
 async function fetchPageContent(slug: string) {
   const res = await fetch(`${API_BASE}/pages?slug=${slug}`, {
@@ -14,7 +15,12 @@ async function fetchPageContent(slug: string) {
     },
     next: { revalidate: 60 },
   });
-  if (!res.ok) throw new Error(`Failed to fetch page: ${res.status}`);
+  if (!res.ok) {
+    if (res.status === 404) {
+      return { sections: [], metaTitle: null, metaDescription: null };
+    }
+    throw new Error(`Failed to fetch page: ${res.status}`);
+  }
   const body = await res.json();
   const page = body?.data ?? (Array.isArray(body) ? body[0] : body);
 

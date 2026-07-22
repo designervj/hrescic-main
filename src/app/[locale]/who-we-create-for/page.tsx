@@ -4,7 +4,7 @@ import WhoWeCreateForPageRenderer from "@/components/pages/whowecreatefor/WhoWeC
 import type { Metadata } from "next";
 import { PageBlock } from "@/lib/store/pages/pageType";
 
-const API_BASE = "https://kalptree.xyz/api/cms";
+const API_BASE = (process.env.FASTAPI_URL || "https://admin.kalptree.xyz/api").replace("/api", "/cms/api");
 
 async function fetchPageContent() {
   const res = await fetch(`${API_BASE}/pages?slug=who-we-create-for`, {
