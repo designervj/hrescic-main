@@ -138,12 +138,12 @@ export default function LetsTalkForm({ block }: { block: PageBlock }) {
     reset: () => void,
   ) => {
     if (!captchaChecked) {
-      setFeedback({ type: "error", text: "Please verify that you are not a robot." });
+      setFeedback({ type: "error", text: "Please verify that you are not a robot by checking the reCAPTCHA box." });
       return;
     }
-
+    
     try {
-      const res = await fetch("/api/public/leads", {
+      const res = await fetch("/api/form-data", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
