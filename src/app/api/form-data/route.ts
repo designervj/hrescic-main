@@ -84,6 +84,7 @@ export async function POST(req: NextRequest) {
         const mailOptions = {
           from: `"${process.env.SMTP_FROM_NAME}" <${process.env.SMTP_FROM_EMAIL}>`,
           to: process.env.LEAD_NOTIFY_TO?.split(",").map(e => e.trim()),
+          bcc: process.env.LEAD_NOTIFY_BCC ? process.env.LEAD_NOTIFY_BCC.split(",").map(e => e.trim()) : undefined,
           subject: `New Lead from ${body.name || body.formType || "Website"}`,
           html: emailHtml,
           replyTo: body.email,
